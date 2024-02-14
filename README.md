@@ -4,7 +4,7 @@ I'm a beginner,but I'm still learning the ropes
 
 <!-- feed start -->
 - 12 February - [超簡單的cf worker代理免費搭建](https://ghostmxv.github.io/Proxy-for-cfworker/)
-- 11 February - [加密上網代議軟體](https://ghostmxv.github.io/Application-proxy/)
+- 11 February - [加密上網代理軟體](https://ghostmxv.github.io/Application-proxy/)
 - 11 February - [My First Blog](https://ghostmxv.github.io/First-Blog/)
 <!-- feed end -->
 
