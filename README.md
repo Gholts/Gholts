@@ -1,11 +1,9 @@
 ### This is GholtsMxv
 
-I'm a beginner,but I'm still learning the ropes
-
 <!-- feed start -->
-- 12 February - [超簡單的cf worker代理免費搭建](https://ghostmxv.github.io/Proxy-for-cfworker/)
-- 11 February - [加密上網代理軟體](https://ghostmxv.github.io/Application-proxy/)
-- 11 February - [My First Blog](https://ghostmxv.github.io/First-Blog/)
+- 2月12日- [超簡單的cf worker代理免費搭建](https://ghostmxv.github.io/Proxy-for-cfworker/)
+- 2月11日- [加密上網代理軟體](https://ghostmxv.github.io/Application-proxy/)
+- 2月11日- [My First Blog](https://ghostmxv.github.io/First-Blog/)
 <!-- feed end -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHOSTEEEEEER&show_icons=true&theme=tokyonight)
