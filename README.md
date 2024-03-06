@@ -14,8 +14,4 @@
 
 ## GitHub數據總覽
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gholts&show_icons=true&theme=tokyonight)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gholts&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![profile-3d](./profile-3d-contrib/profile-night-green.svg)
