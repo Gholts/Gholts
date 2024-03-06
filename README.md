@@ -6,6 +6,8 @@
 - 11 February - [加密上網代理軟體](https://gholtsmxv.github.io/Application-proxy/)
 <!-- feed end -->
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1Dxg6XXOW7aZFiJgen1iyN?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gholts&show_icons=true&theme=tokyonight)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gholts&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
