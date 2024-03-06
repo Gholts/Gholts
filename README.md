@@ -11,7 +11,7 @@
 
 ## Steam
 
-![Steam Card](https://card.yuy1n.io/card/76561199492929554/tokyonight,en,badge,group,badges,games,reviews)
+![Steam Card](https://card.yuy1n.io/card/76561199492929554/tokyonight,en,badge,group,badges,games,reviews) <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">  
 
 ## Spotify Recently Played
 
@@ -20,3 +20,15 @@
 ## GitHub數據總覽
 
 ![github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gholts&theme=nord_dark)
+
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
