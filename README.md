@@ -10,8 +10,13 @@
 <!-- feed end -->
 
 ## Steam
+
 ![Steam Card](https://card.yuy1n.io/card/76561199492929554/tokyonight,en,badge,group,badges,games,reviews)
+
+## Spotify Recently Played
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9xd9z2ps59m3kxcuefkgmm52w&width=700)
 
 ## GitHub數據總覽
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gholts&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gholts&theme=nord_dark)
