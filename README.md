@@ -1,4 +1,5 @@
-# *This is GholtsMxv*(°ー°〃)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=5764B6&vCenter=true&random=false&width=600&height=45&lines=This+is+GholtsMxv(%C2%B0%E3%83%BC%C2%B0%E3%80%83))](https://git.io/typing-svg)
+-
 
 ## GholtsBlog update log🥸
 <!-- feed start -->
