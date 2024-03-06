@@ -7,7 +7,7 @@
 - 11 February - [加密上網代理軟體](https://gholtsmxv.github.io/Application-proxy/)
 <!-- feed end -->
 
-## 我的steam
+## Steam
 ![Steam Card](https://card.yuy1n.io/card/76561199492929554/tokyonight,en,badge,group,badges,games,reviews)
 
 ## GitHub數據總覽
