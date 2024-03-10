@@ -11,13 +11,7 @@
 
 ## Steam
 
-![Steam Card](https://card.yuy1n.io/card/76561199492929554/tokyonight,en,badge,group,badges,games,reviews) <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">  
-
-## Spotify Recently Played
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=9xd9z2ps59m3kxcuefkgmm52w">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=9xd9z2ps59m3kxcuefkgmm52w" alt="Data Card for Spotify">
-</a>
+![Steam Card](https://card.yuy1n.io/card/76561199492929554/tokyonight,en,badge,group,badges,games,reviews)
 
 ## GitHub數據總覽   ![](https://komarev.com/ghpvc/?username=Gholts&color=blueviolet&abbreviated=true)
 
@@ -34,3 +28,9 @@
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
 ```
+
+## Spotify Recently Played
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=9xd9z2ps59m3kxcuefkgmm52w">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=9xd9z2ps59m3kxcuefkgmm52w" alt="Data Card for Spotify">
+</a>
