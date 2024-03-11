@@ -16,6 +16,6 @@ jobs:
           format: '- ${day} ${monthlong} - [${title}](${url})'
           timezone: 'Asia/Hong_Kong'
           url: |
-            https://gholtsmxv.github.io/feed.xml
+            https://blog.gholts.top/feed.xml
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
