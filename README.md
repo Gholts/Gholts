@@ -17,18 +17,6 @@
 
 ![github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gholts&theme=nord_dark)
 
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
-
 ## Spotify Recently Played
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=9xd9z2ps59m3kxcuefkgmm52w">
