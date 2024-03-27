@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GholtsMxv&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=44&desc=Be%20yourself,%20be%20who%20you%20want%20to%20be&section=header&reversal=false)  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Disguised%20Face.png" alt="Disguised Face" width="100" height="100" />  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=5764B6&vCenter=true&random=false&width=600&height=45&lines=This+is+GholtsMxv(%C2%B0%E3%83%BC%C2%B0%E3%80%83))](https://github.com/Gholts)
 
 ## GholtsBlog update log🥸
 <!-- feed start -->
