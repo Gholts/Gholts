@@ -3,10 +3,11 @@
 
 ## GholtsBlog update log🥸
 <!-- feed start -->
+- 27 March - [定製你的Spotify⑴](https://blog.gholts.top/posts/Customize-Spotify/)
 - 9 March - [利用YT-DLP下載幾乎任何影片](https://blog.gholts.top/posts/Download-videos-for-free-on-Website/)
 - 5 March - [利用SpotDL下載Spotify音乐](https://blog.gholts.top/posts/Download-music-for-free-on-Spotify/)
 - 12 February - [CFworker代理免費搭建](https://blog.gholts.top/posts/Proxy-for-cfworker/)
-- 11 February - [加密上網代理軟體](https://blog.gholts.top/posts/proxy-software/)
+- 11 February - [加密上網代理軟體](https://blog.gholts.top/posts/Proxy-software/)
 <!-- feed end -->
 
 ## Steam
