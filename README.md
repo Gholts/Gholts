@@ -2,7 +2,7 @@
 
 ### **GholtsBlog update log🥸**
 <!-- feed start -->
-- 27 March 2024 - [客製化Spotify⑴](https://blog.gholts.top/posts/Customize-Spotify/)
+- 27 March 2024 - [客製化Spotify [Ⅰ]](https://blog.gholts.top/posts/Customize-Spotify/)
 - 9 March 2024 - [利用YT-DLP下載幾乎任何影片](https://blog.gholts.top/posts/Download-videos-for-free-on-Website/)
 - 5 March 2024 - [利用SpotDL下載Spotify音樂](https://blog.gholts.top/posts/Download-music-for-free-on-Spotify/)
 - 12 February 2024 - [CFworker Proxy免費搭建](https://blog.gholts.top/posts/Proxy-for-cfworker/)
