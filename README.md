@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GholtsMxv&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=44&desc=Be%20yourself,%20be%20who%20you%20want%20to%20be&section=header&reversal=false)  
 
-### **GholtsBlog update log** <img src="https://image.gholts.top/file/99d6feaefabf9c24dd0e3.png" alt="1" width="45" height="30" />
+### **GholtsBlog update log** <img src="https://image.gholts.top/file/99d6feaefabf9c24dd0e3.png" alt="1" width="45" height="45" />
 
 🥲👉<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/awesome-china.png" width="87"></a>
 
