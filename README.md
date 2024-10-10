@@ -5,11 +5,11 @@
 🥲👉<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/awesome-china.png" width="87"></a>
 
 <!-- feed start -->
+- 10 October 2024 - [德語學習流程](https://blog.gholts.top/posts/Learning-German-Process/)
 - 2 April 2024 - [客製化 Spotify [Ⅱ]](https://blog.gholts.top/posts/Customize-Spotify-style/)
 - 27 March 2024 - [客製化 Spotify [Ⅰ]](https://blog.gholts.top/posts/Customize-Spotify/)
 - 9 March 2024 - [利用 YT-DLP 下載幾乎任何影片](https://blog.gholts.top/posts/Download-videos-for-free-on-Website/)
 - 5 March 2024 - [利用 SpotDL 下載 Spotify 音樂](https://blog.gholts.top/posts/Download-music-for-free-on-Spotify/)
-- 12 February 2024 - [CFworker Proxy 免費搭建](https://blog.gholts.top/posts/Proxy-for-cfworker/)
 <!-- feed end -->
 
 ---
