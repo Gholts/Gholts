@@ -2,7 +2,7 @@
 
 ### **GholtsBlog update log** <img src="https://image.gholts.top/file/99d6feaefabf9c24dd0e3.png" alt="1" width="45" height="45" />
 
-🥲👉<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/awesome-china.png" width="87"></a>
+🥲👉 <a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/awesome-china.png" width="100"></a>
 
 <!-- feed start -->
 - 10 October 2024 - [德語學習流程](https://blog.gholts.top/posts/Learning-German-Process/)
