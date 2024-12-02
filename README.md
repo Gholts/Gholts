@@ -20,7 +20,7 @@
 
 ### **Discord**
 
-![Discord Card](https://discord.c99.nl/widget/theme-1/1079047242352169083.png)
+![Discord Card](https://discord.c99.nl/widget/theme-3/1079047242352169083.png)
 
 ---
 
