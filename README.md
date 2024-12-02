@@ -1,6 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GholtsMxv&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=44&desc=Be%20yourself,%20be%20who%20you%20want%20to%20be&section=header&reversal=false)  
+## Hi, I'm Gholts aka. ghost👋
 
-### **GholtsBlog update log** 🥲👉 <a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/awesome-china.png" width="100"></a>
+[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/X/b5b5b5" />][twitter]
+[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Gmail/b5b5b5" />][gmail]
+[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Telegram/b5b5b5" />][telegram]
+[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Spotify/b5b5b5" />][spotify]
+[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/archlinux/b5b5b5" />][arch]
+<br />
+
+
+## **Gholts' Blog update log**📋
 
 <!-- feed start -->
 - 30 October 2024 - [Sleep better & Dopamine detox](https://blog.gholts.top/posts/Sleep-better-&-Dopamine-detox/)
@@ -12,26 +20,25 @@
 
 ---
 
-### **Steam**
-
-![Steam Card](https://card.yuy1n.io/card/76561199492929554/tokyonight,en,badge,group,badges,games,reviews)
-
----
-
-### **Discord**
-
+### **Discord**🗨️
 ![Discord Card](https://discord.c99.nl/widget/theme-3/1079047242352169083.png)
 
+### **Spotify Recently Played** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Steam**
+
+<p><img src="https://card.yuy1n.io/card/76561199492929554/tokyonight,en,badge,group,badges,games,reviews" alt="Steam Card"><img src="https://spotify-recently-played-readme.vercel.app/api?user=9xd9z2ps59m3kxcuefkgmm52w&amp;count=2&amp;width=340" alt="Spotify Recently Played" align="left" height="148px></p>
+
 ---
 
-### **GitHub數據總覽**   ![](https://komarev.com/ghpvc/?username=Gholts&color=blueviolet&abbreviated=true)
+### **GitHub數據總覽**
 
 ![github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gholts&theme=nord_dark)
 
+<p><img src="https://komarev.com/ghpvc/?username=Gholts&amp;color=lightgrey&amp;abbreviated=true&amp;style=for-the-badge" alt="cool" align="right" ></p>
+
 ---
 
-### **Spotify Recently Played**
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=9xd9z2ps59m3kxcuefkgmm52w">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=9xd9z2ps59m3kxcuefkgmm52w" alt="Data Card for Spotify">
-</a>
+[twitter]: https://x.com/GhostMxv/
+[telegram]: https://t.me/Gholts_bot/
+[gmail]: mailto:gholtsmxv@gholts.top
+[spotify]: https://open.spotify.com/user/9xd9z2ps59m3kxcuefkgmm52w/
+[arch]: https://wiki.archlinux.org/
