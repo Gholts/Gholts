@@ -23,7 +23,7 @@
 ### **Discord**🗨️
 ![Discord Card](https://discord.c99.nl/widget/theme-3/1079047242352169083.png)
 
-### **Spotify Recently Played🎶** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; **Steam🕹️**
+### **Spotify Recently Played🎶** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Steam🕹️**
 
 <p><img src="https://card.yuy1n.io/card/76561199492929554/tokyonight,en,badge,group,badges,games,reviews" alt="Steam Card"><img src="https://spotify-recently-played-readme.vercel.app/api?user=9xd9z2ps59m3kxcuefkgmm52w&amp;count=2&amp;width=340" alt="Spotify Recently Played" align="left" height="148px></p>
 
