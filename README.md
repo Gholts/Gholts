@@ -31,11 +31,13 @@
 
 ### **GitHub數據總覽**
 
-![github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gholts&theme=nord_dark)
-
-<p><img src="https://komarev.com/ghpvc/?username=Gholts&amp;color=lightgrey&amp;abbreviated=true&amp;style=for-the-badge" alt="cool" align="right" ></p>
+<p><img src="https://komarev.com/ghpvc/?username=Gholts&amp;color=lightgrey&label=github%20visits&amp;abbreviated=true&amp;style=for-the-badge" alt="cool" align="right" ></p>
 
 ---
+
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gholts&amp;theme=date_night" alt=""><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'></p>
+
+
 
 [twitter]: https://x.com/GhostMxv/
 [telegram]: https://t.me/Gholts_bot/
