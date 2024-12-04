@@ -11,11 +11,11 @@
 ## **Gholts' Blog update log**📋
 
 <!-- feed start -->
+- 4 December 2024 - [Yasb reborn configuration set up experience](https://blog.gholts.top/posts/Yasb-reborn-configuration-set-up-experience/)
 - 30 October 2024 - [Sleep better & Dopamine detox](https://blog.gholts.top/posts/Sleep-better-&-Dopamine-detox/)
 - 10 October 2024 - [德語學習流程](https://blog.gholts.top/posts/Learning-German-Process/)
 - 2 April 2024 - [客製化 Spotify [Ⅱ]](https://blog.gholts.top/posts/Customize-Spotify-style/)
 - 27 March 2024 - [客製化 Spotify [Ⅰ]](https://blog.gholts.top/posts/Customize-Spotify/)
-- 9 March 2024 - [利用 YT-DLP 下載幾乎任何影片](https://blog.gholts.top/posts/Download-videos-for-free-on-Website/)
 <!-- feed end -->
 
 ---
