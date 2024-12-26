@@ -25,13 +25,12 @@
 
 ### **Spotify Recently Played🎶** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Steam🕹️**
 
-<p><img src="https://card.yuy1n.io/card/76561199492929554/dark,en,badge,group,bg-212121,badges,games,reviews" alt="Steam Card"><img src="https://spotify-recently-played-readme.vercel.app/api?user=9xd9z2ps59m3kxcuefkgmm52w&amp;count=2&amp;width=340" alt="Spotify Recently Played" align="left" height="150px></p>
+<p><img src="https://card.yuy1n.io/card/76561199492929554/dark,en,badge,group,bg-212121,badges,games,reviews" alt="Steam Card"><img src="https://spotify-recently-played-readme.vercel.app/api?user=9xd9z2ps59m3kxcuefkgmm52w&amp;count=2&amp;width=340" alt="Spotify Recently Played" align="left" height="150px"></p>
 
----
 
 ### **GitHub數據總覽**
 
-<p><img src="https://komarev.com/ghpvc/?username=Gholts&amp;color=lightgrey&label=github%20visits&amp;abbreviated=true&amp;style=for-the-badge" alt="cool" align="right" ></p>
+<p><img src="https://komarev.com/ghpvc/?username=Gholts&amp;color=lightgrey&label=github%20visits&amp;abbreviated=true&amp;style=for-the-badge" alt="cool" align="right"></p>
 
 ---
 
