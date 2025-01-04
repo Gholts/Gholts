@@ -11,11 +11,11 @@
 ## **Gholts' Blog update log**📋
 
 <!-- feed start -->
+- 4 January 2025 - [客製化 Discord [ Desktop ]](https://blog.gholts.top/posts/Customize-Discord/)
 - 8 December 2024 - [Arch linux 清理空間](https://blog.gholts.top/posts/Clean-Arch-linux-cache/)
 - 8 December 2024 - [美化你的 clash verge rev](https://blog.gholts.top/posts/Clash-verge-rev-theme-scheme/)
 - 4 December 2024 - [Yasb reborn configuration set up experience](https://blog.gholts.top/posts/Yasb-reborn-configuration-set-up-experience/)
 - 30 October 2024 - [Sleep better & Dopamine detox](https://blog.gholts.top/posts/Sleep-better-&-Dopamine-detox/)
-- 10 October 2024 - [德語學習流程](https://blog.gholts.top/posts/Learning-German-Process/)
 <!-- feed end -->
 
 ---
