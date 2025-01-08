@@ -2,6 +2,7 @@
 
 [<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/X/b5b5b5" />][twitter]
 [<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Gmail/b5b5b5" />][gmail]
+[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Discord/b5b5b5" />][discord]
 [<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Telegram/b5b5b5" />][telegram]
 [<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Spotify/b5b5b5" />][spotify]
 [<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/archlinux/b5b5b5" />][arch]
@@ -42,6 +43,7 @@
 
 [twitter]: https://x.com/GhostMxv/
 [telegram]: https://t.me/Gholts_bot/
+[discord]: https://discord.com/users/1079047242352169083
 [gmail]: mailto:gholtsmxv@gholts.top
 [spotify]: https://open.spotify.com/user/9xd9z2ps59m3kxcuefkgmm52w/
 [arch]: https://wiki.archlinux.org/
