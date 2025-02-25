@@ -2,7 +2,7 @@
     <table>
         <tr>
           <td>
-            <img align="right" src="https://raw.githubusercontent.com/Gholts/Gholts/refs/heads/main/Github%20Octocat.gif" alt="Octocat" height="130" weight="130"/>
+            <img align="right" src="https://raw.githubusercontent.com/Gholts/Gholts/refs/heads/main/Github%20Octocat.gif" alt="Octocat" width="130"/>
             <div align="center">
                 
 ### Hi, I'm Gholts aka. ghost👋
