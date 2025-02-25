@@ -2,7 +2,7 @@
     <table>
         <tr>
           <td>
-            <img align="right" src="https://raw.githubusercontent.com/Gholts/Gholts/refs/heads/main/Github%20Octocat.gif" alt="Octocat" height="130"/>
+            <img align="right" src="https://raw.githubusercontent.com/Gholts/Gholts/refs/heads/main/Github%20Octocat.gif" alt="Octocat" height="130" weight="130"/>
             <div align="center">
                 
 ### Hi, I'm Gholts aka. ghost👋
@@ -45,14 +45,6 @@
 <!-- feed end -->
 
 </div></td></tr>
-        <tr>
-            <td colspan="2">
-                <img
-                src="https://github-readme-stats-ohitstoms-projects.vercel.app/api/top-langs/?username=OhItsTom&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
-                alt="Stats"
-                />
-            </td>
-        </tr>
     </table>
     <kbd align="center">
         <a href="https://github.com/Gholts">
