@@ -37,11 +37,11 @@
 </div><div align="left">
   
 <!-- feed start -->
+- 24 March 2025 - [不簡單的 Windows 11 LTSC 安裝和客製化](https://blog.gholts.top/posts/windows-reinstall-setup-thinking/)
 - 10 January 2025 - [透過 Stylus 美化任何網頁（瀏覽器推薦）](https://blog.gholts.top/posts/Stylus/)
 - 5 January 2025 - [客製化 Discord [ Android ]](https://blog.gholts.top/posts/Customize-Discord-Android/)
 - 4 January 2025 - [客製化 Discord [ Desktop ]](https://blog.gholts.top/posts/Customize-Discord/)
 - 8 December 2024 - [Arch linux 清理空間](https://blog.gholts.top/posts/Clean-Arch-linux-cache/)
-- 8 December 2024 - [美化你的 clash verge rev](https://blog.gholts.top/posts/Clash-verge-rev-theme-scheme/)
 <!-- feed end -->
 
 </div></td></tr>
