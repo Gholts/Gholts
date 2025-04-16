@@ -32,7 +32,7 @@
             <td colspan="2">
                 <div align="center">
 
-### Gholts' Blog Update Log📋
+### Recent Posts📋
 
 </div><div align="left">
   
