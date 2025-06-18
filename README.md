@@ -53,7 +53,7 @@
 </div>
 
 [twitter]: https://x.com/GhostMxv/
-[telegram]: https://t.me/Gholts_bot/
+[telegram]: https://t.me/Gholts0c/
 [discord]: https://discord.com/users/1079047242352169083
 [gmail]: mailto:gholtsmxv@gholts.top
 [spotify]: https://open.spotify.com/user/9xd9z2ps59m3kxcuefkgmm52w/
