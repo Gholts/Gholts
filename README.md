@@ -1,12 +1,4 @@
-<div align="left"><table><kbd>
-
-[<img align="left" alt="" width="20px" src="assets/mail.svg" />][mail]
-[<img align="left" alt="" width="20px" src="assets/telegram.svg" />][telegram]
-[<img align="left" alt="" width="20px" src="assets/twitter.svg" />][twitter]
-
-</kbd>
-    </table>
-    <table><tr><td><div align="center">
+<div align="left">    <table><tr><td><div align="center">
 
 ### Recent Posts📋
 
@@ -23,8 +15,17 @@
 </div><td>
                 <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&redirect=true" target="_self" title="Open In Spotify">
                     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=9xd9z2ps59m3kxcuefkgmm52w&cover_image=true&theme=compact&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true" style="height: 270px" /></a>
-            </td></tr></table></div>
-
-[twitter]: https://x.com/GhostMxv/
-[telegram]: https://t.me/Gholts0c/
-[mail]: mailto:gholts0@icloud.com
+            </td></tr></table>
+<kbd align="left">
+        <a href="https://github.com/Gholts">
+            <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=flat" alt="cool" height="30" /></a>
+    </kbd>
+<kbd align="center">
+        <a href="https://t.me/Gholts0c/">
+            <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat" alt="cool" height="30" /></a>
+    </kbd>
+<kbd align="center">
+        <a href="mailto:gholts0@icloud.com">
+            <img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=flat" alt="cool" height="30" /></a>
+    </kbd>
+</div>
