@@ -1,26 +1,13 @@
-<div align="center">
-    <table>
-        <tr>
-          <td>
-            <img align="right" src="https://raw.githubusercontent.com/Gholts/Gholts/refs/heads/main/Github%20Octocat.gif" alt="Octocat" width="130"/>
-            <div align="center">
-                
-### Hi, I'm Gholts aka. ghost👋
+<div align="left"><table><kbd>
 
-<kbd>
-
-[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Gmail/b5b5b5" />][gmail]
+[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/mail/b5b5b5" />][mail]
 [<img align="left" alt="" width="31px" src="https://cdn.simpleicons.org/Telegram/b5b5b5" />][telegram]
-[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Discord/b5b5b5" />][discord]
 [<img align="left" alt="" width="30px" src="https://cdn.simpleicons.org/X/b5b5b5" />][twitter]
 [<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Spotify/b5b5b5" />][spotify]
 
-</kbd></div></td></tr>
+</kbd>
     </table>
-    <table>
-        <tr>
-            <td>
-                    <div align="center">
+    <table><tr><td><div align="center">
 
 ### Recent Posts📋
 
@@ -46,6 +33,5 @@
 
 [twitter]: https://x.com/GhostMxv/
 [telegram]: https://t.me/Gholts0c/
-[discord]: https://discord.com/users/1079047242352169083
-[gmail]: mailto:gholtsmxv@gholts.top
+[mail]: mailto:gholts0@icloud.com
 [spotify]: https://open.spotify.com/user/9xd9z2ps59m3kxcuefkgmm52w/
