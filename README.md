@@ -1,4 +1,4 @@
-<div align="left">    <table><tr><td><div align="center">
+<div align="center">    <table><tr><td><div align="center">
 
 ### Recent Posts📋
 
@@ -17,14 +17,14 @@
                     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=9xd9z2ps59m3kxcuefkgmm52w&cover_image=true&theme=compact&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true" style="height: 270px" /></a>
             </td></tr></table>
 <kbd align="left">
-        <a href="https://github.com/Gholts">
+        <a href="https://x.com/GhostMxv/">
             <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=flat" alt="cool" height="30" /></a>
     </kbd>
-<kbd align="center">
+<kbd align="left">
         <a href="https://t.me/Gholts0c/">
             <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat" alt="cool" height="30" /></a>
     </kbd>
-<kbd align="center">
+<kbd align="left">
         <a href="mailto:gholts0@icloud.com">
             <img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=flat" alt="cool" height="30" /></a>
     </kbd>
