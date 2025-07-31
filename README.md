@@ -1,8 +1,8 @@
 <div align="left"><table><kbd>
 
-[<img align="left" alt="" width="32px" src="assets/mail.svg" />][mail]
-[<img align="left" alt="" width="31px" src="assets/telegram.svg" />][telegram]
-[<img align="left" alt="" width="30px" src="assets/twitter.svg" />][twitter]
+[<img align="left" alt="" width="20px" src="assets/mail.svg" />][mail]
+[<img align="left" alt="" width="20px" src="assets/telegram.svg" />][telegram]
+[<img align="left" alt="" width="20px" src="assets/twitter.svg" />][twitter]
 
 </kbd>
     </table>
