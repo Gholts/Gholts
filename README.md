@@ -20,17 +20,7 @@
     <table>
         <tr>
             <td>
-                <img src="https://discord.c99.nl/widget/theme-4/1079047242352169083.png" alt="Discord Status" />
-                <br />
-                <img src="https://card.yuy1n.io/card/76561199492929554/dark,en,badge,group,bg-transparent,badges,games,reviews" alt="Steam card" /></td>
-            <td>
-                <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&redirect=true" target="_self" title="Open In Spotify">
-                    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=9xd9z2ps59m3kxcuefkgmm52w&cover_image=true&theme=compact&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true" style="height: 270px" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <div align="center">
+                    <div align="center">
 
 ### Recent Posts📋
 
@@ -44,8 +34,10 @@
 - 5 January 2025 - [客製化 Discord [ Android ]](https://blog.gholts.top/posts/Customize-Discord-Android/)
 <!-- feed end -->
 
-</div></td></tr>
-    </table>
+</div><td>
+                <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&redirect=true" target="_self" title="Open In Spotify">
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=9xd9z2ps59m3kxcuefkgmm52w&cover_image=true&theme=compact&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true" style="height: 270px" /></a>
+            </td></tr></table>
     <kbd align="center">
         <a href="https://github.com/Gholts">
             <img src="https://komarev.com/ghpvc/?username=Gholts&amp;color=lightgrey&label=github%20visits&amp;abbreviated=true&amp;style=for-the-badge" alt="cool" height="30" /></a>
