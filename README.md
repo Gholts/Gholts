@@ -1,9 +1,8 @@
 <div align="left"><table><kbd>
 
-[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/mail/b5b5b5" />][mail]
-[<img align="left" alt="" width="31px" src="https://cdn.simpleicons.org/Telegram/b5b5b5" />][telegram]
-[<img align="left" alt="" width="30px" src="https://cdn.simpleicons.org/X/b5b5b5" />][twitter]
-[<img align="left" alt="" width="32px" src="https://cdn.simpleicons.org/Spotify/b5b5b5" />][spotify]
+[<img align="left" alt="" width="32px" src="assets/mail.svg" />][mail]
+[<img align="left" alt="" width="31px" src="assets/telegram.svg" />][telegram]
+[<img align="left" alt="" width="30px" src="assets/twitter.svg" />][twitter]
 
 </kbd>
     </table>
@@ -24,14 +23,8 @@
 </div><td>
                 <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&redirect=true" target="_self" title="Open In Spotify">
                     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=9xd9z2ps59m3kxcuefkgmm52w&cover_image=true&theme=compact&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true" style="height: 270px" /></a>
-            </td></tr></table>
-    <kbd align="center">
-        <a href="https://github.com/Gholts">
-            <img src="https://komarev.com/ghpvc/?username=Gholts&amp;color=lightgrey&label=github%20visits&amp;abbreviated=true&amp;style=for-the-badge" alt="cool" height="30" /></a>
-    </kbd>
-</div>
+            </td></tr></table></div>
 
 [twitter]: https://x.com/GhostMxv/
 [telegram]: https://t.me/Gholts0c/
 [mail]: mailto:gholts0@icloud.com
-[spotify]: https://open.spotify.com/user/9xd9z2ps59m3kxcuefkgmm52w/
