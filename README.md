@@ -8,11 +8,8 @@
         <div align="left">
         
 <!-- feed start -->
-- 19 June 2025 - [華為的智慧生活 App 是一個垃圾](https://blog.gholts.top/posts/Huawei-AI-ios-app-Shortcuts-are-mess/)
-- 22 April 2025 - [在 WSL2 on Windows 中安裝 MacOS](https://blog.gholts.top/posts/Install-macos-in-archlinux-base-on-wsl2/)
-- 24 March 2025 - [不簡單的 Windows 11 LTSC 安裝和客製化](https://blog.gholts.top/posts/windows-reinstall-setup-thinking/)
-- 10 January 2025 - [透過 Stylus 美化任何網頁（瀏覽器推薦）](https://blog.gholts.top/posts/Stylus/)
-- 5 January 2025 - [客製化 Discord [ Android ]](https://blog.gholts.top/posts/Customize-Discord-Android/)
+- 30 July 2025 - [Wireguard running on loon and stash](https://gholts.top/posts/wireguard/)
+- 27 July 2025 - [Squirrel configuration](https://gholts.top/posts/squirrel-config/)
 <!-- feed end -->
         
 </div>
