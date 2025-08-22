@@ -35,6 +35,15 @@
   <kbd>
     <a href="https://x.com/GhostMxv/">
       <img
+        src="https://img.shields.io/badge/Blog-black?logo=astro&logoColor=white&style=flat"
+        alt="Blog"
+        height="30"
+      />
+    </a>
+  </kbd>
+  <kbd>
+    <a href="https://x.com/GhostMxv/">
+      <img
         src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=flat"
         alt="Twitter"
         height="30"
