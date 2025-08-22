@@ -33,7 +33,7 @@
 
 <div align="left">
   <kbd>
-    <a href="https://x.com/GhostMxv/">
+    <a href="https://gholts.top/">
       <img
         src="https://img.shields.io/badge/Blog-black?logo=astro&logoColor=white&style=flat"
         alt="Blog"
