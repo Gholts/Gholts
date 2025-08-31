@@ -32,6 +32,7 @@
           <img 
             src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000057.cc0dfc603fa94cc69d1b8038f1ca199e.1825"
             alt="Apple Music GitHub profile"
+            style="height: 270px"
           />
         </a>
       </td>
