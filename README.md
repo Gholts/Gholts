@@ -16,14 +16,22 @@
 </div>
       </td>
       <td>
-        <a
-          href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&redirect=true"
-          target="_self"
-          title="Open In Spotify"
+        <!-- <a -->
+        <!--   href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&redirect=true" -->
+        <!--   target="_self" -->
+        <!--   title="Open In Spotify" -->
+        <!-- > -->
+        <!--   <img -->
+        <!--     src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=9xd9z2ps59m3kxcuefkgmm52w&cover_image=true&theme=compact&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true" -->
+        <!--     style="height: 270px" -->
+        <!--   /> -->
+        <!-- </a> -->
+        <a 
+            href="https://music-profile.rayriffy.com"
         >
-          <img
-            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=9xd9z2ps59m3kxcuefkgmm52w&cover_image=true&theme=compact&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
-            style="height: 270px"
+          <img 
+            src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000057.cc0dfc603fa94cc69d1b8038f1ca199e.1825"
+            alt="Apple Music GitHub profile"
           />
         </a>
       </td>
