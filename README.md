@@ -8,9 +8,10 @@
         <div align="left">
         
 <!-- feed start -->
-- 9 August 2025 - [Mihomo and Stash config](https://gholts.top/posts/yaml/)
-- 30 July 2025 - [Wireguard running on loon and stash](https://gholts.top/posts/wireguard/)
-- 27 July 2025 - [Squirrel configuration](https://gholts.top/posts/squirrel-config/)
+- 10 September 2025 - [Mihomo Config Update](https://gholts.top/posts/yaml-update/)
+- 9 August 2025 - [Mihomo and Stash Config](https://gholts.top/posts/yaml/)
+- 30 July 2025 - [Wireguard Running on Loon and Stash](https://gholts.top/posts/wireguard/)
+- 27 July 2025 - [Squirrel Configuration](https://gholts.top/posts/squirrel-config/)
 <!-- feed end -->
         
 </div>
