@@ -8,6 +8,7 @@
         <div align="left">
         
 <!-- feed start -->
+- 14 September 2025 - [Make $HOME More Exquisite](https://gholts.top/posts/home-dir-organization/)
 - 10 September 2025 - [Mihomo Config Update](https://gholts.top/posts/yaml-update/)
 - 9 August 2025 - [Mihomo and Stash Config](https://gholts.top/posts/yaml/)
 - 30 July 2025 - [Wireguard Running on Loon and Stash](https://gholts.top/posts/wireguard/)
