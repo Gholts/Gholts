@@ -19,13 +19,13 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 7}-->
-> 🎶 **[ALL MY FELLAS](https://www.last.fm/music/Frizk/_/ALL+MY+FELLAS)** - Frizk<br/>
+> 🎶 **[会魔法的老人](https://www.last.fm/music/Pharaoh/_/%E4%BC%9A%E9%AD%94%E6%B3%95%E7%9A%84%E8%80%81%E4%BA%BA)** - Pharaoh<br/>
+> ∙ **[夜明けと蛍](https://www.last.fm/music/n-buna/_/%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A8%E8%9B%8D)** - n-buna<br/>
+> ∙ **[ALL MY FELLAS](https://www.last.fm/music/Frizk/_/ALL+MY+FELLAS)** - Frizk<br/>
 > ∙ **[Beneath the Mask -Rain, (Instrumental Version)-](https://www.last.fm/music/Lyn/_/Beneath+the+Mask+-Rain,+(Instrumental+Version)-)** - Lyn<br/>
 > ∙ **[Caught You at the Perfect Time](https://www.last.fm/music/Superintendent+McCupcakes/_/Caught+You+at+the+Perfect+Time)** - Superintendent McCupcakes<br/>
 > ∙ **[Mockingbird](https://www.last.fm/music/Eminem/_/Mockingbird)** - Eminem<br/>
 > ∙ **[Blush (feat. Mylk)](https://www.last.fm/music/Fusq/_/Blush+(feat.+Mylk))** - Fusq<br/>
-> ∙ **[Beach Walkin](https://www.last.fm/music/Lofiium/_/Beach+Walkin)** - Lofiium<br/>
-> ∙ **[Fable (Dream Radio)](https://www.last.fm/music/Robert+Miles/_/Fable+(Dream+Radio))** - Robert Miles<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
