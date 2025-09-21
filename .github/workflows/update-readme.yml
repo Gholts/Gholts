@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: '0 */5 * * *'
   workflow_dispatch:
-
 jobs:
   update-lastfm:
     name: Update Music Stats
@@ -16,12 +15,13 @@ jobs:
           LASTFM_USER: GhostMxv
           SHOW_TITLE: false
           LOCALE: en-US
-
   update-feed:
     needs: update-lastfm
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Pull latest changes
+        run: git pull
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
