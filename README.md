@@ -23,7 +23,7 @@
         </div>
         <div align="left">
         
-<!--START_LASTFM_RECENT:{"rows": 5}-->
+<!--START_LASTFM_RECENT:{"rows": 6}-->
 - **[Bear](https://www.last.fm/music/Soft+Lipa/_/Bear)** - Soft Lipa<br/>
 - **[LOVE 2000](https://www.last.fm/music/Hitomi/_/LOVE+2000)** - Hitomi<br/>
 - **[Feel Good Inc](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc)** - Gorillaz<br/>
