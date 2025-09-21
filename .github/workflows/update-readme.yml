@@ -35,7 +35,7 @@ jobs:
         id: feed
         with:
           file: 'README.md'
-          max_entry: 7
+          max_entry: 6
           format: '- ${monthshort} ${day} ${year} - [${title}](${url})'
           timezone: 'Asia/Hong_Kong'
           url: |
