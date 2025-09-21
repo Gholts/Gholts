@@ -8,6 +8,11 @@
         <div align="left">
         
 <!-- feed start -->
+- Sep 14 2025 - [Make $HOME More Exquisite](https://gholts.top/posts/home-dir-organization/)
+- Sep 10 2025 - [Mihomo Config Update](https://gholts.top/posts/yaml-update/)
+- Aug 9 2025 - [Mihomo and Stash Config](https://gholts.top/posts/yaml/)
+- Jul 30 2025 - [Wireguard Running on Loon and Stash](https://gholts.top/posts/wireguard/)
+- Jul 27 2025 - [Squirrel Configuration](https://gholts.top/posts/squirrel-config/)
 <!-- feed end -->
         
 </div>
