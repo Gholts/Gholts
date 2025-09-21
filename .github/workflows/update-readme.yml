@@ -15,6 +15,7 @@ jobs:
           LASTFM_USER: GhostMxv
           SHOW_TITLE: false
           LOCALE: en-US
+      - uses: actions/checkout@v3
       - name: Remove blockquote from README
         run: |
           sed -i 's/> 🎶/-/g' README.md
