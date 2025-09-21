@@ -1,0 +1,35 @@
+name: Update Readme File
+on:
+  schedule:
+    - cron: '0 */5 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-lastfm:
+    name: Update Music Stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Last.fm README
+        uses: dxnter/lastfm-readme@v1.6.0
+        with:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: GhostMxv
+          SHOW_TITLE: false
+          LOCALE: en-US
+
+  update-feed:
+    needs: update-lastfm
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          file: 'README.md'
+          max_entry: 7
+          format: '- ${monthshort} ${day} ${year} - [${title}](${url})'
+          timezone: 'Asia/Hong_Kong'
+          url: |
+            https://gholts.top/rss.xml
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
