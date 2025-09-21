@@ -15,6 +15,12 @@ jobs:
           LASTFM_USER: GhostMxv
           SHOW_TITLE: false
           LOCALE: en-US
+      - name: Remove blockquote from README
+        run: |
+          sed -i 's/> 🎶/-/g' README.md
+          sed -i 's/> ∙/-/g' README.md
+      - name: Commit
+        uses: sarisia/actions-commit@master
   update-feed:
     needs: update-lastfm
     runs-on: ubuntu-latest
