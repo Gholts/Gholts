@@ -24,11 +24,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Bear](https://www.last.fm/music/Soft+Lipa/_/Bear)** - Soft Lipa<br/>
-- **[LOVE 2000](https://www.last.fm/music/Hitomi/_/LOVE+2000)** - Hitomi<br/>
-- **[Feel Good Inc](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc)** - Gorillaz<br/>
-- **[My Name Is](https://www.last.fm/music/Eminem/_/My+Name+Is)** - Eminem<br/>
-- **[GO!!!](https://www.last.fm/music/Flow/_/GO!!!)** - Flow<br/>
+> 🎶 **[Baianá](https://www.last.fm/music/Bakermat/_/Baian%C3%A1)** - Bakermat<br/>
+> ∙ **[Piece Of Streets](https://www.last.fm/music/Molife/_/Piece+Of+Streets)** - Molife<br/>
+> ∙ **[Bear](https://www.last.fm/music/Soft+Lipa/_/Bear)** - Soft Lipa<br/>
+> ∙ **[LOVE 2000](https://www.last.fm/music/Hitomi/_/LOVE+2000)** - Hitomi<br/>
+> ∙ **[Feel Good Inc](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc)** - Gorillaz<br/>
+> ∙ **[My Name Is](https://www.last.fm/music/Eminem/_/My+Name+Is)** - Eminem<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
