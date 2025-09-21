@@ -24,12 +24,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Baianá](https://www.last.fm/music/Bakermat/_/Baian%C3%A1)** - Bakermat<br/>
-- **[Piece Of Streets](https://www.last.fm/music/Molife/_/Piece+Of+Streets)** - Molife<br/>
-- **[Bear](https://www.last.fm/music/Soft+Lipa/_/Bear)** - Soft Lipa<br/>
-- **[LOVE 2000](https://www.last.fm/music/Hitomi/_/LOVE+2000)** - Hitomi<br/>
-- **[Feel Good Inc](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc)** - Gorillaz<br/>
-- **[My Name Is](https://www.last.fm/music/Eminem/_/My+Name+Is)** - Eminem<br/>
+> ∙ **[FUSHIGI](https://www.last.fm/music/Gen+Hoshino/_/FUSHIGI)** - Gen Hoshino<br/>
+> ∙ **[asu no yozora shoukaihan](https://www.last.fm/music/Yuaru/_/asu+no+yozora+shoukaihan)** - Yuaru<br/>
+> ∙ **[Life Progressive Tense](https://www.last.fm/music/May%27n/_/Life+Progressive+Tense)** - May'n<br/>
+> ∙ **[One Voice](https://www.last.fm/music/Rokudenashi/_/One+Voice)** - Rokudenashi<br/>
+> ∙ **[未接來電(Pop/R&B Type Beat)](https://www.last.fm/music/Gr33nart+Beats/_/%E6%9C%AA%E6%8E%A5%E4%BE%86%E9%9B%BB(Pop%2FR&B+Type+Beat))** - Gr33nart Beats<br/>
+> ∙ **[Irokousui](https://www.last.fm/music/Yoh+Kamiyama/_/Irokousui)** - Yoh Kamiyama<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
