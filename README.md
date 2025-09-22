@@ -24,12 +24,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[HATE MY GUTS](https://www.last.fm/music/blackbear/_/HATE+MY+GUTS)** - blackbear<br/>
-> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
-> ∙ **[I Love Music](https://www.last.fm/music/Ahmad+Jamal+Trio/_/I+Love+Music)** - Ahmad Jamal Trio<br/>
-> ∙ **[India Song (piano)](https://www.last.fm/music/Carlos+d%27Alessio/_/India+Song+(piano))** - Carlos d'Alessio<br/>
-> ∙ **[Ru-Rararu-Ra-Rurararu-Ra-](https://www.last.fm/music/Sayuri/_/Ru-Rararu-Ra-Rurararu-Ra-)** - Sayuri<br/>
-> ∙ **[Unmeichan](https://www.last.fm/music/Ikimonogakari/_/Unmeichan)** - Ikimonogakari<br/>
+- **[HATE MY GUTS](https://www.last.fm/music/blackbear/_/HATE+MY+GUTS)** - blackbear<br/>
+- **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+- **[I Love Music](https://www.last.fm/music/Ahmad+Jamal+Trio/_/I+Love+Music)** - Ahmad Jamal Trio<br/>
+- **[India Song (piano)](https://www.last.fm/music/Carlos+d%27Alessio/_/India+Song+(piano))** - Carlos d'Alessio<br/>
+- **[Ru-Rararu-Ra-Rurararu-Ra-](https://www.last.fm/music/Sayuri/_/Ru-Rararu-Ra-Rurararu-Ra-)** - Sayuri<br/>
+- **[Unmeichan](https://www.last.fm/music/Ikimonogakari/_/Unmeichan)** - Ikimonogakari<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
