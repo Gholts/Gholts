@@ -24,12 +24,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[balearic incarnation](https://www.last.fm/music/D%C3%B8lle+J%C3%B8lle/_/balearic+incarnation)** - Dølle Jølle<br/>
-- **[Back 2 Back](https://www.last.fm/music/Skepta+&+Fred+again../_/Back+2+Back)** - Skepta & Fred again..<br/>
-- **[Back 2 Back](https://www.last.fm/music/Skepta+&+Fred+again../_/Back+2+Back)** - Skepta & Fred again..<br/>
-- **[Back 2 Back](https://www.last.fm/music/Skepta+&+Fred+again../_/Back+2+Back)** - Skepta & Fred again..<br/>
-- **[HATE MY GUTS](https://www.last.fm/music/blackbear/_/HATE+MY+GUTS)** - blackbear<br/>
-- **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+> ∙ **[Back 2 Back](https://www.last.fm/music/Skepta+&+Fred+again../_/Back+2+Back)** - Skepta & Fred again..<br/>
+> ∙ **[Back 2 Back](https://www.last.fm/music/Skepta+&+Fred+again../_/Back+2+Back)** - Skepta & Fred again..<br/>
+> ∙ **[Back 2 Back](https://www.last.fm/music/Skepta+&+Fred+again../_/Back+2+Back)** - Skepta & Fred again..<br/>
+> ∙ **[HATE MY GUTS](https://www.last.fm/music/blackbear/_/HATE+MY+GUTS)** - blackbear<br/>
+> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+> ∙ **[I Love Music](https://www.last.fm/music/Ahmad+Jamal+Trio/_/I+Love+Music)** - Ahmad Jamal Trio<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
