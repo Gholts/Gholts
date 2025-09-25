@@ -8,6 +8,7 @@
         <div align="left">
         
 <!-- feed start -->
+- Sep 25 2025 - [Parody as Politics](https://gholts.top/posts/parody-as-politics/)
 - Sep 14 2025 - [Make $HOME More Exquisite](https://gholts.top/posts/home-dir-organization/)
 - Sep 10 2025 - [Mihomo Config Update](https://gholts.top/posts/yaml-update/)
 - Aug 9 2025 - [Mihomo and Stash Config](https://gholts.top/posts/yaml/)
