@@ -24,12 +24,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Cinq Préludes, W. 419: No. 1, Homenagem ao Sertanejo Brasileiro](https://www.last.fm/music/Franz+Hal%C3%A1sz/_/Cinq+Pr%C3%A9ludes,+W.+419:+No.+1,+Homenagem+ao+Sertanejo+Brasileiro)** - Franz Halász<br/>
-> ∙ **[Violin Concerto in E Major, BWV 1042: III. Allegro assai](https://www.last.fm/music/Ensemble+Masques,+Olivier+Fortin,+Sophie+Gent+&+Kathleen+Kajioka/_/Violin+Concerto+in+E+Major,+BWV+1042:+III.+Allegro+assai)** - Ensemble Masques, Olivier Fortin, Sophie Gent & Kathleen Kajioka<br/>
-> ∙ **[Trois poèmes: No. 1, Ainsi chante l'amour dans l'arbre de mes veines](https://www.last.fm/music/Chlo%C3%A9+Dumoulin+&+Fr%C3%A9d%C3%A9ric+Lambert/_/Trois+po%C3%A8mes:+No.+1,+Ainsi+chante+l%27amour+dans+l%27arbre+de+mes+veines)** - Chloé Dumoulin & Frédéric Lambert<br/>
-> ∙ **[Sonate in B-Dur, D. 617 (Arr. für Klavierduett und Streichquartett von Richard Dünser): I. Allegro moderato](https://www.last.fm/music/Silver-Garburg+Piano+Duo+&+Artis+Quartett/_/Sonate+in+B-Dur,+D.+617+(Arr.+f%C3%BCr+Klavierduett+und+Streichquartett+von+Richard+D%C3%BCnser):+I.+Allegro+moderato)** - Silver-Garburg Piano Duo & Artis Quartett<br/>
-> ∙ **[Pathos](https://www.last.fm/music/Ludovico+Einaudi/_/Pathos)** - Ludovico Einaudi<br/>
-> ∙ **[Pavan and Galliard for 6 Viols: II. Galliard](https://www.last.fm/music/Fretwork/_/Pavan+and+Galliard+for+6+Viols:+II.+Galliard)** - Fretwork<br/>
+- **[Cinq Préludes, W. 419: No. 1, Homenagem ao Sertanejo Brasileiro](https://www.last.fm/music/Franz+Hal%C3%A1sz/_/Cinq+Pr%C3%A9ludes,+W.+419:+No.+1,+Homenagem+ao+Sertanejo+Brasileiro)** - Franz Halász<br/>
+- **[Violin Concerto in E Major, BWV 1042: III. Allegro assai](https://www.last.fm/music/Ensemble+Masques,+Olivier+Fortin,+Sophie+Gent+&+Kathleen+Kajioka/_/Violin+Concerto+in+E+Major,+BWV+1042:+III.+Allegro+assai)** - Ensemble Masques, Olivier Fortin, Sophie Gent & Kathleen Kajioka<br/>
+- **[Trois poèmes: No. 1, Ainsi chante l'amour dans l'arbre de mes veines](https://www.last.fm/music/Chlo%C3%A9+Dumoulin+&+Fr%C3%A9d%C3%A9ric+Lambert/_/Trois+po%C3%A8mes:+No.+1,+Ainsi+chante+l%27amour+dans+l%27arbre+de+mes+veines)** - Chloé Dumoulin & Frédéric Lambert<br/>
+- **[Sonate in B-Dur, D. 617 (Arr. für Klavierduett und Streichquartett von Richard Dünser): I. Allegro moderato](https://www.last.fm/music/Silver-Garburg+Piano+Duo+&+Artis+Quartett/_/Sonate+in+B-Dur,+D.+617+(Arr.+f%C3%BCr+Klavierduett+und+Streichquartett+von+Richard+D%C3%BCnser):+I.+Allegro+moderato)** - Silver-Garburg Piano Duo & Artis Quartett<br/>
+- **[Pathos](https://www.last.fm/music/Ludovico+Einaudi/_/Pathos)** - Ludovico Einaudi<br/>
+- **[Pavan and Galliard for 6 Viols: II. Galliard](https://www.last.fm/music/Fretwork/_/Pavan+and+Galliard+for+6+Viols:+II.+Galliard)** - Fretwork<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
