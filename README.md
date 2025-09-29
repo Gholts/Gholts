@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[過程 (Shin-Ski's Remix)](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B+(Shin-Ski%27s+Remix))** - Soft Lipa<br/>
-> ∙ **[過程 (14? Remix)](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B+(14%3F+Remix))** - Soft Lipa<br/>
-> ∙ **[經典! (Blu-Swing Remix)](https://www.last.fm/music/Soft+Lipa/_/%E7%B6%93%E5%85%B8!+(Blu-Swing+Remix))** - Soft Lipa<br/>
-> ∙ **[夜間漫遊](https://www.last.fm/music/Soft+Lipa/_/%E5%A4%9C%E9%96%93%E6%BC%AB%E9%81%8A)** - Soft Lipa<br/>
-> ∙ **[月光下](https://www.last.fm/music/Soft+Lipa/_/%E6%9C%88%E5%85%89%E4%B8%8B)** - Soft Lipa<br/>
-> ∙ **[過程](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B)** - Soft Lipa<br/>
+- **[過程 (Shin-Ski's Remix)](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B+(Shin-Ski%27s+Remix))** - Soft Lipa<br/>
+- **[過程 (14? Remix)](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B+(14%3F+Remix))** - Soft Lipa<br/>
+- **[經典! (Blu-Swing Remix)](https://www.last.fm/music/Soft+Lipa/_/%E7%B6%93%E5%85%B8!+(Blu-Swing+Remix))** - Soft Lipa<br/>
+- **[夜間漫遊](https://www.last.fm/music/Soft+Lipa/_/%E5%A4%9C%E9%96%93%E6%BC%AB%E9%81%8A)** - Soft Lipa<br/>
+- **[月光下](https://www.last.fm/music/Soft+Lipa/_/%E6%9C%88%E5%85%89%E4%B8%8B)** - Soft Lipa<br/>
+- **[過程](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B)** - Soft Lipa<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
