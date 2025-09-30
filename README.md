@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Loungin'](https://www.last.fm/music/Richie+Rych/_/Loungin%27)** - Richie Rych<br/>
-> ∙ **[Season](https://www.last.fm/music/Richie+Rych/_/Season)** - Richie Rych<br/>
-> ∙ **[August](https://www.last.fm/music/Richie+Rych/_/August)** - Richie Rych<br/>
-> ∙ **[Vintage](https://www.last.fm/music/Richie+Rych/_/Vintage)** - Richie Rych<br/>
-> ∙ **[Señorita](https://www.last.fm/music/Richie+Rych/_/Se%C3%B1orita)** - Richie Rych<br/>
-> ∙ **[4Hands](https://www.last.fm/music/Richie+Rych/_/4Hands)** - Richie Rych<br/>
+- **[Loungin'](https://www.last.fm/music/Richie+Rych/_/Loungin%27)** - Richie Rych<br/>
+- **[Season](https://www.last.fm/music/Richie+Rych/_/Season)** - Richie Rych<br/>
+- **[August](https://www.last.fm/music/Richie+Rych/_/August)** - Richie Rych<br/>
+- **[Vintage](https://www.last.fm/music/Richie+Rych/_/Vintage)** - Richie Rych<br/>
+- **[Señorita](https://www.last.fm/music/Richie+Rych/_/Se%C3%B1orita)** - Richie Rych<br/>
+- **[4Hands](https://www.last.fm/music/Richie+Rych/_/4Hands)** - Richie Rych<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
