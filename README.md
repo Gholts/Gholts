@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Loungin'](https://www.last.fm/music/Richie+Rych/_/Loungin%27)** - Richie Rych<br/>
-- **[Season](https://www.last.fm/music/Richie+Rych/_/Season)** - Richie Rych<br/>
-- **[August](https://www.last.fm/music/Richie+Rych/_/August)** - Richie Rych<br/>
-- **[Vintage](https://www.last.fm/music/Richie+Rych/_/Vintage)** - Richie Rych<br/>
-- **[Señorita](https://www.last.fm/music/Richie+Rych/_/Se%C3%B1orita)** - Richie Rych<br/>
-- **[4Hands](https://www.last.fm/music/Richie+Rych/_/4Hands)** - Richie Rych<br/>
+> ∙ **[Finish Line](https://www.last.fm/music/StreamBeats+Music/_/Finish+Line)** - StreamBeats Music<br/>
+> ∙ **[Upload](https://www.last.fm/music/StreamBeats+Music/_/Upload)** - StreamBeats Music<br/>
+> ∙ **[Bounce](https://www.last.fm/music/StreamBeats+Music/_/Bounce)** - StreamBeats Music<br/>
+> ∙ **[B - Roll](https://www.last.fm/music/StreamBeats+Music/_/B+-+Roll)** - StreamBeats Music<br/>
+> ∙ **[Groove All Night](https://www.last.fm/music/StreamBeats+Music/_/Groove+All+Night)** - StreamBeats Music<br/>
+> ∙ **[Iridescence](https://www.last.fm/music/StreamBeats+Music/_/Iridescence)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
