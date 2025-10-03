@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Finish Line](https://www.last.fm/music/StreamBeats+Music/_/Finish+Line)** - StreamBeats Music<br/>
-- **[Upload](https://www.last.fm/music/StreamBeats+Music/_/Upload)** - StreamBeats Music<br/>
-- **[Bounce](https://www.last.fm/music/StreamBeats+Music/_/Bounce)** - StreamBeats Music<br/>
-- **[B - Roll](https://www.last.fm/music/StreamBeats+Music/_/B+-+Roll)** - StreamBeats Music<br/>
-- **[Groove All Night](https://www.last.fm/music/StreamBeats+Music/_/Groove+All+Night)** - StreamBeats Music<br/>
-- **[Iridescence](https://www.last.fm/music/StreamBeats+Music/_/Iridescence)** - StreamBeats Music<br/>
+> ∙ **[Finish Line](https://www.last.fm/music/StreamBeats+Music/_/Finish+Line)** - StreamBeats Music<br/>
+> ∙ **[Upload](https://www.last.fm/music/StreamBeats+Music/_/Upload)** - StreamBeats Music<br/>
+> ∙ **[Bounce](https://www.last.fm/music/StreamBeats+Music/_/Bounce)** - StreamBeats Music<br/>
+> ∙ **[B - Roll](https://www.last.fm/music/StreamBeats+Music/_/B+-+Roll)** - StreamBeats Music<br/>
+> ∙ **[Groove All Night](https://www.last.fm/music/StreamBeats+Music/_/Groove+All+Night)** - StreamBeats Music<br/>
+> ∙ **[Iridescence](https://www.last.fm/music/StreamBeats+Music/_/Iridescence)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
