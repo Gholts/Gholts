@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[The Illusive Man](https://www.last.fm/music/StreamBeats+by+Harris+Heller/_/The+Illusive+Man)** - StreamBeats by Harris Heller<br/>
-> ∙ **[Moons of Lylat](https://www.last.fm/music/StreamBeats+by+Harris+Heller/_/Moons+of+Lylat)** - StreamBeats by Harris Heller<br/>
-> ∙ **[Heart Piece](https://www.last.fm/music/StreamBeats+by+Harris+Heller/_/Heart+Piece)** - StreamBeats by Harris Heller<br/>
-> ∙ **[Finish Line](https://www.last.fm/music/StreamBeats+Music/_/Finish+Line)** - StreamBeats Music<br/>
-> ∙ **[Upload](https://www.last.fm/music/StreamBeats+Music/_/Upload)** - StreamBeats Music<br/>
-> ∙ **[Bounce](https://www.last.fm/music/StreamBeats+Music/_/Bounce)** - StreamBeats Music<br/>
+- **[The Illusive Man](https://www.last.fm/music/StreamBeats+by+Harris+Heller/_/The+Illusive+Man)** - StreamBeats by Harris Heller<br/>
+- **[Moons of Lylat](https://www.last.fm/music/StreamBeats+by+Harris+Heller/_/Moons+of+Lylat)** - StreamBeats by Harris Heller<br/>
+- **[Heart Piece](https://www.last.fm/music/StreamBeats+by+Harris+Heller/_/Heart+Piece)** - StreamBeats by Harris Heller<br/>
+- **[Finish Line](https://www.last.fm/music/StreamBeats+Music/_/Finish+Line)** - StreamBeats Music<br/>
+- **[Upload](https://www.last.fm/music/StreamBeats+Music/_/Upload)** - StreamBeats Music<br/>
+- **[Bounce](https://www.last.fm/music/StreamBeats+Music/_/Bounce)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
