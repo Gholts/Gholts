@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
-> ∙ **[Break Over](https://www.last.fm/music/K-forest/_/Break+Over)** - K-forest<br/>
-> ∙ **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
-> ∙ **[Voices (feat. Rita J)](https://www.last.fm/music/20syl/_/Voices+(feat.+Rita+J))** - 20syl<br/>
-> ∙ **[HATE MY GUTS](https://www.last.fm/music/blackbear/_/HATE+MY+GUTS)** - blackbear<br/>
-> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+- **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
+- **[Break Over](https://www.last.fm/music/K-forest/_/Break+Over)** - K-forest<br/>
+- **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
+- **[Voices (feat. Rita J)](https://www.last.fm/music/20syl/_/Voices+(feat.+Rita+J))** - 20syl<br/>
+- **[HATE MY GUTS](https://www.last.fm/music/blackbear/_/HATE+MY+GUTS)** - blackbear<br/>
+- **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
