@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[The Illusive Man](https://www.last.fm/music/StreamBeats+by+Harris+Heller/_/The+Illusive+Man)** - StreamBeats by Harris Heller<br/>
-- **[Moons of Lylat](https://www.last.fm/music/StreamBeats+by+Harris+Heller/_/Moons+of+Lylat)** - StreamBeats by Harris Heller<br/>
-- **[Heart Piece](https://www.last.fm/music/StreamBeats+by+Harris+Heller/_/Heart+Piece)** - StreamBeats by Harris Heller<br/>
-- **[Finish Line](https://www.last.fm/music/StreamBeats+Music/_/Finish+Line)** - StreamBeats Music<br/>
-- **[Upload](https://www.last.fm/music/StreamBeats+Music/_/Upload)** - StreamBeats Music<br/>
-- **[Bounce](https://www.last.fm/music/StreamBeats+Music/_/Bounce)** - StreamBeats Music<br/>
+> ∙ **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
+> ∙ **[Break Over](https://www.last.fm/music/K-forest/_/Break+Over)** - K-forest<br/>
+> ∙ **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
+> ∙ **[Voices (feat. Rita J)](https://www.last.fm/music/20syl/_/Voices+(feat.+Rita+J))** - 20syl<br/>
+> ∙ **[HATE MY GUTS](https://www.last.fm/music/blackbear/_/HATE+MY+GUTS)** - blackbear<br/>
+> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
