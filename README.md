@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Unravel](https://www.last.fm/music/TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8/_/Unravel)** - TK from 凛として時雨<br/>
-- **[Paradise](https://www.last.fm/music/Coldplay/_/Paradise)** - Coldplay<br/>
-- **[Rashisa](https://www.last.fm/music/Official+HIGE+DANdism/_/Rashisa)** - Official HIGE DANdism<br/>
-- **[U.M.A.](https://www.last.fm/music/Number_i/_/U.M.A.)** - Number_i<br/>
-- **[Summer's Day](https://www.last.fm/music/Jinsang/_/Summer%27s+Day)** - Jinsang<br/>
-- **[On My Way Home](https://www.last.fm/music/KAN+SANO/_/On+My+Way+Home)** - KAN SANO<br/>
+> ∙ **[4 Characteristic Waltzes, Op. 22: No. 1, Valse Bohémienne](https://www.last.fm/music/Maya+Magub+&+Matthew+Schellhorn/_/4+Characteristic+Waltzes,+Op.+22:+No.+1,+Valse+Boh%C3%A9mienne)** - Maya Magub & Matthew Schellhorn<br/>
+> ∙ **[Entre les gouttes](https://www.last.fm/music/Mira/_/Entre+les+gouttes)** - Mira<br/>
+> ∙ **[Humanity](https://www.last.fm/music/J%C3%A9r%C3%A9my+Hababou/_/Humanity)** - Jérémy Hababou<br/>
+> ∙ **[Mandolin Concerto in C Major: I. Tempo giusto](https://www.last.fm/music/Alon+Sariel,+K%C3%B6lner+Akademie+&+Michael+Alexander+Willens/_/Mandolin+Concerto+in+C+Major:+I.+Tempo+giusto)** - Alon Sariel, Kölner Akademie & Michael Alexander Willens<br/>
+> ∙ **[Consolations, S. 172: No. 2 in E Major. Un poco più mosso](https://www.last.fm/music/Lang+Lang/_/Consolations,+S.+172:+No.+2+in+E+Major.+Un+poco+pi%C3%B9+mosso)** - Lang Lang<br/>
+> ∙ **[Concerto for Violin and Orchestra:  I. Quarter note = 104 – Quarter note = 120](https://www.last.fm/music/Anne+Akiko+Meyers,+Los+Angeles+Philharmonic+&+Gustavo+Dudamel/_/Concerto+for+Violin+and+Orchestra:++I.+Quarter+note+=+104+%E2%80%93+Quarter+note+=+120)** - Anne Akiko Meyers, Los Angeles Philharmonic & Gustavo Dudamel<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
