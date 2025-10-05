@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Unravel](https://www.last.fm/music/TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8/_/Unravel)** - TK from 凛として時雨<br/>
-> ∙ **[Paradise](https://www.last.fm/music/Coldplay/_/Paradise)** - Coldplay<br/>
-> ∙ **[Rashisa](https://www.last.fm/music/Official+HIGE+DANdism/_/Rashisa)** - Official HIGE DANdism<br/>
-> ∙ **[U.M.A.](https://www.last.fm/music/Number_i/_/U.M.A.)** - Number_i<br/>
-> ∙ **[Summer's Day](https://www.last.fm/music/Jinsang/_/Summer%27s+Day)** - Jinsang<br/>
-> ∙ **[On My Way Home](https://www.last.fm/music/KAN+SANO/_/On+My+Way+Home)** - KAN SANO<br/>
+- **[Unravel](https://www.last.fm/music/TK+from+%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8/_/Unravel)** - TK from 凛として時雨<br/>
+- **[Paradise](https://www.last.fm/music/Coldplay/_/Paradise)** - Coldplay<br/>
+- **[Rashisa](https://www.last.fm/music/Official+HIGE+DANdism/_/Rashisa)** - Official HIGE DANdism<br/>
+- **[U.M.A.](https://www.last.fm/music/Number_i/_/U.M.A.)** - Number_i<br/>
+- **[Summer's Day](https://www.last.fm/music/Jinsang/_/Summer%27s+Day)** - Jinsang<br/>
+- **[On My Way Home](https://www.last.fm/music/KAN+SANO/_/On+My+Way+Home)** - KAN SANO<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
