@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Wake](https://www.last.fm/music/Gautier+Capu%C3%A7on+&+Capucelli/_/Wake)** - Gautier Capuçon & Capucelli<br/>
-> ∙ **[The Sleeping Beauty, Op. 66 (Transcr. Pletnev as Concert Suite for Piano): V. The Silver Fairy](https://www.last.fm/music/Daniil+Trifonov/_/The+Sleeping+Beauty,+Op.+66+(Transcr.+Pletnev+as+Concert+Suite+for+Piano):+V.+The+Silver+Fairy)** - Daniil Trifonov<br/>
-> ∙ **[Violin Concerto No. 2 in D Major, K. 211: III. Rondeau. Allegro](https://www.last.fm/music/Chloe+Chua,+Singapore+Symphony+Orchestra+&+Hans+Graf/_/Violin+Concerto+No.+2+in+D+Major,+K.+211:+III.+Rondeau.+Allegro)** - Chloe Chua, Singapore Symphony Orchestra & Hans Graf<br/>
-> ∙ **[Falstaff, Op. 68: IId. Dream Interlude. Poco allegretto](https://www.last.fm/music/Vasily+Petrenko+&+Royal+Philharmonic+Orchestra/_/Falstaff,+Op.+68:+IId.+Dream+Interlude.+Poco+allegretto)** - Vasily Petrenko & Royal Philharmonic Orchestra<br/>
-> ∙ **[Piano Trio in D Minor, Op. 11: III. Lied. Allegretto](https://www.last.fm/music/Trio+Zadig/_/Piano+Trio+in+D+Minor,+Op.+11:+III.+Lied.+Allegretto)** - Trio Zadig<br/>
-> ∙ **[Four Mazurkas, Op. 17: No. 2 in E Minor, Lento, ma non troppo](https://www.last.fm/music/Sophia+Liu/_/Four+Mazurkas,+Op.+17:+No.+2+in+E+Minor,+Lento,+ma+non+troppo)** - Sophia Liu<br/>
+- **[Wake](https://www.last.fm/music/Gautier+Capu%C3%A7on+&+Capucelli/_/Wake)** - Gautier Capuçon & Capucelli<br/>
+- **[The Sleeping Beauty, Op. 66 (Transcr. Pletnev as Concert Suite for Piano): V. The Silver Fairy](https://www.last.fm/music/Daniil+Trifonov/_/The+Sleeping+Beauty,+Op.+66+(Transcr.+Pletnev+as+Concert+Suite+for+Piano):+V.+The+Silver+Fairy)** - Daniil Trifonov<br/>
+- **[Violin Concerto No. 2 in D Major, K. 211: III. Rondeau. Allegro](https://www.last.fm/music/Chloe+Chua,+Singapore+Symphony+Orchestra+&+Hans+Graf/_/Violin+Concerto+No.+2+in+D+Major,+K.+211:+III.+Rondeau.+Allegro)** - Chloe Chua, Singapore Symphony Orchestra & Hans Graf<br/>
+- **[Falstaff, Op. 68: IId. Dream Interlude. Poco allegretto](https://www.last.fm/music/Vasily+Petrenko+&+Royal+Philharmonic+Orchestra/_/Falstaff,+Op.+68:+IId.+Dream+Interlude.+Poco+allegretto)** - Vasily Petrenko & Royal Philharmonic Orchestra<br/>
+- **[Piano Trio in D Minor, Op. 11: III. Lied. Allegretto](https://www.last.fm/music/Trio+Zadig/_/Piano+Trio+in+D+Minor,+Op.+11:+III.+Lied.+Allegretto)** - Trio Zadig<br/>
+- **[Four Mazurkas, Op. 17: No. 2 in E Minor, Lento, ma non troppo](https://www.last.fm/music/Sophia+Liu/_/Four+Mazurkas,+Op.+17:+No.+2+in+E+Minor,+Lento,+ma+non+troppo)** - Sophia Liu<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
