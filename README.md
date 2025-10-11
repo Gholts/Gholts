@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Wake](https://www.last.fm/music/Gautier+Capu%C3%A7on+&+Capucelli/_/Wake)** - Gautier Capuçon & Capucelli<br/>
-- **[The Sleeping Beauty, Op. 66 (Transcr. Pletnev as Concert Suite for Piano): V. The Silver Fairy](https://www.last.fm/music/Daniil+Trifonov/_/The+Sleeping+Beauty,+Op.+66+(Transcr.+Pletnev+as+Concert+Suite+for+Piano):+V.+The+Silver+Fairy)** - Daniil Trifonov<br/>
-- **[Violin Concerto No. 2 in D Major, K. 211: III. Rondeau. Allegro](https://www.last.fm/music/Chloe+Chua,+Singapore+Symphony+Orchestra+&+Hans+Graf/_/Violin+Concerto+No.+2+in+D+Major,+K.+211:+III.+Rondeau.+Allegro)** - Chloe Chua, Singapore Symphony Orchestra & Hans Graf<br/>
-- **[Falstaff, Op. 68: IId. Dream Interlude. Poco allegretto](https://www.last.fm/music/Vasily+Petrenko+&+Royal+Philharmonic+Orchestra/_/Falstaff,+Op.+68:+IId.+Dream+Interlude.+Poco+allegretto)** - Vasily Petrenko & Royal Philharmonic Orchestra<br/>
-- **[Piano Trio in D Minor, Op. 11: III. Lied. Allegretto](https://www.last.fm/music/Trio+Zadig/_/Piano+Trio+in+D+Minor,+Op.+11:+III.+Lied.+Allegretto)** - Trio Zadig<br/>
-- **[Four Mazurkas, Op. 17: No. 2 in E Minor, Lento, ma non troppo](https://www.last.fm/music/Sophia+Liu/_/Four+Mazurkas,+Op.+17:+No.+2+in+E+Minor,+Lento,+ma+non+troppo)** - Sophia Liu<br/>
+> ∙ **[Piano Quartet No. 1 in A Major, Op. 9 "Im Sommer": II. Fliegen und Schmetterlinge](https://www.last.fm/music/Manon+Galy,+L%C3%A9a+Hennino,+H%C3%A9lo%C3%AFse+Luzzati+&+C%C3%A9lia+Oneto+Bensaid/_/Piano+Quartet+No.+1+in+A+Major,+Op.+9+%22Im+Sommer%22:+II.+Fliegen+und+Schmetterlinge)** - Manon Galy, Léa Hennino, Héloïse Luzzati & Célia Oneto Bensaid<br/>
+> ∙ **[Symphony No. 9 in D Minor, Op. 125 "Choral": II. Molto vivace (Live)](https://www.last.fm/music/Vienna+Philharmonic+&+Riccardo+Muti/_/Symphony+No.+9+in+D+Minor,+Op.+125+%22Choral%22:+II.+Molto+vivace+(Live))** - Vienna Philharmonic & Riccardo Muti<br/>
+> ∙ **[Symphony No. 4 in E Minor, Op. 98: III. Allegro giocoso (Live)](https://www.last.fm/music/Hamburg+Philharmonic+State+Orchestra+&+Kent+Nagano/_/Symphony+No.+4+in+E+Minor,+Op.+98:+III.+Allegro+giocoso+(Live))** - Hamburg Philharmonic State Orchestra & Kent Nagano<br/>
+> ∙ **[String Quartet No. 13 in B-Flat Major, Op. 130: III. Andante con moto, ma non troppo. Poco scherzoso](https://www.last.fm/music/Viano+Quartet/_/String+Quartet+No.+13+in+B-Flat+Major,+Op.+130:+III.+Andante+con+moto,+ma+non+troppo.+Poco+scherzoso)** - Viano Quartet<br/>
+> ∙ **[Concerto in G Minor, BWV 975 (After Vivaldi's Violin Concerto in G Minor, RV 316): III. Giga. Presto (Transcr. for String Ensemble by Olivier Fourés)](https://www.last.fm/music/Marianne+Piketty+&+Le+Concert+Id%C3%A9al/_/Concerto+in+G+Minor,+BWV+975+(After+Vivaldi%27s+Violin+Concerto+in+G+Minor,+RV+316):+III.+Giga.+Presto+(Transcr.+for+String+Ensemble+by+Olivier+Four%C3%A9s))** - Marianne Piketty & Le Concert Idéal<br/>
+> ∙ **[Bach Brandenburg Concerto Revisited (After Bach's BWV 1046: I. Allegro)](https://www.last.fm/music/Eldbj%C3%B8rg+Hemsing,+Norwegian+String+Quintet+&+Tim+Allhoff/_/Bach+Brandenburg+Concerto+Revisited+(After+Bach%27s+BWV+1046:+I.+Allegro))** - Eldbjørg Hemsing, Norwegian String Quintet & Tim Allhoff<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
