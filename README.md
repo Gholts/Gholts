@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Back 2 Back](https://www.last.fm/music/Skepta+&+Fred+again../_/Back+2+Back)** - Skepta & Fred again..<br/>
-- **[Superstylin'](https://www.last.fm/music/Groove+Armada/_/Superstylin%27)** - Groove Armada<br/>
-- **[balearic incarnation](https://www.last.fm/music/D%C3%B8lle+J%C3%B8lle/_/balearic+incarnation)** - Dølle Jølle<br/>
-- **[冒険でしょでしょ?](https://www.last.fm/music/Hirano+Aya/_/%E5%86%92%E9%99%BA%E3%81%A7%E3%81%97%E3%82%87%E3%81%A7%E3%81%97%E3%82%87%3F)** - Hirano Aya<br/>
-- **[過程 (Shin-Ski's Remix)](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B+(Shin-Ski%27s+Remix))** - Soft Lipa<br/>
-- **[Dead Leaf](https://www.last.fm/music/Gen+Hoshino/_/Dead+Leaf)** - Gen Hoshino<br/>
+> ∙ **[PLASTIC LOVE](https://www.last.fm/music/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84/_/PLASTIC+LOVE)** - 竹内まりや<br/>
+> ∙ **[Mockingbird](https://www.last.fm/music/Eminem/_/Mockingbird)** - Eminem<br/>
+> ∙ **[過程 (Shin-Ski's Remix)](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B+(Shin-Ski%27s+Remix))** - Soft Lipa<br/>
+> ∙ **[Chateau (Feel Alright)](https://www.last.fm/music/Djo/_/Chateau+(Feel+Alright))** - Djo<br/>
+> ∙ **[God knows...](https://www.last.fm/music/Haruhi+Suzumiya+(CV:+Aya+Hirano)/_/God+knows...)** - Haruhi Suzumiya (CV: Aya Hirano)<br/>
+> ∙ **[Ice Age](https://www.last.fm/music/Soft+Lipa/_/Ice+Age)** - Soft Lipa<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
