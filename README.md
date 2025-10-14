@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[PLASTIC LOVE](https://www.last.fm/music/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84/_/PLASTIC+LOVE)** - 竹内まりや<br/>
-> ∙ **[PLASTIC LOVE](https://www.last.fm/music/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84/_/PLASTIC+LOVE)** - 竹内まりや<br/>
-> ∙ **[Mockingbird](https://www.last.fm/music/Eminem/_/Mockingbird)** - Eminem<br/>
-> ∙ **[過程 (Shin-Ski's Remix)](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B+(Shin-Ski%27s+Remix))** - Soft Lipa<br/>
-> ∙ **[Chateau (Feel Alright)](https://www.last.fm/music/Djo/_/Chateau+(Feel+Alright))** - Djo<br/>
-> ∙ **[God knows...](https://www.last.fm/music/Haruhi+Suzumiya+(CV:+Aya+Hirano)/_/God+knows...)** - Haruhi Suzumiya (CV: Aya Hirano)<br/>
+- **[PLASTIC LOVE](https://www.last.fm/music/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84/_/PLASTIC+LOVE)** - 竹内まりや<br/>
+- **[PLASTIC LOVE](https://www.last.fm/music/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84/_/PLASTIC+LOVE)** - 竹内まりや<br/>
+- **[Mockingbird](https://www.last.fm/music/Eminem/_/Mockingbird)** - Eminem<br/>
+- **[過程 (Shin-Ski's Remix)](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B+(Shin-Ski%27s+Remix))** - Soft Lipa<br/>
+- **[Chateau (Feel Alright)](https://www.last.fm/music/Djo/_/Chateau+(Feel+Alright))** - Djo<br/>
+- **[God knows...](https://www.last.fm/music/Haruhi+Suzumiya+(CV:+Aya+Hirano)/_/God+knows...)** - Haruhi Suzumiya (CV: Aya Hirano)<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
