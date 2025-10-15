@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[バラ色の人生〜ラヴィアンローズ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%90%E3%83%A9%E8%89%B2%E3%81%AE%E4%BA%BA%E7%94%9F%E3%80%9C%E3%83%A9%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA)** - 山下達郎<br/>
-> ∙ **[バラ色の人生〜ラヴィアンローズ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%90%E3%83%A9%E8%89%B2%E3%81%AE%E4%BA%BA%E7%94%9F%E3%80%9C%E3%83%A9%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA)** - 山下達郎<br/>
-> ∙ **[愛してるって言えなくたって （NEW REMIX）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%8F%E3%81%9F%E3%81%A3%E3%81%A6+%EF%BC%88NEW+REMIX%EF%BC%89)** - 山下達郎<br/>
-> ∙ **[愛してるって言えなくたって （NEW REMIX）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%8F%E3%81%9F%E3%81%A3%E3%81%A6+%EF%BC%88NEW+REMIX%EF%BC%89)** - 山下達郎<br/>
-> ∙ **[MY MORNING PRAYER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/MY+MORNING+PRAYER)** - 山下達郎<br/>
-> ∙ **[MY MORNING PRAYER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/MY+MORNING+PRAYER)** - 山下達郎<br/>
+- **[バラ色の人生〜ラヴィアンローズ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%90%E3%83%A9%E8%89%B2%E3%81%AE%E4%BA%BA%E7%94%9F%E3%80%9C%E3%83%A9%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA)** - 山下達郎<br/>
+- **[バラ色の人生〜ラヴィアンローズ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%90%E3%83%A9%E8%89%B2%E3%81%AE%E4%BA%BA%E7%94%9F%E3%80%9C%E3%83%A9%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA)** - 山下達郎<br/>
+- **[愛してるって言えなくたって （NEW REMIX）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%8F%E3%81%9F%E3%81%A3%E3%81%A6+%EF%BC%88NEW+REMIX%EF%BC%89)** - 山下達郎<br/>
+- **[愛してるって言えなくたって （NEW REMIX）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%8F%E3%81%9F%E3%81%A3%E3%81%A6+%EF%BC%88NEW+REMIX%EF%BC%89)** - 山下達郎<br/>
+- **[MY MORNING PRAYER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/MY+MORNING+PRAYER)** - 山下達郎<br/>
+- **[MY MORNING PRAYER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/MY+MORNING+PRAYER)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
