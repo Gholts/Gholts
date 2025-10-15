@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[バラ色の人生〜ラヴィアンローズ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%90%E3%83%A9%E8%89%B2%E3%81%AE%E4%BA%BA%E7%94%9F%E3%80%9C%E3%83%A9%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA)** - 山下達郎<br/>
-- **[バラ色の人生〜ラヴィアンローズ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%90%E3%83%A9%E8%89%B2%E3%81%AE%E4%BA%BA%E7%94%9F%E3%80%9C%E3%83%A9%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA)** - 山下達郎<br/>
-- **[愛してるって言えなくたって （NEW REMIX）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%8F%E3%81%9F%E3%81%A3%E3%81%A6+%EF%BC%88NEW+REMIX%EF%BC%89)** - 山下達郎<br/>
-- **[愛してるって言えなくたって （NEW REMIX）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%8F%E3%81%9F%E3%81%A3%E3%81%A6+%EF%BC%88NEW+REMIX%EF%BC%89)** - 山下達郎<br/>
-- **[MY MORNING PRAYER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/MY+MORNING+PRAYER)** - 山下達郎<br/>
-- **[MY MORNING PRAYER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/MY+MORNING+PRAYER)** - 山下達郎<br/>
+> ∙ **[希望という名の光 （Prelude）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E5%B8%8C%E6%9C%9B%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%85%89+%EF%BC%88Prelude%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[アトムの子 （’92 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%82%A2%E3%83%88%E3%83%A0%E3%81%AE%E5%AD%90+%EF%BC%88%E2%80%9992+Live+Version%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[砂の女 （’94 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%A0%82%E3%81%AE%E5%A5%B3+%EF%BC%88%E2%80%9994+Live+Version%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[こぬか雨 （’94 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8+%EF%BC%88%E2%80%9994+Live+Version%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[二人の夏 （’94 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E4%BA%8C%E4%BA%BA%E3%81%AE%E5%A4%8F+%EF%BC%88%E2%80%9994+Live+Version%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[ONLY WITH YOU （’86 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/ONLY+WITH+YOU+%EF%BC%88%E2%80%9986+Live+Version%EF%BC%89)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
