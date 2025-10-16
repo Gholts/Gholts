@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[黙想](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E9%BB%99%E6%83%B3)** - 山下達郎<br/>
-- **[あしおと](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%82%E3%81%97%E3%81%8A%E3%81%A8)** - 山下達郎<br/>
-- **[BLUE MIDNIGHT](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/BLUE+MIDNIGHT)** - 山下達郎<br/>
-- **[メリー・ゴー・ラウンド](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%BB%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89)** - 山下達郎<br/>
-- **[ひととき](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%B2%E3%81%A8%E3%81%A8%E3%81%8D)** - 山下達郎<br/>
-- **[GUESS I’M DUMB](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/GUESS+I%E2%80%99M+DUMB)** - 山下達郎<br/>
+> 🎶 **[雲のゆくえに（CLOUDS）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E9%9B%B2%E3%81%AE%E3%82%86%E3%81%8F%E3%81%88%E3%81%AB%EF%BC%88CLOUDS%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[Rainy Day](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Rainy+Day)** - 山下達郎<br/>
+> ∙ **[My Sugar Babe](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/My+Sugar+Babe)** - 山下達郎<br/>
+> ∙ **[夏への扉（THE DOOR INTO SUMMER）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E5%A4%8F%E3%81%B8%E3%81%AE%E6%89%89%EF%BC%88THE+DOOR+INTO+SUMMER%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[RIDE ON TIME（アルバム・ヴァージョン）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/RIDE+ON+TIME%EF%BC%88%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[SILENT SCREAMER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/SILENT+SCREAMER)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
