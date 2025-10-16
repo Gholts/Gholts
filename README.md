@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[黙想](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E9%BB%99%E6%83%B3)** - 山下達郎<br/>
-> ∙ **[あしおと](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%82%E3%81%97%E3%81%8A%E3%81%A8)** - 山下達郎<br/>
-> ∙ **[BLUE MIDNIGHT](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/BLUE+MIDNIGHT)** - 山下達郎<br/>
-> ∙ **[メリー・ゴー・ラウンド](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%BB%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89)** - 山下達郎<br/>
-> ∙ **[ひととき](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%B2%E3%81%A8%E3%81%A8%E3%81%8D)** - 山下達郎<br/>
-> ∙ **[GUESS I’M DUMB](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/GUESS+I%E2%80%99M+DUMB)** - 山下達郎<br/>
+- **[黙想](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E9%BB%99%E6%83%B3)** - 山下達郎<br/>
+- **[あしおと](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%82%E3%81%97%E3%81%8A%E3%81%A8)** - 山下達郎<br/>
+- **[BLUE MIDNIGHT](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/BLUE+MIDNIGHT)** - 山下達郎<br/>
+- **[メリー・ゴー・ラウンド](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%BB%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89)** - 山下達郎<br/>
+- **[ひととき](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%B2%E3%81%A8%E3%81%A8%E3%81%8D)** - 山下達郎<br/>
+- **[GUESS I’M DUMB](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/GUESS+I%E2%80%99M+DUMB)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
