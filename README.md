@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[SILENT SCREAMER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/SILENT+SCREAMER)** - 山下達郎<br/>
-> ∙ **[DAYDREAM](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/DAYDREAM)** - 山下達郎<br/>
-> ∙ **[いつか（SOMEDAY）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%84%E3%81%A4%E3%81%8B%EF%BC%88SOMEDAY%EF%BC%89)** - 山下達郎<br/>
-> ∙ **[おやすみ（KISSING GOODNIGHT）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF%EF%BC%88KISSING+GOODNIGHT%EF%BC%89)** - 山下達郎<br/>
-> ∙ **[雲のゆくえに（CLOUDS）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E9%9B%B2%E3%81%AE%E3%82%86%E3%81%8F%E3%81%88%E3%81%AB%EF%BC%88CLOUDS%EF%BC%89)** - 山下達郎<br/>
-> ∙ **[Rainy Day](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Rainy+Day)** - 山下達郎<br/>
+- **[SILENT SCREAMER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/SILENT+SCREAMER)** - 山下達郎<br/>
+- **[DAYDREAM](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/DAYDREAM)** - 山下達郎<br/>
+- **[いつか（SOMEDAY）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%84%E3%81%A4%E3%81%8B%EF%BC%88SOMEDAY%EF%BC%89)** - 山下達郎<br/>
+- **[おやすみ（KISSING GOODNIGHT）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF%EF%BC%88KISSING+GOODNIGHT%EF%BC%89)** - 山下達郎<br/>
+- **[雲のゆくえに（CLOUDS）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E9%9B%B2%E3%81%AE%E3%82%86%E3%81%8F%E3%81%88%E3%81%AB%EF%BC%88CLOUDS%EF%BC%89)** - 山下達郎<br/>
+- **[Rainy Day](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Rainy+Day)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
