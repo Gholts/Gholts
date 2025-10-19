@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[DANCER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/DANCER)** - 山下達郎<br/>
-- **[Candy](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Candy)** - 山下達郎<br/>
-- **[素敵な午後は](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%B4%A0%E6%95%B5%E3%81%AA%E5%8D%88%E5%BE%8C%E3%81%AF)** - 山下達郎<br/>
-- **[翼に乗せて](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%BF%BC%E3%81%AB%E4%B9%97%E3%81%9B%E3%81%A6)** - 山下達郎<br/>
-- **[LOVE SPACE](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/LOVE+SPACE)** - 山下達郎<br/>
-- **[SOLID SLIDER（ショート・ヴァージョン）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/SOLID+SLIDER%EF%BC%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[DANCER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/DANCER)** - 山下達郎<br/>
+> ∙ **[Candy](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Candy)** - 山下達郎<br/>
+> ∙ **[素敵な午後は](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%B4%A0%E6%95%B5%E3%81%AA%E5%8D%88%E5%BE%8C%E3%81%AF)** - 山下達郎<br/>
+> ∙ **[翼に乗せて](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%BF%BC%E3%81%AB%E4%B9%97%E3%81%9B%E3%81%A6)** - 山下達郎<br/>
+> ∙ **[LOVE SPACE](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/LOVE+SPACE)** - 山下達郎<br/>
+> ∙ **[SOLID SLIDER（ショート・ヴァージョン）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/SOLID+SLIDER%EF%BC%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%EF%BC%89)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
