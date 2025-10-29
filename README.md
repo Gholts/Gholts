@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[love talkin’ (honey it’s you)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/love+talkin%E2%80%99+(honey+it%E2%80%99s+you))** - 山下達郎<br/>
-> ∙ **[LOVE SPACE](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/LOVE+SPACE)** - 山下達郎<br/>
-> ∙ **[DANCER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/DANCER)** - 山下達郎<br/>
-> ∙ **[Candy](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Candy)** - 山下達郎<br/>
-> ∙ **[素敵な午後は](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%B4%A0%E6%95%B5%E3%81%AA%E5%8D%88%E5%BE%8C%E3%81%AF)** - 山下達郎<br/>
-> ∙ **[翼に乗せて](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%BF%BC%E3%81%AB%E4%B9%97%E3%81%9B%E3%81%A6)** - 山下達郎<br/>
+- **[love talkin’ (honey it’s you)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/love+talkin%E2%80%99+(honey+it%E2%80%99s+you))** - 山下達郎<br/>
+- **[LOVE SPACE](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/LOVE+SPACE)** - 山下達郎<br/>
+- **[DANCER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/DANCER)** - 山下達郎<br/>
+- **[Candy](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Candy)** - 山下達郎<br/>
+- **[素敵な午後は](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%B4%A0%E6%95%B5%E3%81%AA%E5%8D%88%E5%BE%8C%E3%81%AF)** - 山下達郎<br/>
+- **[翼に乗せて](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%BF%BC%E3%81%AB%E4%B9%97%E3%81%9B%E3%81%A6)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
