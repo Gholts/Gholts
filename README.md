@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[When I Arrive (feat. Miss Ko)](https://www.last.fm/music/Soft+Lipa/_/When+I+Arrive+(feat.+Miss+Ko))** - Soft Lipa<br/>
+> 🎶 **[過程](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B)** - Soft Lipa<br/>
+> ∙ **[When I Arrive (feat. Miss Ko)](https://www.last.fm/music/Soft+Lipa/_/When+I+Arrive+(feat.+Miss+Ko))** - Soft Lipa<br/>
 > ∙ **[King Od Poop](https://www.last.fm/music/Soft+Lipa/_/King+Od+Poop)** - Soft Lipa<br/>
 > ∙ **[Our Problems (feat. N.Chen)](https://www.last.fm/music/Soft+Lipa/_/Our+Problems+(feat.+N.Chen))** - Soft Lipa<br/>
 > ∙ **[Rainy Season](https://www.last.fm/music/Soft+Lipa/_/Rainy+Season)** - Soft Lipa<br/>
 > ∙ **[Biking](https://www.last.fm/music/Soft+Lipa/_/Biking)** - Soft Lipa<br/>
-> ∙ **[MPC, Turntables and Mic (skit)](https://www.last.fm/music/Soft+Lipa/_/MPC,+Turntables+and+Mic+(skit))** - Soft Lipa<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
