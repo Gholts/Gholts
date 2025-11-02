@@ -1,10 +1,9 @@
-name: Update Readme File test
+name: Update Readme File
 on:
   schedule:
     - cron: '0 */5 * * *'
   workflow_dispatch:
 
-# 確保 cron 任務不會重疊運行
 concurrency: 
   group: ${{ github.workflow }}
   cancel-in-progress: false
@@ -53,23 +52,30 @@ jobs:
           git config --global user.name "README Bot"
           git config --global user.email "bot@example.com"
 
-      # 6. 儲存本地更改，拉取遠端，然後重新應用更改
-      - name: Stash local changes, pull remote, and apply
+      # 6. 【關鍵修復】
+      # 儲存、拉取、並自動解決合併衝突
+      - name: Stash local changes, pull remote, and resolve conflicts
         run: |
           git stash
           git pull --rebase
-          git stash pop || true # "|| true" 可防止在沒有 stash 時出錯
+          
+          # 嘗試 pop stash。如果失敗 (非 0 退出碼)，則意味著有衝突
+          if ! git stash pop; then
+            echo "Merge conflict detected. Resolving conflict by accepting stashed (newly generated) version."
+            
+            # 在 stash pop 衝突中，'theirs' 是 stashed 版本 (我們想要的)
+            # 我們檢出這個版本，覆蓋掉帶有衝突標記的文件
+            git checkout --theirs README.md
+            
+            # 標記衝突已解決
+            git add README.md
+          fi
 
       # 7. 提交所有更改
       - name: Commit all changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs(readme): update stats and blog feed"
-          
-          # Committer (提交者)
           commit_user_name: "README Bot"
           commit_user_email: "bot@example.com"
-          
-          # 【關鍵修復】
-          # Author (作者) - 指定作者以避免計入熱力圖
           commit_author: "README Bot <bot@example.com>"
