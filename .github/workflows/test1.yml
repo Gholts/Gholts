@@ -48,14 +48,22 @@ jobs:
             https://gholts.top/rss.xml
 
       # 5. 【關鍵修復】
-      # 在提交前，拉取並 rebase 遠端更改
-      # git pull --rebase 會自動儲存 (stash) 您未提交的本地更改 (README.md),
-      # 拉取遠端最新提交, 然後再應用 (unstash) 您的本地更改。
-      - name: Pull and Rebase
-        run: git pull --rebase
+      # 在 stash 和 pull 之前，必須先配置 Git 用戶
+      - name: Configure Git
+        run: |
+          git config --global user.name "README Bot"
+          git config --global user.email "bot@example.com"
 
-      # 6. 提交所有更改
-      # 此時, 本地分支已包含遠端最新提交，可以安全推送
+      # 6. 【關鍵修復】
+      # 儲存本地更改，拉取遠端，然後重新應用更改
+      - name: Stash local changes, pull remote, and apply
+        run: |
+          git stash
+          git pull --rebase
+          git stash pop || true # "|| true" 可防止在沒有 stash 時出錯
+
+      # 7. 提交所有更改
+      # action 會使用自己的 user/email 覆蓋 global 設置
       - name: Commit all changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
