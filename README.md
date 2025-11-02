@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[My Name Is](https://www.last.fm/music/Eminem/_/My+Name+Is)** - Eminem<br/>
-> ∙ **[GO!!!](https://www.last.fm/music/Flow/_/GO!!!)** - Flow<br/>
-> ∙ **[PomPom Volcano](https://www.last.fm/music/Arc+De+Soleil/_/PomPom+Volcano)** - Arc De Soleil<br/>
-> ∙ **[Just Doesn't Feel Right (Instrumental Version)](https://www.last.fm/music/OTE/_/Just+Doesn%27t+Feel+Right+(Instrumental+Version))** - OTE<br/>
-> ∙ **[God only knows](https://www.last.fm/music/Oratorio+The+World+God+Only+Knows/_/God+only+knows)** - Oratorio The World God Only Knows<br/>
-> ∙ **[Baby I Don't Care](https://www.last.fm/music/Nash+Music+Library/_/Baby+I+Don%27t+Care)** - Nash Music Library<br/>
+> ∙ **[CHEER UP! THE SUMMER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/CHEER+UP!+THE+SUMMER)** - 山下達郎<br/>
+> ∙ **[Hada](https://www.last.fm/music/Gen+Hoshino/_/Hada)** - Gen Hoshino<br/>
+> ∙ **[Koi](https://www.last.fm/music/Gen+Hoshino/_/Koi)** - Gen Hoshino<br/>
+> ∙ **[Pop Virus](https://www.last.fm/music/Gen+Hoshino/_/Pop+Virus)** - Gen Hoshino<br/>
+> ∙ **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
+> ∙ **[CHEER UP! THE SUMMER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/CHEER+UP!+THE+SUMMER)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
