@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[mutual love](https://www.last.fm/music/aiko/_/mutual+love)** - aiko<br/>
-> ∙ **[NOT SORRY (feat. pH-1)](https://www.last.fm/music/Lee+Young+Ji/_/NOT+SORRY+(feat.+pH-1))** - Lee Young Ji<br/>
-> ∙ **[Osho Meeting](https://www.last.fm/music/Hashimoto+JazzyHiphop/_/Osho+Meeting)** - Hashimoto JazzyHiphop<br/>
-> ∙ **[Druids](https://www.last.fm/music/Zadbeatz/_/Druids)** - Zadbeatz<br/>
-> ∙ **[Unease](https://www.last.fm/music/DE+DE+MOUSE,+Refeeld+&+Lonely+Girl/_/Unease)** - DE DE MOUSE, Refeeld & Lonely Girl<br/>
-> ∙ **[Euphemia li Britannia](https://www.last.fm/music/4s4ki/_/Euphemia+li+Britannia)** - 4s4ki<br/>
+- **[Academia](https://www.last.fm/music/Heyson/_/Academia)** - Heyson<br/>
+- **[Sunny](https://www.last.fm/music/Yorushika/_/Sunny)** - Yorushika<br/>
+- **[Dream Lantern](https://www.last.fm/music/RADWIMPS/_/Dream+Lantern)** - RADWIMPS<br/>
+- **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
+- **[ただ君に晴れ](https://www.last.fm/music/Yorushika/_/%E3%81%9F%E3%81%A0%E5%90%9B%E3%81%AB%E6%99%B4%E3%82%8C)** - Yorushika<br/>
+- **[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)** - MGMT<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
