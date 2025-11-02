@@ -1,30 +1,26 @@
-name: Update Readme File test
+name: Update Readme File
 on:
   schedule:
     - cron: '0 */5 * * *'
   workflow_dispatch:
 
-# 1. 添加併發控制
-# 這能確保同一時間只有一個工作流程實例在運行。
-# 它會等待上一個運行完成，而不是失敗。
+# 確保 cron 任務不會重疊運行
 concurrency: 
   group: ${{ github.workflow }}
   cancel-in-progress: false
 
 jobs:
-  # 2. 將兩個任務合併為一個
   update-readme:
     name: Update Readme Stats and Feed
     runs-on: ubuntu-latest
     steps:
-      # 3. 簽出代碼
-      # 只需要簽出一次
+      # 1. 簽出代碼
       - name: Checkout main branch
-        uses: actions/checkout@v4 # 建議使用 v4
+        uses: actions/checkout@v4
         with:
-          ref: main # 明確指定 main 分支
+          ref: main 
 
-      # 4. 運行第一個腳本 (Last.fm)
+      # 2. 運行 Last.fm 腳本
       - name: Update Last.fm README
         uses: dxnter/lastfm-readme@v1.6.0
         with:
@@ -33,13 +29,13 @@ jobs:
           SHOW_TITLE: false
           LOCALE: en-US
 
-      # 5. 運行 sed 清理
+      # 3. 運行 sed 清理
       - name: Remove blockquote from README
         run: |
           sed -i 's/> 🎶/-/g' README.md
           sed -i 's/> ∙/-/g' README.md
 
-      # 6. 運行第二個腳本 (Blog Feed)
+      # 4. 運行 Blog Feed 腳本
       - name: Update Blog Feed
         uses: sarisia/actions-readme-feed@v1
         id: feed
@@ -51,10 +47,17 @@ jobs:
           url: |
             https://gholts.top/rss.xml
 
-      # 7. 最後，提交所有更改
-      # 兩個腳本的所有更改將被打包到一個提交中
+      # 5. 【關鍵修復】
+      # 在提交前，拉取並 rebase 遠端更改
+      # git pull --rebase 會自動儲存 (stash) 您未提交的本地更改 (README.md),
+      # 拉取遠端最新提交, 然後再應用 (unstash) 您的本地更改。
+      - name: Pull and Rebase
+        run: git pull --rebase
+
+      # 6. 提交所有更改
+      # 此時, 本地分支已包含遠端最新提交，可以安全推送
       - name: Commit all changes
-        uses: stefanzweifel/git-auto-commit-action@v5 # 建議使用 v5，它更穩定
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs(readme): update stats and blog feed"
           commit_user_name: "README Bot"
