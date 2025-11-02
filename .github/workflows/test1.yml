@@ -3,15 +3,28 @@ on:
   schedule:
     - cron: '0 */5 * * *'
   workflow_dispatch:
+
+# 1. 添加併發控制
+# 這能確保同一時間只有一個工作流程實例在運行。
+# 它會等待上一個運行完成，而不是失敗。
+concurrency: 
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
 jobs:
-  update-lastfm:
-    name: Update Music Stats
+  # 2. 將兩個任務合併為一個
+  update-readme:
+    name: Update Readme Stats and Feed
     runs-on: ubuntu-latest
     steps:
-      # 1. 簽出代碼
-      - uses: actions/checkout@v3
+      # 3. 簽出代碼
+      # 只需要簽出一次
+      - name: Checkout main branch
+        uses: actions/checkout@v4 # 建議使用 v4
+        with:
+          ref: main # 明確指定 main 分支
 
-      # 2. 更新 Last.fm 統計數據
+      # 4. 運行第一個腳本 (Last.fm)
       - name: Update Last.fm README
         uses: dxnter/lastfm-readme@v1.6.0
         with:
@@ -20,29 +33,15 @@ jobs:
           SHOW_TITLE: false
           LOCALE: en-US
 
-      # 3. 執行 sed 替換
+      # 5. 運行 sed 清理
       - name: Remove blockquote from README
         run: |
           sed -i 's/> 🎶/-/g' README.md
           sed -i 's/> ∙/-/g' README.md
 
-      # 4. 自動提交更改
-      - name: Commit Last.fm changes
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "docs(readme): update last.fm stats"
-          commit_user_name: "README Bot"
-          commit_user_email: "bot@example.com"
-
-  update-feed:
-    needs: update-lastfm
-    runs-on: ubuntu-latest
-    steps:
-      # 1. 簽出代碼
-      - uses: actions/checkout@v5
-
-      # 2. 更新 Blog Feed
-      - uses: sarisia/actions-readme-feed@v1
+      # 6. 運行第二個腳本 (Blog Feed)
+      - name: Update Blog Feed
+        uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
           file: 'README.md'
@@ -52,10 +51,11 @@ jobs:
           url: |
             https://gholts.top/rss.xml
 
-      # 3. 自動提交更改
-      - name: Commit feed changes
-        uses: stefanzweifel/git-auto-commit-action@v7
+      # 7. 最後，提交所有更改
+      # 兩個腳本的所有更改將被打包到一個提交中
+      - name: Commit all changes
+        uses: stefanzweifel/git-auto-commit-action@v5 # 建議使用 v5，它更穩定
         with:
-          commit_message: "docs(readme): update blog feed"
+          commit_message: "docs(readme): update stats and blog feed"
           commit_user_name: "README Bot"
           commit_user_email: "bot@example.com"
