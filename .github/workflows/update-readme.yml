@@ -3,11 +3,21 @@ on:
   schedule:
     - cron: '0 */5 * * *'
   workflow_dispatch:
+
+concurrency: 
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
 jobs:
-  update-lastfm:
-    name: Update Music Stats
+  update-readme:
+    name: Update Readme Stats and Feed
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v5
+        with:
+          ref: main 
+
       - name: Update Last.fm README
         uses: dxnter/lastfm-readme@v1.6.0
         with:
@@ -15,23 +25,14 @@ jobs:
           LASTFM_USER: GhostMxv
           SHOW_TITLE: false
           LOCALE: en-US
-      - uses: actions/checkout@v3
-      - name: Pull latest changes
-        run: git pull
+
       - name: Remove blockquote from README
         run: |
           sed -i 's/> 🎶/-/g' README.md
           sed -i 's/> ∙/-/g' README.md
-      - name: Commit
-        uses: sarisia/actions-commit@master
-  update-feed:
-    needs: update-lastfm
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Pull latest changes
-        run: git pull
-      - uses: sarisia/actions-readme-feed@v1
+
+      - name: Update Blog Feed
+        uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
           file: 'README.md'
@@ -40,5 +41,29 @@ jobs:
           timezone: 'Asia/Hong_Kong'
           url: |
             https://gholts.top/rss.xml
-      - if: ${{ steps.feed.outputs.changed == true }}
-        uses: sarisia/actions-commit@master
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "README Bot"
+          git config --global user.email "bot@example.com"
+
+      - name: Stash local changes, pull remote, and resolve conflicts
+        run: |
+          git stash
+          git pull --rebase
+          
+          if ! git stash pop; then
+            echo "Merge conflict detected. Resolving conflict by accepting stashed (newly generated) version."
+
+            git checkout --theirs README.md
+
+            git add README.md
+          fi
+
+      - name: Commit all changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "docs(readme): update stats and blog feed"
+          commit_user_name: "README Bot"
+          commit_user_email: "bot@example.com"
+          commit_author: "README Bot <bot@example.com>"
