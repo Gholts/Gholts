@@ -1,0 +1,64 @@
+name: Update Readme File
+on:
+  schedule:
+    - cron: '0 */5 * * *'
+  workflow_dispatch:
+jobs:
+  update-lastfm:
+    name: Update Music Stats
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 首先簽出代碼
+      - uses: actions/checkout@v3
+      # 2. 拉取最新更改，以防萬一
+      - name: Pull latest changes
+        run: git pull
+      
+      # 3. 在簽出代碼後，運行 lastfm-readme
+      - name: Update Last.fm README
+        uses: dxnter/lastfm-readme@v1.6.0
+        with:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: GhostMxv
+          SHOW_TITLE: false
+          LOCALE: en-US
+          
+      - name: Remove blockquote from README
+        run: |
+          sed -i 's/> 🎶/-/g' README.md
+          sed -i 's/> ∙/-/g' README.md
+          
+      # 4. 提交時指定用戶信息
+      - name: Commit Last.fm changes
+        uses: sarisia/actions-commit@master
+        with:
+          commit_user_name: "README Bot"
+          commit_user_email: "bot@example.com"
+          commit_message: "docs: update last.fm stats" # 建議為自動提交添加清晰的 message
+
+  update-feed:
+    needs: update-lastfm
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Pull latest changes
+        run: git pull
+        
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          file: 'README.md'
+          max_entry: 6
+          format: '- ${monthshort} ${day} ${year} - [${title}](${url})'
+          timezone: 'Asia/Hong_Kong'
+          url: |
+            https://gholts.top/rss.xml
+            
+      # 5. 在此處也指定相同的用戶信息
+      - if: ${{ steps.feed.outputs.changed == true }}
+        name: Commit feed changes
+        uses: sarisia/actions-commit@master
+        with:
+          commit_user_name: "README Bot"
+          commit_user_email: "bot@example.com"
+          commit_message: "docs: update blog feed" # 建議為自動提交添加清晰的 message
