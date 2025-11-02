@@ -1,4 +1,4 @@
-name: Update Readme File
+name: Update Readme File test
 on:
   schedule:
     - cron: '0 */5 * * *'
@@ -47,15 +47,13 @@ jobs:
           url: |
             https://gholts.top/rss.xml
 
-      # 5. 【關鍵修復】
-      # 在 stash 和 pull 之前，必須先配置 Git 用戶
+      # 5. 配置 Git 用戶，為 stash 和 pull 做準備
       - name: Configure Git
         run: |
           git config --global user.name "README Bot"
           git config --global user.email "bot@example.com"
 
-      # 6. 【關鍵修復】
-      # 儲存本地更改，拉取遠端，然後重新應用更改
+      # 6. 儲存本地更改，拉取遠端，然後重新應用更改
       - name: Stash local changes, pull remote, and apply
         run: |
           git stash
@@ -63,10 +61,15 @@ jobs:
           git stash pop || true # "|| true" 可防止在沒有 stash 時出錯
 
       # 7. 提交所有更改
-      # action 會使用自己的 user/email 覆蓋 global 設置
       - name: Commit all changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs(readme): update stats and blog feed"
+          
+          # Committer (提交者)
           commit_user_name: "README Bot"
           commit_user_email: "bot@example.com"
+          
+          # 【關鍵修復】
+          # Author (作者) - 指定作者以避免計入熱力圖
+          commit_author: "README Bot <bot@example.com>"
