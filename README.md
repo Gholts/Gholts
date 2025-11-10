@@ -8,12 +8,12 @@
         <div align="left">
         
 <!-- feed start -->
+- Nov 10 2025 - [Switch AirPods Noise Cancellation on macOS with a Hotkey](https://gholts.top/posts/switch-airpods-mode-by-hotkey/)
 - Sep 30 2025 - [Best Dark Toggle System Working Way](https://gholts.top/posts/best-dark-toggle-system/)
 - Sep 25 2025 - [Parody as Politics](https://gholts.top/posts/parody-as-politics/)
 - Sep 14 2025 - [Make $HOME More Exquisite](https://gholts.top/posts/home-dir-organization/)
 - Sep 10 2025 - [Mihomo Config Update](https://gholts.top/posts/yaml-update/)
 - Aug 9 2025 - [Mihomo and Stash Config](https://gholts.top/posts/yaml/)
-- Jul 30 2025 - [Wireguard Running on Loon and Stash](https://gholts.top/posts/wireguard/)
 <!-- feed end -->
         
 </div>
