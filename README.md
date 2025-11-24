@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
-- **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
-- **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
-- **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
-- **[Good Trip](https://www.last.fm/music/Soft+Lipa/_/Good+Trip)** - Soft Lipa<br/>
-- **[Good Trip](https://www.last.fm/music/Soft+Lipa/_/Good+Trip)** - Soft Lipa<br/>
+> ∙ **[Kids](https://www.last.fm/music/MGMT/_/Kids)** - MGMT<br/>
+> ∙ **[Rapp Snitch Knishes (feat. Mr. Fantastik)](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes+(feat.+Mr.+Fantastik))** - MF DOOM<br/>
+> ∙ **[Mysëlf](https://www.last.fm/music/Yeat/_/Mys%C3%ABlf)** - Yeat<br/>
+> ∙ **[Memory Lane](https://www.last.fm/music/Netsky/_/Memory+Lane)** - Netsky<br/>
+> ∙ **[Loveit](https://www.last.fm/music/pinocchioP/_/Loveit)** - pinocchioP<br/>
+> ∙ **[Tell Me Something Good](https://www.last.fm/music/Ewan+McVicar/_/Tell+Me+Something+Good)** - Ewan McVicar<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
