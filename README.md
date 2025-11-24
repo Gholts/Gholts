@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[CHEER UP! THE SUMMER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/CHEER+UP!+THE+SUMMER)** - 山下達郎<br/>
-- **[Hada](https://www.last.fm/music/Gen+Hoshino/_/Hada)** - Gen Hoshino<br/>
-- **[Koi](https://www.last.fm/music/Gen+Hoshino/_/Koi)** - Gen Hoshino<br/>
-- **[Pop Virus](https://www.last.fm/music/Gen+Hoshino/_/Pop+Virus)** - Gen Hoshino<br/>
-- **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
-- **[CHEER UP! THE SUMMER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/CHEER+UP!+THE+SUMMER)** - 山下達郎<br/>
+> ∙ **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
+> ∙ **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
+> ∙ **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
+> ∙ **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
+> ∙ **[Good Trip](https://www.last.fm/music/Soft+Lipa/_/Good+Trip)** - Soft Lipa<br/>
+> ∙ **[Good Trip](https://www.last.fm/music/Soft+Lipa/_/Good+Trip)** - Soft Lipa<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
