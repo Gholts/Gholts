@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
-> ∙ **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
-> ∙ **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
-> ∙ **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
-> ∙ **[Good Trip](https://www.last.fm/music/Soft+Lipa/_/Good+Trip)** - Soft Lipa<br/>
-> ∙ **[Good Trip](https://www.last.fm/music/Soft+Lipa/_/Good+Trip)** - Soft Lipa<br/>
+- **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
+- **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
+- **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
+- **[她和時間跳華爾茲](https://www.last.fm/music/Soft+Lipa/_/%E5%A5%B9%E5%92%8C%E6%99%82%E9%96%93%E8%B7%B3%E8%8F%AF%E7%88%BE%E8%8C%B2)** - Soft Lipa<br/>
+- **[Good Trip](https://www.last.fm/music/Soft+Lipa/_/Good+Trip)** - Soft Lipa<br/>
+- **[Good Trip](https://www.last.fm/music/Soft+Lipa/_/Good+Trip)** - Soft Lipa<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
