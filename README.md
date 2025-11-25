@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Kids](https://www.last.fm/music/MGMT/_/Kids)** - MGMT<br/>
-> ∙ **[Rapp Snitch Knishes (feat. Mr. Fantastik)](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes+(feat.+Mr.+Fantastik))** - MF DOOM<br/>
-> ∙ **[Mysëlf](https://www.last.fm/music/Yeat/_/Mys%C3%ABlf)** - Yeat<br/>
-> ∙ **[Memory Lane](https://www.last.fm/music/Netsky/_/Memory+Lane)** - Netsky<br/>
-> ∙ **[Loveit](https://www.last.fm/music/pinocchioP/_/Loveit)** - pinocchioP<br/>
-> ∙ **[Tell Me Something Good](https://www.last.fm/music/Ewan+McVicar/_/Tell+Me+Something+Good)** - Ewan McVicar<br/>
+> ∙ **[Takedown](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Takedown)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+> ∙ **[Strategy](https://www.last.fm/music/TWICE/_/Strategy)** - TWICE<br/>
+> ∙ **[Golden](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Golden)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+> ∙ **[Soda Pop](https://www.last.fm/music/Saja+Boys,+Andrew+Choi,+Neckwav,+Danny+Chung,+Kevin+Woo,+samUIL+Lee+&+KPop+Demon+Hunters+Cast/_/Soda+Pop)** - Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee & KPop Demon Hunters Cast<br/>
+> ∙ **[How It’s Done](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/How+It%E2%80%99s+Done)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+> ∙ **[TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)](https://www.last.fm/music/TWICE/_/TAKEDOWN+(JEONGYEON,+JIHYO,+CHAEYOUNG))** - TWICE<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
