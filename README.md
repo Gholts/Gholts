@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Kids](https://www.last.fm/music/MGMT/_/Kids)** - MGMT<br/>
-> ∙ **[Rapp Snitch Knishes (feat. Mr. Fantastik)](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes+(feat.+Mr.+Fantastik))** - MF DOOM<br/>
-> ∙ **[Mysëlf](https://www.last.fm/music/Yeat/_/Mys%C3%ABlf)** - Yeat<br/>
-> ∙ **[Memory Lane](https://www.last.fm/music/Netsky/_/Memory+Lane)** - Netsky<br/>
-> ∙ **[Loveit](https://www.last.fm/music/pinocchioP/_/Loveit)** - pinocchioP<br/>
-> ∙ **[Tell Me Something Good](https://www.last.fm/music/Ewan+McVicar/_/Tell+Me+Something+Good)** - Ewan McVicar<br/>
+- **[Kids](https://www.last.fm/music/MGMT/_/Kids)** - MGMT<br/>
+- **[Rapp Snitch Knishes (feat. Mr. Fantastik)](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes+(feat.+Mr.+Fantastik))** - MF DOOM<br/>
+- **[Mysëlf](https://www.last.fm/music/Yeat/_/Mys%C3%ABlf)** - Yeat<br/>
+- **[Memory Lane](https://www.last.fm/music/Netsky/_/Memory+Lane)** - Netsky<br/>
+- **[Loveit](https://www.last.fm/music/pinocchioP/_/Loveit)** - pinocchioP<br/>
+- **[Tell Me Something Good](https://www.last.fm/music/Ewan+McVicar/_/Tell+Me+Something+Good)** - Ewan McVicar<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
