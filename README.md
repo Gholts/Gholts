@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Takedown](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Takedown)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
-- **[Strategy](https://www.last.fm/music/TWICE/_/Strategy)** - TWICE<br/>
-- **[Golden](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Golden)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
-- **[Soda Pop](https://www.last.fm/music/Saja+Boys,+Andrew+Choi,+Neckwav,+Danny+Chung,+Kevin+Woo,+samUIL+Lee+&+KPop+Demon+Hunters+Cast/_/Soda+Pop)** - Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee & KPop Demon Hunters Cast<br/>
-- **[How It’s Done](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/How+It%E2%80%99s+Done)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
-- **[TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)](https://www.last.fm/music/TWICE/_/TAKEDOWN+(JEONGYEON,+JIHYO,+CHAEYOUNG))** - TWICE<br/>
+> ∙ **[Zoo](https://www.last.fm/music/Shakira/_/Zoo)** - Shakira<br/>
+> ∙ **[Life Progressive Tense](https://www.last.fm/music/May%27n/_/Life+Progressive+Tense)** - May'n<br/>
+> ∙ **[asu no yozora shoukaihan](https://www.last.fm/music/Yuaru/_/asu+no+yozora+shoukaihan)** - Yuaru<br/>
+> ∙ **[FUSHIGI](https://www.last.fm/music/Gen+Hoshino/_/FUSHIGI)** - Gen Hoshino<br/>
+> ∙ **[Takedown](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Takedown)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+> ∙ **[Strategy](https://www.last.fm/music/TWICE/_/Strategy)** - TWICE<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
