@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Zoo](https://www.last.fm/music/Shakira/_/Zoo)** - Shakira<br/>
-- **[Life Progressive Tense](https://www.last.fm/music/May%27n/_/Life+Progressive+Tense)** - May'n<br/>
-- **[asu no yozora shoukaihan](https://www.last.fm/music/Yuaru/_/asu+no+yozora+shoukaihan)** - Yuaru<br/>
-- **[FUSHIGI](https://www.last.fm/music/Gen+Hoshino/_/FUSHIGI)** - Gen Hoshino<br/>
-- **[Takedown](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Takedown)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
-- **[Strategy](https://www.last.fm/music/TWICE/_/Strategy)** - TWICE<br/>
+> ∙ **[Zoo](https://www.last.fm/music/Shakira/_/Zoo)** - Shakira<br/>
+> ∙ **[Marsh Market](https://www.last.fm/music/Michael+Giacchino/_/Marsh+Market)** - Michael Giacchino<br/>
+> ∙ **[Snake Away Pt. 2](https://www.last.fm/music/Michael+Giacchino/_/Snake+Away+Pt.+2)** - Michael Giacchino<br/>
+> ∙ **[Snake Away Pt. 1](https://www.last.fm/music/Michael+Giacchino/_/Snake+Away+Pt.+1)** - Michael Giacchino<br/>
+> ∙ **[Journey to the Journal](https://www.last.fm/music/Michael+Giacchino/_/Journey+to+the+Journal)** - Michael Giacchino<br/>
+> ∙ **[A Commuted Relationship](https://www.last.fm/music/Michael+Giacchino/_/A+Commuted+Relationship)** - Michael Giacchino<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
