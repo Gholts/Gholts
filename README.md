@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Zoo](https://www.last.fm/music/Shakira/_/Zoo)** - Shakira<br/>
-- **[Marsh Market](https://www.last.fm/music/Michael+Giacchino/_/Marsh+Market)** - Michael Giacchino<br/>
-- **[Snake Away Pt. 2](https://www.last.fm/music/Michael+Giacchino/_/Snake+Away+Pt.+2)** - Michael Giacchino<br/>
-- **[Snake Away Pt. 1](https://www.last.fm/music/Michael+Giacchino/_/Snake+Away+Pt.+1)** - Michael Giacchino<br/>
-- **[Journey to the Journal](https://www.last.fm/music/Michael+Giacchino/_/Journey+to+the+Journal)** - Michael Giacchino<br/>
-- **[A Commuted Relationship](https://www.last.fm/music/Michael+Giacchino/_/A+Commuted+Relationship)** - Michael Giacchino<br/>
+> ∙ **[Zoo](https://www.last.fm/music/Shakira/_/Zoo)** - Shakira<br/>
+> ∙ **[Marsh Market](https://www.last.fm/music/Michael+Giacchino/_/Marsh+Market)** - Michael Giacchino<br/>
+> ∙ **[Snake Away Pt. 2](https://www.last.fm/music/Michael+Giacchino/_/Snake+Away+Pt.+2)** - Michael Giacchino<br/>
+> ∙ **[Snake Away Pt. 1](https://www.last.fm/music/Michael+Giacchino/_/Snake+Away+Pt.+1)** - Michael Giacchino<br/>
+> ∙ **[Journey to the Journal](https://www.last.fm/music/Michael+Giacchino/_/Journey+to+the+Journal)** - Michael Giacchino<br/>
+> ∙ **[A Commuted Relationship](https://www.last.fm/music/Michael+Giacchino/_/A+Commuted+Relationship)** - Michael Giacchino<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
