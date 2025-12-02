@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[DONUT SONG (2023 NEW REMASTER) (Original Karaoke)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/DONUT+SONG+(2023+NEW+REMASTER)+(Original+Karaoke))** - 山下達郎<br/>
-> ∙ **[Love's On Fire (Original Karaoke)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Love%27s+On+Fire+(Original+Karaoke))** - 山下達郎<br/>
-> ∙ **[Sync Of Summer (Original Karaoke)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Sync+Of+Summer+(Original+Karaoke))** - 山下達郎<br/>
-> ∙ **[LOVE'S ON FIRE](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/LOVE%27S+ON+FIRE)** - 山下達郎<br/>
-> ∙ **[Sync Of Summer](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Sync+Of+Summer)** - 山下達郎<br/>
-> ∙ **[Zoo](https://www.last.fm/music/Shakira/_/Zoo)** - Shakira<br/>
+> ∙ **[Golden](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Golden)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+> ∙ **[Soda Pop](https://www.last.fm/music/Saja+Boys,+Andrew+Choi,+Neckwav,+Danny+Chung,+Kevin+Woo,+samUIL+Lee+&+KPop+Demon+Hunters+Cast/_/Soda+Pop)** - Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee & KPop Demon Hunters Cast<br/>
+> ∙ **[How It’s Done](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/How+It%E2%80%99s+Done)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+> ∙ **[TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)](https://www.last.fm/music/TWICE/_/TAKEDOWN+(JEONGYEON,+JIHYO,+CHAEYOUNG))** - TWICE<br/>
+> ∙ **[Hypersilent](https://www.last.fm/music/Mochakk+&+J.J.+Fad/_/Hypersilent)** - Mochakk & J.J. Fad<br/>
+> ∙ **[アトムの子 （’92 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%82%A2%E3%83%88%E3%83%A0%E3%81%AE%E5%AD%90+%EF%BC%88%E2%80%9992+Live+Version%EF%BC%89)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
