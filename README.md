@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Zoo](https://www.last.fm/music/Shakira/_/Zoo)** - Shakira<br/>
-- **[Marsh Market](https://www.last.fm/music/Michael+Giacchino/_/Marsh+Market)** - Michael Giacchino<br/>
-- **[Snake Away Pt. 2](https://www.last.fm/music/Michael+Giacchino/_/Snake+Away+Pt.+2)** - Michael Giacchino<br/>
-- **[Snake Away Pt. 1](https://www.last.fm/music/Michael+Giacchino/_/Snake+Away+Pt.+1)** - Michael Giacchino<br/>
-- **[Journey to the Journal](https://www.last.fm/music/Michael+Giacchino/_/Journey+to+the+Journal)** - Michael Giacchino<br/>
-- **[A Commuted Relationship](https://www.last.fm/music/Michael+Giacchino/_/A+Commuted+Relationship)** - Michael Giacchino<br/>
+> 🎶 **[DONUT SONG (2023 NEW REMASTER) (Original Karaoke)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/DONUT+SONG+(2023+NEW+REMASTER)+(Original+Karaoke))** - 山下達郎<br/>
+> ∙ **[Love's On Fire (Original Karaoke)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Love%27s+On+Fire+(Original+Karaoke))** - 山下達郎<br/>
+> ∙ **[Sync Of Summer (Original Karaoke)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Sync+Of+Summer+(Original+Karaoke))** - 山下達郎<br/>
+> ∙ **[LOVE'S ON FIRE](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/LOVE%27S+ON+FIRE)** - 山下達郎<br/>
+> ∙ **[Sync Of Summer](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Sync+Of+Summer)** - 山下達郎<br/>
+> ∙ **[Zoo](https://www.last.fm/music/Shakira/_/Zoo)** - Shakira<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
