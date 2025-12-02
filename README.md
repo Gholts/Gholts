@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[DONUT SONG (2023 NEW REMASTER) (Original Karaoke)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/DONUT+SONG+(2023+NEW+REMASTER)+(Original+Karaoke))** - 山下達郎<br/>
-- **[Love's On Fire (Original Karaoke)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Love%27s+On+Fire+(Original+Karaoke))** - 山下達郎<br/>
-- **[Sync Of Summer (Original Karaoke)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Sync+Of+Summer+(Original+Karaoke))** - 山下達郎<br/>
-- **[LOVE'S ON FIRE](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/LOVE%27S+ON+FIRE)** - 山下達郎<br/>
-- **[Sync Of Summer](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/Sync+Of+Summer)** - 山下達郎<br/>
-- **[Zoo](https://www.last.fm/music/Shakira/_/Zoo)** - Shakira<br/>
+> ∙ **[Free](https://www.last.fm/music/Rumi,+JINU,+EJAE,+Andrew+Choi+&+KPop+Demon+Hunters+Cast/_/Free)** - Rumi, JINU, EJAE, Andrew Choi & KPop Demon Hunters Cast<br/>
+> ∙ **[Your Idol](https://www.last.fm/music/Saja+Boys,+Andrew+Choi,+Neckwav,+Danny+Chung,+Kevin+Woo,+samUIL+Lee+&+KPop+Demon+Hunters+Cast/_/Your+Idol)** - Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee & KPop Demon Hunters Cast<br/>
+> ∙ **[Takedown](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Takedown)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+> ∙ **[Strategy](https://www.last.fm/music/TWICE/_/Strategy)** - TWICE<br/>
+> ∙ **[Golden](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Golden)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+> ∙ **[Soda Pop](https://www.last.fm/music/Saja+Boys,+Andrew+Choi,+Neckwav,+Danny+Chung,+Kevin+Woo,+samUIL+Lee+&+KPop+Demon+Hunters+Cast/_/Soda+Pop)** - Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee & KPop Demon Hunters Cast<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
