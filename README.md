@@ -8,12 +8,12 @@
         <div align="left">
         
 <!-- feed start -->
+- Dec 3 2025 - [The MacOS Settings I Can't Live Without](https://gholts.top/posts/macos-setup/)
 - Nov 10 2025 - [Switch AirPods Noise Cancellation on macOS with a Hotkey](https://gholts.top/posts/switch-airpods-mode-by-hotkey/)
 - Sep 30 2025 - [Best Dark Toggle System Working Way](https://gholts.top/posts/best-dark-toggle-system/)
 - Sep 25 2025 - [Parody as Politics](https://gholts.top/posts/parody-as-politics/)
 - Sep 14 2025 - [Make $HOME More Exquisite](https://gholts.top/posts/home-dir-organization/)
-- Sep 10 2025 - [Mihomo Config Update](https://gholts.top/posts/yaml-update/)
-- Aug 9 2025 - [Mihomo and Stash Config](https://gholts.top/posts/yaml/)
+- Jul 27 2025 - [Squirrel Configuration](https://gholts.top/posts/squirrel-config/)
 <!-- feed end -->
         
 </div>
@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Nocturne No. 4 in A Major, H 36](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+4+in+A+Major,+H+36)** - Alice Sara Ott<br/>
-> ∙ **[Nocturne No. 3 in A-Flat Major, H 26](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+3+in+A-Flat+Major,+H+26)** - Alice Sara Ott<br/>
-> ∙ **[Nocturne No. 2 in C Minor, H 25](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+2+in+C+Minor,+H+25)** - Alice Sara Ott<br/>
-> ∙ **[Nocturne No. 1 in E-Flat Major, H 24](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+1+in+E-Flat+Major,+H+24)** - Alice Sara Ott<br/>
-> ∙ **[Awesome City](https://www.last.fm/music/DJ+FRIP+a.k.a+BEATLAB/_/Awesome+City)** - DJ FRIP a.k.a BEATLAB<br/>
-> ∙ **[NOT SORRY (feat. pH-1)](https://www.last.fm/music/Lee+Young+Ji/_/NOT+SORRY+(feat.+pH-1))** - Lee Young Ji<br/>
+- **[NOT SORRY (feat. pH-1)](https://www.last.fm/music/Lee+Young+Ji/_/NOT+SORRY+(feat.+pH-1))** - Lee Young Ji<br/>
+- **[Free](https://www.last.fm/music/Rumi,+JINU,+EJAE,+Andrew+Choi+&+KPop+Demon+Hunters+Cast/_/Free)** - Rumi, JINU, EJAE, Andrew Choi & KPop Demon Hunters Cast<br/>
+- **[Your Idol](https://www.last.fm/music/Saja+Boys,+Andrew+Choi,+Neckwav,+Danny+Chung,+Kevin+Woo,+samUIL+Lee+&+KPop+Demon+Hunters+Cast/_/Your+Idol)** - Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee & KPop Demon Hunters Cast<br/>
+- **[Takedown](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Takedown)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+- **[Strategy](https://www.last.fm/music/TWICE/_/Strategy)** - TWICE<br/>
+- **[Golden](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Golden)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
