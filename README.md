@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Nocturne No. 4 in A Major, H 36](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+4+in+A+Major,+H+36)** - Alice Sara Ott<br/>
-- **[Nocturne No. 3 in A-Flat Major, H 26](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+3+in+A-Flat+Major,+H+26)** - Alice Sara Ott<br/>
-- **[Nocturne No. 2 in C Minor, H 25](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+2+in+C+Minor,+H+25)** - Alice Sara Ott<br/>
-- **[Nocturne No. 1 in E-Flat Major, H 24](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+1+in+E-Flat+Major,+H+24)** - Alice Sara Ott<br/>
-- **[Awesome City](https://www.last.fm/music/DJ+FRIP+a.k.a+BEATLAB/_/Awesome+City)** - DJ FRIP a.k.a BEATLAB<br/>
-- **[NOT SORRY (feat. pH-1)](https://www.last.fm/music/Lee+Young+Ji/_/NOT+SORRY+(feat.+pH-1))** - Lee Young Ji<br/>
+> ∙ **[Nocturne No. 4 in A Major, H 36](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+4+in+A+Major,+H+36)** - Alice Sara Ott<br/>
+> ∙ **[Nocturne No. 3 in A-Flat Major, H 26](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+3+in+A-Flat+Major,+H+26)** - Alice Sara Ott<br/>
+> ∙ **[Nocturne No. 2 in C Minor, H 25](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+2+in+C+Minor,+H+25)** - Alice Sara Ott<br/>
+> ∙ **[Nocturne No. 1 in E-Flat Major, H 24](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+1+in+E-Flat+Major,+H+24)** - Alice Sara Ott<br/>
+> ∙ **[Awesome City](https://www.last.fm/music/DJ+FRIP+a.k.a+BEATLAB/_/Awesome+City)** - DJ FRIP a.k.a BEATLAB<br/>
+> ∙ **[NOT SORRY (feat. pH-1)](https://www.last.fm/music/Lee+Young+Ji/_/NOT+SORRY+(feat.+pH-1))** - Lee Young Ji<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
