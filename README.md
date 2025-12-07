@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[God only knows](https://www.last.fm/music/Oratorio+The+World+God+Only+Knows/_/God+only+knows)** - Oratorio The World God Only Knows<br/>
-- **[YOUR EYES](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/YOUR+EYES)** - 山下達郎<br/>
-- **[Nocturne No. 5 in B-Flat Major, H 37](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+5+in+B-Flat+Major,+H+37)** - Alice Sara Ott<br/>
-- **[Nocturne No. 4 in A Major, H 36](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+4+in+A+Major,+H+36)** - Alice Sara Ott<br/>
-- **[Nocturne No. 3 in A-Flat Major, H 26](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+3+in+A-Flat+Major,+H+26)** - Alice Sara Ott<br/>
-- **[Nocturne No. 2 in C Minor, H 25](https://www.last.fm/music/Alice+Sara+Ott/_/Nocturne+No.+2+in+C+Minor,+H+25)** - Alice Sara Ott<br/>
+> ∙ **[Shirakechimauze(2010 Version)](https://www.last.fm/music/CHU+KOSAKA/_/Shirakechimauze(2010+Version))** - CHU KOSAKA<br/>
+> ∙ **[Pink Shadow](https://www.last.fm/music/Bread+&+Butter/_/Pink+Shadow)** - Bread & Butter<br/>
+> ∙ **[Chuo Freeway](https://www.last.fm/music/%E6%9D%BE%E4%BB%BB%E8%B0%B7%E7%94%B1%E5%AE%9F/_/Chuo+Freeway)** - 松任谷由実<br/>
+> ∙ **[DOWN TOWN](https://www.last.fm/music/Epo/_/DOWN+TOWN)** - Epo<br/>
+> ∙ **[Remember Summer Days (Bonus Track)](https://www.last.fm/music/Anri/_/Remember+Summer+Days+(Bonus+Track))** - Anri<br/>
+> ∙ **[PLASTIC LOVE](https://www.last.fm/music/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84/_/PLASTIC+LOVE)** - 竹内まりや<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
