@@ -59,7 +59,7 @@
     </a>
   </kbd>
   <kbd>
-    <a href="https://t.me/Gholts0c/">
+    <a href="https://t.me/Gholts0/">
       <img
         src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat"
         alt="Telegram"
