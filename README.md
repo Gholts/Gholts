@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Shirakechimauze(2010 Version)](https://www.last.fm/music/CHU+KOSAKA/_/Shirakechimauze(2010+Version))** - CHU KOSAKA<br/>
-> ∙ **[Pink Shadow](https://www.last.fm/music/Bread+&+Butter/_/Pink+Shadow)** - Bread & Butter<br/>
-> ∙ **[Chuo Freeway](https://www.last.fm/music/%E6%9D%BE%E4%BB%BB%E8%B0%B7%E7%94%B1%E5%AE%9F/_/Chuo+Freeway)** - 松任谷由実<br/>
-> ∙ **[DOWN TOWN](https://www.last.fm/music/Epo/_/DOWN+TOWN)** - Epo<br/>
-> ∙ **[Remember Summer Days (Bonus Track)](https://www.last.fm/music/Anri/_/Remember+Summer+Days+(Bonus+Track))** - Anri<br/>
-> ∙ **[PLASTIC LOVE](https://www.last.fm/music/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84/_/PLASTIC+LOVE)** - 竹内まりや<br/>
+> ∙ **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
+> ∙ **[Dramaturgy](https://www.last.fm/music/Eve/_/Dramaturgy)** - Eve<br/>
+> ∙ **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
+> ∙ **[Chilly (feat. Soft Lipa)](https://www.last.fm/music/Gordon/_/Chilly+(feat.+Soft+Lipa))** - Gordon<br/>
+> ∙ **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
+> ∙ **[BDXBXL](https://www.last.fm/music/Obsimo+&+Shuttle/_/BDXBXL)** - Obsimo & Shuttle<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
