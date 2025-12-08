@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
-> ∙ **[Dramaturgy](https://www.last.fm/music/Eve/_/Dramaturgy)** - Eve<br/>
-> ∙ **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
-> ∙ **[Chilly (feat. Soft Lipa)](https://www.last.fm/music/Gordon/_/Chilly+(feat.+Soft+Lipa))** - Gordon<br/>
-> ∙ **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
-> ∙ **[BDXBXL](https://www.last.fm/music/Obsimo+&+Shuttle/_/BDXBXL)** - Obsimo & Shuttle<br/>
+- **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
+- **[Dramaturgy](https://www.last.fm/music/Eve/_/Dramaturgy)** - Eve<br/>
+- **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
+- **[Chilly (feat. Soft Lipa)](https://www.last.fm/music/Gordon/_/Chilly+(feat.+Soft+Lipa))** - Gordon<br/>
+- **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
+- **[BDXBXL](https://www.last.fm/music/Obsimo+&+Shuttle/_/BDXBXL)** - Obsimo & Shuttle<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
