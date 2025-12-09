@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[balearic incarnation](https://www.last.fm/music/D%C3%B8lle+J%C3%B8lle/_/balearic+incarnation)** - Dølle Jølle<br/>
-> ∙ **[冒険でしょでしょ?](https://www.last.fm/music/Hirano+Aya/_/%E5%86%92%E9%99%BA%E3%81%A7%E3%81%97%E3%82%87%E3%81%A7%E3%81%97%E3%82%87%3F)** - Hirano Aya<br/>
-> ∙ **[過程 (Shin-Ski's Remix)](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B+(Shin-Ski%27s+Remix))** - Soft Lipa<br/>
-> ∙ **[Dead Leaf](https://www.last.fm/music/Gen+Hoshino/_/Dead+Leaf)** - Gen Hoshino<br/>
-> ∙ **[Tokyo Flash](https://www.last.fm/music/Vaundy/_/Tokyo+Flash)** - Vaundy<br/>
-> ∙ **[Humanity](https://www.last.fm/music/J%C3%A9r%C3%A9my+Hababou/_/Humanity)** - Jérémy Hababou<br/>
+- **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
+- **[Dramaturgy](https://www.last.fm/music/Eve/_/Dramaturgy)** - Eve<br/>
+- **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
+- **[Chilly (feat. Soft Lipa)](https://www.last.fm/music/Gordon/_/Chilly+(feat.+Soft+Lipa))** - Gordon<br/>
+- **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
+- **[BDXBXL](https://www.last.fm/music/Obsimo+&+Shuttle/_/BDXBXL)** - Obsimo & Shuttle<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
