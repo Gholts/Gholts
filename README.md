@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Ru-Rararu-Ra-Rurararu-Ra-](https://www.last.fm/music/Sayuri/_/Ru-Rararu-Ra-Rurararu-Ra-)** - Sayuri<br/>
-> ∙ **[Unmeichan](https://www.last.fm/music/Ikimonogakari/_/Unmeichan)** - Ikimonogakari<br/>
-> ∙ **[God knows...](https://www.last.fm/music/Haruhi+Suzumiya+(CV:+Aya+Hirano)/_/God+knows...)** - Haruhi Suzumiya (CV: Aya Hirano)<br/>
-> ∙ **[Back 2 Back](https://www.last.fm/music/Skepta+&+Fred+again../_/Back+2+Back)** - Skepta & Fred again..<br/>
-> ∙ **[balearic incarnation](https://www.last.fm/music/D%C3%B8lle+J%C3%B8lle/_/balearic+incarnation)** - Dølle Jølle<br/>
-> ∙ **[冒険でしょでしょ?](https://www.last.fm/music/Hirano+Aya/_/%E5%86%92%E9%99%BA%E3%81%A7%E3%81%97%E3%82%87%E3%81%A7%E3%81%97%E3%82%87%3F)** - Hirano Aya<br/>
+- **[Ru-Rararu-Ra-Rurararu-Ra-](https://www.last.fm/music/Sayuri/_/Ru-Rararu-Ra-Rurararu-Ra-)** - Sayuri<br/>
+- **[Unmeichan](https://www.last.fm/music/Ikimonogakari/_/Unmeichan)** - Ikimonogakari<br/>
+- **[God knows...](https://www.last.fm/music/Haruhi+Suzumiya+(CV:+Aya+Hirano)/_/God+knows...)** - Haruhi Suzumiya (CV: Aya Hirano)<br/>
+- **[Back 2 Back](https://www.last.fm/music/Skepta+&+Fred+again../_/Back+2+Back)** - Skepta & Fred again..<br/>
+- **[balearic incarnation](https://www.last.fm/music/D%C3%B8lle+J%C3%B8lle/_/balearic+incarnation)** - Dølle Jølle<br/>
+- **[冒険でしょでしょ?](https://www.last.fm/music/Hirano+Aya/_/%E5%86%92%E9%99%BA%E3%81%A7%E3%81%97%E3%82%87%E3%81%A7%E3%81%97%E3%82%87%3F)** - Hirano Aya<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
