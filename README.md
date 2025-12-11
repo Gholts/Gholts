@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[King Od Poop](https://www.last.fm/music/Soft+Lipa/_/King+Od+Poop)** - Soft Lipa<br/>
-> ∙ **[Our Problems (feat. N.Chen)](https://www.last.fm/music/Soft+Lipa/_/Our+Problems+(feat.+N.Chen))** - Soft Lipa<br/>
-> ∙ **[Rainy Season](https://www.last.fm/music/Soft+Lipa/_/Rainy+Season)** - Soft Lipa<br/>
-> ∙ **[Biking](https://www.last.fm/music/Soft+Lipa/_/Biking)** - Soft Lipa<br/>
-> ∙ **[MPC, Turntables and Mic (skit)](https://www.last.fm/music/Soft+Lipa/_/MPC,+Turntables+and+Mic+(skit))** - Soft Lipa<br/>
-> ∙ **[Wang](https://www.last.fm/music/Soft+Lipa/_/Wang)** - Soft Lipa<br/>
+- **[The Scientist](https://www.last.fm/music/Coldplay/_/The+Scientist)** - Coldplay<br/>
+- **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
+- **[Dramaturgy](https://www.last.fm/music/Eve/_/Dramaturgy)** - Eve<br/>
+- **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
+- **[Chilly (feat. Soft Lipa)](https://www.last.fm/music/Gordon/_/Chilly+(feat.+Soft+Lipa))** - Gordon<br/>
+- **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
