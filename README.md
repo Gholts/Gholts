@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
+> ∙ **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
+> ∙ **[Dream Lantern](https://www.last.fm/music/RADWIMPS/_/Dream+Lantern)** - RADWIMPS<br/>
 > ∙ **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
 > ∙ **[ただ君に晴れ](https://www.last.fm/music/Yorushika/_/%E3%81%9F%E3%81%A0%E5%90%9B%E3%81%AB%E6%99%B4%E3%82%8C)** - Yorushika<br/>
 > ∙ **[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)** - MGMT<br/>
 > ∙ **[I want you](https://www.last.fm/music/Soft+Lipa/_/I+want+you)** - Soft Lipa<br/>
-> ∙ **[過程](https://www.last.fm/music/Soft+Lipa/_/%E9%81%8E%E7%A8%8B)** - Soft Lipa<br/>
-> ∙ **[When I Arrive (feat. Miss Ko)](https://www.last.fm/music/Soft+Lipa/_/When+I+Arrive+(feat.+Miss+Ko))** - Soft Lipa<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
