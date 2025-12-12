@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Chilly (feat. Soft Lipa)](https://www.last.fm/music/Gordon/_/Chilly+(feat.+Soft+Lipa))** - Gordon<br/>
-- **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
-- **[Dream Lantern](https://www.last.fm/music/RADWIMPS/_/Dream+Lantern)** - RADWIMPS<br/>
-- **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
-- **[ただ君に晴れ](https://www.last.fm/music/Yorushika/_/%E3%81%9F%E3%81%A0%E5%90%9B%E3%81%AB%E6%99%B4%E3%82%8C)** - Yorushika<br/>
-- **[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)** - MGMT<br/>
+> ∙ **[Chilly (feat. Soft Lipa)](https://www.last.fm/music/Gordon/_/Chilly+(feat.+Soft+Lipa))** - Gordon<br/>
+> ∙ **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
+> ∙ **[Dream Lantern](https://www.last.fm/music/RADWIMPS/_/Dream+Lantern)** - RADWIMPS<br/>
+> ∙ **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
+> ∙ **[ただ君に晴れ](https://www.last.fm/music/Yorushika/_/%E3%81%9F%E3%81%A0%E5%90%9B%E3%81%AB%E6%99%B4%E3%82%8C)** - Yorushika<br/>
+> ∙ **[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)** - MGMT<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
