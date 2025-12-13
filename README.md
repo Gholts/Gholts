@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Chilly (feat. Soft Lipa)](https://www.last.fm/music/Gordon/_/Chilly+(feat.+Soft+Lipa))** - Gordon<br/>
-> ∙ **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
-> ∙ **[Dream Lantern](https://www.last.fm/music/RADWIMPS/_/Dream+Lantern)** - RADWIMPS<br/>
-> ∙ **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
-> ∙ **[ただ君に晴れ](https://www.last.fm/music/Yorushika/_/%E3%81%9F%E3%81%A0%E5%90%9B%E3%81%AB%E6%99%B4%E3%82%8C)** - Yorushika<br/>
-> ∙ **[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)** - MGMT<br/>
+> ∙ **[Break Over](https://www.last.fm/music/K-forest/_/Break+Over)** - K-forest<br/>
+> ∙ **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
+> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+> ∙ **[I Love Music](https://www.last.fm/music/Ahmad+Jamal+Trio/_/I+Love+Music)** - Ahmad Jamal Trio<br/>
+> ∙ **[Ru-Rararu-Ra-Rurararu-Ra-](https://www.last.fm/music/Sayuri/_/Ru-Rararu-Ra-Rurararu-Ra-)** - Sayuri<br/>
+> ∙ **[Unmeichan](https://www.last.fm/music/Ikimonogakari/_/Unmeichan)** - Ikimonogakari<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
