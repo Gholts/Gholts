@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Warp 9](https://www.last.fm/music/StreamBeats+Music/_/Warp+9)** - StreamBeats Music<br/>
-> ∙ **[Lunar Dust](https://www.last.fm/music/StreamBeats+Music/_/Lunar+Dust)** - StreamBeats Music<br/>
-> ∙ **[Moons of Neptune](https://www.last.fm/music/StreamBeats+Music/_/Moons+of+Neptune)** - StreamBeats Music<br/>
-> ∙ **[Singularity](https://www.last.fm/music/StreamBeats+Music/_/Singularity)** - StreamBeats Music<br/>
-> ∙ **[Distance](https://www.last.fm/music/StreamBeats+Music/_/Distance)** - StreamBeats Music<br/>
-> ∙ **[The Depths Are Calling Me](https://www.last.fm/music/StreamBeats+Music/_/The+Depths+Are+Calling+Me)** - StreamBeats Music<br/>
+- **[Timeless](https://www.last.fm/music/StreamBeats+Music/_/Timeless)** - StreamBeats Music<br/>
+- **[Kimiwa Ten-nen Shoku (Single Version)](https://www.last.fm/music/Eiichi+Otaki/_/Kimiwa+Ten-nen+Shoku+(Single+Version))** - Eiichi Otaki<br/>
+- **[Mayonaka no Door / Stay With Me](https://www.last.fm/music/Miki+Matsubara/_/Mayonaka+no+Door+%2F+Stay+With+Me)** - Miki Matsubara<br/>
+- **[Yakusoku](https://www.last.fm/music/Friends/_/Yakusoku)** - Friends<br/>
+- **[Break Over](https://www.last.fm/music/K-forest/_/Break+Over)** - K-forest<br/>
+- **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
