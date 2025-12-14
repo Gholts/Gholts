@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Warp 9](https://www.last.fm/music/StreamBeats+Music/_/Warp+9)** - StreamBeats Music<br/>
-- **[Lunar Dust](https://www.last.fm/music/StreamBeats+Music/_/Lunar+Dust)** - StreamBeats Music<br/>
-- **[Moons of Neptune](https://www.last.fm/music/StreamBeats+Music/_/Moons+of+Neptune)** - StreamBeats Music<br/>
-- **[Singularity](https://www.last.fm/music/StreamBeats+Music/_/Singularity)** - StreamBeats Music<br/>
-- **[Distance](https://www.last.fm/music/StreamBeats+Music/_/Distance)** - StreamBeats Music<br/>
-- **[The Depths Are Calling Me](https://www.last.fm/music/StreamBeats+Music/_/The+Depths+Are+Calling+Me)** - StreamBeats Music<br/>
+> ∙ **[Warp 9](https://www.last.fm/music/StreamBeats+Music/_/Warp+9)** - StreamBeats Music<br/>
+> ∙ **[Lunar Dust](https://www.last.fm/music/StreamBeats+Music/_/Lunar+Dust)** - StreamBeats Music<br/>
+> ∙ **[Moons of Neptune](https://www.last.fm/music/StreamBeats+Music/_/Moons+of+Neptune)** - StreamBeats Music<br/>
+> ∙ **[Singularity](https://www.last.fm/music/StreamBeats+Music/_/Singularity)** - StreamBeats Music<br/>
+> ∙ **[Distance](https://www.last.fm/music/StreamBeats+Music/_/Distance)** - StreamBeats Music<br/>
+> ∙ **[The Depths Are Calling Me](https://www.last.fm/music/StreamBeats+Music/_/The+Depths+Are+Calling+Me)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
