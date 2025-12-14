@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Chilly (feat. Soft Lipa)](https://www.last.fm/music/Gordon/_/Chilly+(feat.+Soft+Lipa))** - Gordon<br/>
-- **[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)** - MGMT<br/>
-- **[Dream Lantern](https://www.last.fm/music/RADWIMPS/_/Dream+Lantern)** - RADWIMPS<br/>
-- **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
-- **[ただ君に晴れ](https://www.last.fm/music/Yorushika/_/%E3%81%9F%E3%81%A0%E5%90%9B%E3%81%AB%E6%99%B4%E3%82%8C)** - Yorushika<br/>
-- **[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)** - MGMT<br/>
+> ∙ **[Timeless](https://www.last.fm/music/StreamBeats+Music/_/Timeless)** - StreamBeats Music<br/>
+> ∙ **[Kimiwa Ten-nen Shoku (Single Version)](https://www.last.fm/music/Eiichi+Otaki/_/Kimiwa+Ten-nen+Shoku+(Single+Version))** - Eiichi Otaki<br/>
+> ∙ **[Mayonaka no Door / Stay With Me](https://www.last.fm/music/Miki+Matsubara/_/Mayonaka+no+Door+%2F+Stay+With+Me)** - Miki Matsubara<br/>
+> ∙ **[Yakusoku](https://www.last.fm/music/Friends/_/Yakusoku)** - Friends<br/>
+> ∙ **[Break Over](https://www.last.fm/music/K-forest/_/Break+Over)** - K-forest<br/>
+> ∙ **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
