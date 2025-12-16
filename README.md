@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Stay In A Loop](https://www.last.fm/music/Obsimo/_/Stay+In+A+Loop)** - Obsimo<br/>
-- **[Dreamer](https://www.last.fm/music/Obsimo/_/Dreamer)** - Obsimo<br/>
-- **[Call Center](https://www.last.fm/music/Obsimo/_/Call+Center)** - Obsimo<br/>
-- **[It Won't Be Long](https://www.last.fm/music/Obsimo/_/It+Won%27t+Be+Long)** - Obsimo<br/>
-- **[Off Track](https://www.last.fm/music/Obsimo/_/Off+Track)** - Obsimo<br/>
-- **[BDXBXL](https://www.last.fm/music/Obsimo+&+Shuttle/_/BDXBXL)** - Obsimo & Shuttle<br/>
+> ∙ **[Memory of You](https://www.last.fm/music/StreamBeats+Music/_/Memory+of+You)** - StreamBeats Music<br/>
+> ∙ **[Legacy of None](https://www.last.fm/music/StreamBeats+Music/_/Legacy+of+None)** - StreamBeats Music<br/>
+> ∙ **[Glorifier](https://www.last.fm/music/StreamBeats+Music/_/Glorifier)** - StreamBeats Music<br/>
+> ∙ **[One More](https://www.last.fm/music/StreamBeats+Music/_/One+More)** - StreamBeats Music<br/>
+> ∙ **[Aurora Sonata](https://www.last.fm/music/StreamBeats+Music/_/Aurora+Sonata)** - StreamBeats Music<br/>
+> ∙ **[Timeless](https://www.last.fm/music/StreamBeats+Music/_/Timeless)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
