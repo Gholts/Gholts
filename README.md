@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Stay In A Loop](https://www.last.fm/music/Obsimo/_/Stay+In+A+Loop)** - Obsimo<br/>
-- **[Dreamer](https://www.last.fm/music/Obsimo/_/Dreamer)** - Obsimo<br/>
-- **[Call Center](https://www.last.fm/music/Obsimo/_/Call+Center)** - Obsimo<br/>
-- **[It Won't Be Long](https://www.last.fm/music/Obsimo/_/It+Won%27t+Be+Long)** - Obsimo<br/>
-- **[Off Track](https://www.last.fm/music/Obsimo/_/Off+Track)** - Obsimo<br/>
-- **[BDXBXL](https://www.last.fm/music/Obsimo+&+Shuttle/_/BDXBXL)** - Obsimo & Shuttle<br/>
+> ∙ **[Stay In A Loop](https://www.last.fm/music/Obsimo/_/Stay+In+A+Loop)** - Obsimo<br/>
+> ∙ **[Dreamer](https://www.last.fm/music/Obsimo/_/Dreamer)** - Obsimo<br/>
+> ∙ **[Call Center](https://www.last.fm/music/Obsimo/_/Call+Center)** - Obsimo<br/>
+> ∙ **[It Won't Be Long](https://www.last.fm/music/Obsimo/_/It+Won%27t+Be+Long)** - Obsimo<br/>
+> ∙ **[Off Track](https://www.last.fm/music/Obsimo/_/Off+Track)** - Obsimo<br/>
+> ∙ **[BDXBXL](https://www.last.fm/music/Obsimo+&+Shuttle/_/BDXBXL)** - Obsimo & Shuttle<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
