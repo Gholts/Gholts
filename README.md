@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Memory of You](https://www.last.fm/music/StreamBeats+Music/_/Memory+of+You)** - StreamBeats Music<br/>
-> ∙ **[Legacy of None](https://www.last.fm/music/StreamBeats+Music/_/Legacy+of+None)** - StreamBeats Music<br/>
-> ∙ **[Glorifier](https://www.last.fm/music/StreamBeats+Music/_/Glorifier)** - StreamBeats Music<br/>
-> ∙ **[One More](https://www.last.fm/music/StreamBeats+Music/_/One+More)** - StreamBeats Music<br/>
-> ∙ **[Aurora Sonata](https://www.last.fm/music/StreamBeats+Music/_/Aurora+Sonata)** - StreamBeats Music<br/>
-> ∙ **[Timeless](https://www.last.fm/music/StreamBeats+Music/_/Timeless)** - StreamBeats Music<br/>
+> 🎶 **[Love Balance](https://www.last.fm/music/Obsimo/_/Love+Balance)** - Obsimo<br/>
+> ∙ **[He Needs Me](https://www.last.fm/music/Obsimo/_/He+Needs+Me)** - Obsimo<br/>
+> ∙ **[I Don't Mind](https://www.last.fm/music/Obsimo/_/I+Don%27t+Mind)** - Obsimo<br/>
+> ∙ **[B4D M00D](https://www.last.fm/music/Obsimo/_/B4D+M00D)** - Obsimo<br/>
+> ∙ **[I Fall](https://www.last.fm/music/Obsimo+&+Monoko/_/I+Fall)** - Obsimo & Monoko<br/>
+> ∙ **[Stay In A Loop](https://www.last.fm/music/Obsimo/_/Stay+In+A+Loop)** - Obsimo<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
