@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Memory of You](https://www.last.fm/music/StreamBeats+Music/_/Memory+of+You)** - StreamBeats Music<br/>
-- **[Legacy of None](https://www.last.fm/music/StreamBeats+Music/_/Legacy+of+None)** - StreamBeats Music<br/>
-- **[Glorifier](https://www.last.fm/music/StreamBeats+Music/_/Glorifier)** - StreamBeats Music<br/>
-- **[One More](https://www.last.fm/music/StreamBeats+Music/_/One+More)** - StreamBeats Music<br/>
-- **[Aurora Sonata](https://www.last.fm/music/StreamBeats+Music/_/Aurora+Sonata)** - StreamBeats Music<br/>
-- **[Timeless](https://www.last.fm/music/StreamBeats+Music/_/Timeless)** - StreamBeats Music<br/>
+> 🎶 **[Up in Love](https://www.last.fm/music/StreamBeats+Music/_/Up+in+Love)** - StreamBeats Music<br/>
+> ∙ **[Humble](https://www.last.fm/music/StreamBeats+Music/_/Humble)** - StreamBeats Music<br/>
+> ∙ **[Backtracking](https://www.last.fm/music/StreamBeats+Music/_/Backtracking)** - StreamBeats Music<br/>
+> ∙ **[Huntress](https://www.last.fm/music/StreamBeats+Music/_/Huntress)** - StreamBeats Music<br/>
+> ∙ **[Deja vu](https://www.last.fm/music/StreamBeats+Music/_/Deja+vu)** - StreamBeats Music<br/>
+> ∙ **[Enjoy the Little Things](https://www.last.fm/music/StreamBeats+Music/_/Enjoy+the+Little+Things)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
