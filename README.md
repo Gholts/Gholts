@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Night Market](https://www.last.fm/music/StreamBeats+Music/_/Night+Market)** - StreamBeats Music<br/>
-> ∙ **[Eastern Sunrise](https://www.last.fm/music/StreamBeats+Music/_/Eastern+Sunrise)** - StreamBeats Music<br/>
-> ∙ **[Tokyo Rain](https://www.last.fm/music/StreamBeats+Music/_/Tokyo+Rain)** - StreamBeats Music<br/>
-> ∙ **[Spring Rollin'](https://www.last.fm/music/StreamBeats+Music/_/Spring+Rollin%27)** - StreamBeats Music<br/>
-> ∙ **[Echo in the Mountain](https://www.last.fm/music/StreamBeats+Music/_/Echo+in+the+Mountain)** - StreamBeats Music<br/>
-> ∙ **[Farm Lands](https://www.last.fm/music/StreamBeats+Music/_/Farm+Lands)** - StreamBeats Music<br/>
+- **[Distant Rendering](https://www.last.fm/music/StreamBeats+Music/_/Distant+Rendering)** - StreamBeats Music<br/>
+- **[Business as Usual](https://www.last.fm/music/StreamBeats+Music/_/Business+as+Usual)** - StreamBeats Music<br/>
+- **[Consciousness](https://www.last.fm/music/StreamBeats+Music/_/Consciousness)** - StreamBeats Music<br/>
+- **[Ocularium](https://www.last.fm/music/StreamBeats+Music/_/Ocularium)** - StreamBeats Music<br/>
+- **[White Noise](https://www.last.fm/music/StreamBeats+Music/_/White+Noise)** - StreamBeats Music<br/>
+- **[When I Was Younger](https://www.last.fm/music/StreamBeats+Music/_/When+I+Was+Younger)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
