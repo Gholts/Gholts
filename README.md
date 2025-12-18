@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Distant Rendering](https://www.last.fm/music/StreamBeats+Music/_/Distant+Rendering)** - StreamBeats Music<br/>
-> ∙ **[Business as Usual](https://www.last.fm/music/StreamBeats+Music/_/Business+as+Usual)** - StreamBeats Music<br/>
-> ∙ **[Consciousness](https://www.last.fm/music/StreamBeats+Music/_/Consciousness)** - StreamBeats Music<br/>
-> ∙ **[Ocularium](https://www.last.fm/music/StreamBeats+Music/_/Ocularium)** - StreamBeats Music<br/>
-> ∙ **[White Noise](https://www.last.fm/music/StreamBeats+Music/_/White+Noise)** - StreamBeats Music<br/>
-> ∙ **[When I Was Younger](https://www.last.fm/music/StreamBeats+Music/_/When+I+Was+Younger)** - StreamBeats Music<br/>
+- **[Distant Rendering](https://www.last.fm/music/StreamBeats+Music/_/Distant+Rendering)** - StreamBeats Music<br/>
+- **[Business as Usual](https://www.last.fm/music/StreamBeats+Music/_/Business+as+Usual)** - StreamBeats Music<br/>
+- **[Consciousness](https://www.last.fm/music/StreamBeats+Music/_/Consciousness)** - StreamBeats Music<br/>
+- **[Ocularium](https://www.last.fm/music/StreamBeats+Music/_/Ocularium)** - StreamBeats Music<br/>
+- **[White Noise](https://www.last.fm/music/StreamBeats+Music/_/White+Noise)** - StreamBeats Music<br/>
+- **[When I Was Younger](https://www.last.fm/music/StreamBeats+Music/_/When+I+Was+Younger)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
