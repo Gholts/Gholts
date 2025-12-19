@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Radiant Vibes](https://www.last.fm/music/StreamBeats+Music/_/Radiant+Vibes)** - StreamBeats Music<br/>
-- **[Partial Moonlight](https://www.last.fm/music/StreamBeats+Music/_/Partial+Moonlight)** - StreamBeats Music<br/>
-- **[Further](https://www.last.fm/music/StreamBeats+Music/_/Further)** - StreamBeats Music<br/>
-- **[Andromeda Skies](https://www.last.fm/music/StreamBeats+Music/_/Andromeda+Skies)** - StreamBeats Music<br/>
-- **[Andromeda Skies](https://www.last.fm/music/StreamBeats+Music/_/Andromeda+Skies)** - StreamBeats Music<br/>
-- **[Ain't No Rest for the Stars](https://www.last.fm/music/StreamBeats+Music/_/Ain%27t+No+Rest+for+the+Stars)** - StreamBeats Music<br/>
+> ∙ **[Manhattan Project](https://www.last.fm/music/StreamBeats+Music/_/Manhattan+Project)** - StreamBeats Music<br/>
+> ∙ **[Peacekeeper](https://www.last.fm/music/StreamBeats+Music/_/Peacekeeper)** - StreamBeats Music<br/>
+> ∙ **[Clyde](https://www.last.fm/music/StreamBeats+Music/_/Clyde)** - StreamBeats Music<br/>
+> ∙ **[Heroes Never Die](https://www.last.fm/music/StreamBeats+Music/_/Heroes+Never+Die)** - StreamBeats Music<br/>
+> ∙ **[Big Blue](https://www.last.fm/music/StreamBeats+Music/_/Big+Blue)** - StreamBeats Music<br/>
+> ∙ **[Phendrana Drifts](https://www.last.fm/music/StreamBeats+Music/_/Phendrana+Drifts)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
