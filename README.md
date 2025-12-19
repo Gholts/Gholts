@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Radiant Vibes](https://www.last.fm/music/StreamBeats+Music/_/Radiant+Vibes)** - StreamBeats Music<br/>
-- **[Partial Moonlight](https://www.last.fm/music/StreamBeats+Music/_/Partial+Moonlight)** - StreamBeats Music<br/>
-- **[Further](https://www.last.fm/music/StreamBeats+Music/_/Further)** - StreamBeats Music<br/>
-- **[Andromeda Skies](https://www.last.fm/music/StreamBeats+Music/_/Andromeda+Skies)** - StreamBeats Music<br/>
-- **[Andromeda Skies](https://www.last.fm/music/StreamBeats+Music/_/Andromeda+Skies)** - StreamBeats Music<br/>
-- **[Ain't No Rest for the Stars](https://www.last.fm/music/StreamBeats+Music/_/Ain%27t+No+Rest+for+the+Stars)** - StreamBeats Music<br/>
+> ∙ **[Radiant Vibes](https://www.last.fm/music/StreamBeats+Music/_/Radiant+Vibes)** - StreamBeats Music<br/>
+> ∙ **[Partial Moonlight](https://www.last.fm/music/StreamBeats+Music/_/Partial+Moonlight)** - StreamBeats Music<br/>
+> ∙ **[Further](https://www.last.fm/music/StreamBeats+Music/_/Further)** - StreamBeats Music<br/>
+> ∙ **[Andromeda Skies](https://www.last.fm/music/StreamBeats+Music/_/Andromeda+Skies)** - StreamBeats Music<br/>
+> ∙ **[Andromeda Skies](https://www.last.fm/music/StreamBeats+Music/_/Andromeda+Skies)** - StreamBeats Music<br/>
+> ∙ **[Ain't No Rest for the Stars](https://www.last.fm/music/StreamBeats+Music/_/Ain%27t+No+Rest+for+the+Stars)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
