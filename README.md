@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Little Light](https://www.last.fm/music/StreamBeats+Music/_/Little+Light)** - StreamBeats Music<br/>
-> ∙ **[Manhattan Project](https://www.last.fm/music/StreamBeats+Music/_/Manhattan+Project)** - StreamBeats Music<br/>
-> ∙ **[Peacekeeper](https://www.last.fm/music/StreamBeats+Music/_/Peacekeeper)** - StreamBeats Music<br/>
-> ∙ **[Clyde](https://www.last.fm/music/StreamBeats+Music/_/Clyde)** - StreamBeats Music<br/>
-> ∙ **[Heroes Never Die](https://www.last.fm/music/StreamBeats+Music/_/Heroes+Never+Die)** - StreamBeats Music<br/>
-> ∙ **[Big Blue](https://www.last.fm/music/StreamBeats+Music/_/Big+Blue)** - StreamBeats Music<br/>
+- **[Little Light](https://www.last.fm/music/StreamBeats+Music/_/Little+Light)** - StreamBeats Music<br/>
+- **[Manhattan Project](https://www.last.fm/music/StreamBeats+Music/_/Manhattan+Project)** - StreamBeats Music<br/>
+- **[Peacekeeper](https://www.last.fm/music/StreamBeats+Music/_/Peacekeeper)** - StreamBeats Music<br/>
+- **[Clyde](https://www.last.fm/music/StreamBeats+Music/_/Clyde)** - StreamBeats Music<br/>
+- **[Heroes Never Die](https://www.last.fm/music/StreamBeats+Music/_/Heroes+Never+Die)** - StreamBeats Music<br/>
+- **[Big Blue](https://www.last.fm/music/StreamBeats+Music/_/Big+Blue)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
