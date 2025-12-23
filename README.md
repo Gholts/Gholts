@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Calling the Sun](https://www.last.fm/music/StreamBeats+Music/_/Calling+the+Sun)** - StreamBeats Music<br/>
-> ∙ **[Brb](https://www.last.fm/music/StreamBeats+Music/_/Brb)** - StreamBeats Music<br/>
-> ∙ **[Satin Ripples](https://www.last.fm/music/StreamBeats+Music/_/Satin+Ripples)** - StreamBeats Music<br/>
-> ∙ **[Distant Rendering](https://www.last.fm/music/StreamBeats+Music/_/Distant+Rendering)** - StreamBeats Music<br/>
-> ∙ **[Business as Usual](https://www.last.fm/music/StreamBeats+Music/_/Business+as+Usual)** - StreamBeats Music<br/>
-> ∙ **[Consciousness](https://www.last.fm/music/StreamBeats+Music/_/Consciousness)** - StreamBeats Music<br/>
+- **[Old School!](https://www.last.fm/music/Jabberloop+&+Soft+Lipa/_/Old+School!)** - Jabberloop & Soft Lipa<br/>
+- **[Unmeichan](https://www.last.fm/music/Ikimonogakari/_/Unmeichan)** - Ikimonogakari<br/>
+- **[冒険でしょでしょ?](https://www.last.fm/music/Hirano+Aya/_/%E5%86%92%E9%99%BA%E3%81%A7%E3%81%97%E3%82%87%E3%81%A7%E3%81%97%E3%82%87%3F)** - Hirano Aya<br/>
+- **[Academia](https://www.last.fm/music/Heyson/_/Academia)** - Heyson<br/>
+- **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+- **[Superstylin'](https://www.last.fm/music/Groove+Armada/_/Superstylin%27)** - Groove Armada<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
