@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Continues](https://www.last.fm/music/Gen+Hoshino/_/Continues)** - Gen Hoshino<br/>
-- **[KIDS](https://www.last.fm/music/Gen+Hoshino/_/KIDS)** - Gen Hoshino<br/>
-- **[Dead Leaf](https://www.last.fm/music/Gen+Hoshino/_/Dead+Leaf)** - Gen Hoshino<br/>
-- **[Present](https://www.last.fm/music/Gen+Hoshino/_/Present)** - Gen Hoshino<br/>
-- **[Pair Dancer](https://www.last.fm/music/Gen+Hoshino/_/Pair+Dancer)** - Gen Hoshino<br/>
-- **[Hada](https://www.last.fm/music/Gen+Hoshino/_/Hada)** - Gen Hoshino<br/>
+> ∙ **[Old School!](https://www.last.fm/music/Jabberloop+&+Soft+Lipa/_/Old+School!)** - Jabberloop & Soft Lipa<br/>
+> ∙ **[Unmeichan](https://www.last.fm/music/Ikimonogakari/_/Unmeichan)** - Ikimonogakari<br/>
+> ∙ **[冒険でしょでしょ?](https://www.last.fm/music/Hirano+Aya/_/%E5%86%92%E9%99%BA%E3%81%A7%E3%81%97%E3%82%87%E3%81%A7%E3%81%97%E3%82%87%3F)** - Hirano Aya<br/>
+> ∙ **[Academia](https://www.last.fm/music/Heyson/_/Academia)** - Heyson<br/>
+> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+> ∙ **[Superstylin'](https://www.last.fm/music/Groove+Armada/_/Superstylin%27)** - Groove Armada<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
