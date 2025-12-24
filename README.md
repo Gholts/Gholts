@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Calling the Sun](https://www.last.fm/music/StreamBeats+Music/_/Calling+the+Sun)** - StreamBeats Music<br/>
-> ∙ **[Brb](https://www.last.fm/music/StreamBeats+Music/_/Brb)** - StreamBeats Music<br/>
-> ∙ **[Satin Ripples](https://www.last.fm/music/StreamBeats+Music/_/Satin+Ripples)** - StreamBeats Music<br/>
-> ∙ **[Distant Rendering](https://www.last.fm/music/StreamBeats+Music/_/Distant+Rendering)** - StreamBeats Music<br/>
-> ∙ **[Business as Usual](https://www.last.fm/music/StreamBeats+Music/_/Business+as+Usual)** - StreamBeats Music<br/>
-> ∙ **[Consciousness](https://www.last.fm/music/StreamBeats+Music/_/Consciousness)** - StreamBeats Music<br/>
+- **[Calling the Sun](https://www.last.fm/music/StreamBeats+Music/_/Calling+the+Sun)** - StreamBeats Music<br/>
+- **[Brb](https://www.last.fm/music/StreamBeats+Music/_/Brb)** - StreamBeats Music<br/>
+- **[Satin Ripples](https://www.last.fm/music/StreamBeats+Music/_/Satin+Ripples)** - StreamBeats Music<br/>
+- **[Distant Rendering](https://www.last.fm/music/StreamBeats+Music/_/Distant+Rendering)** - StreamBeats Music<br/>
+- **[Business as Usual](https://www.last.fm/music/StreamBeats+Music/_/Business+as+Usual)** - StreamBeats Music<br/>
+- **[Consciousness](https://www.last.fm/music/StreamBeats+Music/_/Consciousness)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
