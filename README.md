@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Lucid Dreaming](https://www.last.fm/music/StreamBeats+Music/_/Lucid+Dreaming)** - StreamBeats Music<br/>
-> ∙ **[Heading out Nowhere](https://www.last.fm/music/StreamBeats+Music/_/Heading+out+Nowhere)** - StreamBeats Music<br/>
-> ∙ **[Dissonant Whispers](https://www.last.fm/music/StreamBeats+Music/_/Dissonant+Whispers)** - StreamBeats Music<br/>
-> ∙ **[Child's Play](https://www.last.fm/music/StreamBeats+Music/_/Child%27s+Play)** - StreamBeats Music<br/>
-> ∙ **[Beach Walk](https://www.last.fm/music/StreamBeats+Music/_/Beach+Walk)** - StreamBeats Music<br/>
-> ∙ **[Up in Love](https://www.last.fm/music/StreamBeats+Music/_/Up+in+Love)** - StreamBeats Music<br/>
+- **[Lucid Dreaming](https://www.last.fm/music/StreamBeats+Music/_/Lucid+Dreaming)** - StreamBeats Music<br/>
+- **[Heading out Nowhere](https://www.last.fm/music/StreamBeats+Music/_/Heading+out+Nowhere)** - StreamBeats Music<br/>
+- **[Dissonant Whispers](https://www.last.fm/music/StreamBeats+Music/_/Dissonant+Whispers)** - StreamBeats Music<br/>
+- **[Child's Play](https://www.last.fm/music/StreamBeats+Music/_/Child%27s+Play)** - StreamBeats Music<br/>
+- **[Beach Walk](https://www.last.fm/music/StreamBeats+Music/_/Beach+Walk)** - StreamBeats Music<br/>
+- **[Up in Love](https://www.last.fm/music/StreamBeats+Music/_/Up+in+Love)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
