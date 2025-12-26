@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Preludes, Op. 31: No. 15, Dans le genre gothique](https://www.last.fm/music/Mao+Fujita/_/Preludes,+Op.+31:+No.+15,+Dans+le+genre+gothique)** - Mao Fujita<br/>
-> ∙ **[Das Jahr, H. 385: No. 5, May. Frühlingslied](https://www.last.fm/music/Claire+Huangci/_/Das+Jahr,+H.+385:+No.+5,+May.+Fr%C3%BChlingslied)** - Claire Huangci<br/>
-> ∙ **[Cello Suite No. 1 in G Major, BWV 1007: I. Prélude](https://www.last.fm/music/Miriam+Prandi/_/Cello+Suite+No.+1+in+G+Major,+BWV+1007:+I.+Pr%C3%A9lude)** - Miriam Prandi<br/>
-> ∙ **[Discovering Shadows](https://www.last.fm/music/Peter+Gregson/_/Discovering+Shadows)** - Peter Gregson<br/>
-> ∙ **[String Quartet No. 21 in D Major, KV 575: II. Andante](https://www.last.fm/music/Barbican+Quartet/_/String+Quartet+No.+21+in+D+Major,+KV+575:+II.+Andante)** - Barbican Quartet<br/>
-> ∙ **[WONG](https://www.last.fm/music/Thibault+Cauvin/_/WONG)** - Thibault Cauvin<br/>
+- **[Flute of the Traveler](https://www.last.fm/music/StreamBeats+Music/_/Flute+of+the+Traveler)** - StreamBeats Music<br/>
+- **[New Road](https://www.last.fm/music/StreamBeats+Music/_/New+Road)** - StreamBeats Music<br/>
+- **[Ocha](https://www.last.fm/music/StreamBeats+Music/_/Ocha)** - StreamBeats Music<br/>
+- **[Night Market](https://www.last.fm/music/StreamBeats+Music/_/Night+Market)** - StreamBeats Music<br/>
+- **[Eastern Sunrise](https://www.last.fm/music/StreamBeats+Music/_/Eastern+Sunrise)** - StreamBeats Music<br/>
+- **[Tokyo Rain](https://www.last.fm/music/StreamBeats+Music/_/Tokyo+Rain)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
