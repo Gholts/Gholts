@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Flute of the Traveler](https://www.last.fm/music/StreamBeats+Music/_/Flute+of+the+Traveler)** - StreamBeats Music<br/>
-- **[New Road](https://www.last.fm/music/StreamBeats+Music/_/New+Road)** - StreamBeats Music<br/>
-- **[Ocha](https://www.last.fm/music/StreamBeats+Music/_/Ocha)** - StreamBeats Music<br/>
-- **[Night Market](https://www.last.fm/music/StreamBeats+Music/_/Night+Market)** - StreamBeats Music<br/>
-- **[Eastern Sunrise](https://www.last.fm/music/StreamBeats+Music/_/Eastern+Sunrise)** - StreamBeats Music<br/>
-- **[Tokyo Rain](https://www.last.fm/music/StreamBeats+Music/_/Tokyo+Rain)** - StreamBeats Music<br/>
+> ∙ **[Flute of the Traveler](https://www.last.fm/music/StreamBeats+Music/_/Flute+of+the+Traveler)** - StreamBeats Music<br/>
+> ∙ **[New Road](https://www.last.fm/music/StreamBeats+Music/_/New+Road)** - StreamBeats Music<br/>
+> ∙ **[Ocha](https://www.last.fm/music/StreamBeats+Music/_/Ocha)** - StreamBeats Music<br/>
+> ∙ **[Night Market](https://www.last.fm/music/StreamBeats+Music/_/Night+Market)** - StreamBeats Music<br/>
+> ∙ **[Eastern Sunrise](https://www.last.fm/music/StreamBeats+Music/_/Eastern+Sunrise)** - StreamBeats Music<br/>
+> ∙ **[Tokyo Rain](https://www.last.fm/music/StreamBeats+Music/_/Tokyo+Rain)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
