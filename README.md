@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[俺の空](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E4%BF%BA%E3%81%AE%E7%A9%BA)** - 山下達郎<br/>
-> ∙ **[僕らの夏の夢](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E5%83%95%E3%82%89%E3%81%AE%E5%A4%8F%E3%81%AE%E5%A4%A2)** - 山下達郎<br/>
-> ∙ **[プロポーズ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%BA)** - 山下達郎<br/>
-> ∙ **[街物語 （まちものがたり）（NEW REMIX）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E8%A1%97%E7%89%A9%E8%AA%9E+%EF%BC%88%E3%81%BE%E3%81%A1%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A%EF%BC%89%EF%BC%88NEW+REMIX%EF%BC%89)** - 山下達郎<br/>
-> ∙ **[希望という名の光](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E5%B8%8C%E6%9C%9B%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%85%89)** - 山下達郎<br/>
-> ∙ **[NEVER GROW OLD](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/NEVER+GROW+OLD)** - 山下達郎<br/>
+- **[Symphony No. 1, C. 27: I. Allegro assai](https://www.last.fm/music/Sinfonia+of+London+&+John+Wilson/_/Symphony+No.+1,+C.+27:+I.+Allegro+assai)** - Sinfonia of London & John Wilson<br/>
+- **[Sonic Samba](https://www.last.fm/music/Armin+van+Buuren/_/Sonic+Samba)** - Armin van Buuren<br/>
+- **[Five Meditations for Orchestra: No. 1, What Sweeter Music](https://www.last.fm/music/Daniel+Hyde+&+Britten+Sinfonia/_/Five+Meditations+for+Orchestra:+No.+1,+What+Sweeter+Music)** - Daniel Hyde & Britten Sinfonia<br/>
+- **[Montgomery Variations: V. One Sunday in the South](https://www.last.fm/music/The+Philadelphia+Orchestra+&+Yannick+N%C3%A9zet-S%C3%A9guin/_/Montgomery+Variations:+V.+One+Sunday+in+the+South)** - The Philadelphia Orchestra & Yannick Nézet-Séguin<br/>
+- **[The Well-Tempered Clavier, Book I: Prelude No. 9 in E Major, BWV 854](https://www.last.fm/music/V%C3%ADkingur+%C3%93lafsson/_/The+Well-Tempered+Clavier,+Book+I:+Prelude+No.+9+in+E+Major,+BWV+854)** - Víkingur Ólafsson<br/>
+- **[10 Preludes, Op. 23: IV. Andante cantabile](https://www.last.fm/music/Mao+Fujita/_/10+Preludes,+Op.+23:+IV.+Andante+cantabile)** - Mao Fujita<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
