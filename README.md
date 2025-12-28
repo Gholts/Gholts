@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Symphony No. 1, C. 27: I. Allegro assai](https://www.last.fm/music/Sinfonia+of+London+&+John+Wilson/_/Symphony+No.+1,+C.+27:+I.+Allegro+assai)** - Sinfonia of London & John Wilson<br/>
-- **[Sonic Samba](https://www.last.fm/music/Armin+van+Buuren/_/Sonic+Samba)** - Armin van Buuren<br/>
-- **[Five Meditations for Orchestra: No. 1, What Sweeter Music](https://www.last.fm/music/Daniel+Hyde+&+Britten+Sinfonia/_/Five+Meditations+for+Orchestra:+No.+1,+What+Sweeter+Music)** - Daniel Hyde & Britten Sinfonia<br/>
-- **[Montgomery Variations: V. One Sunday in the South](https://www.last.fm/music/The+Philadelphia+Orchestra+&+Yannick+N%C3%A9zet-S%C3%A9guin/_/Montgomery+Variations:+V.+One+Sunday+in+the+South)** - The Philadelphia Orchestra & Yannick Nézet-Séguin<br/>
-- **[The Well-Tempered Clavier, Book I: Prelude No. 9 in E Major, BWV 854](https://www.last.fm/music/V%C3%ADkingur+%C3%93lafsson/_/The+Well-Tempered+Clavier,+Book+I:+Prelude+No.+9+in+E+Major,+BWV+854)** - Víkingur Ólafsson<br/>
-- **[10 Preludes, Op. 23: IV. Andante cantabile](https://www.last.fm/music/Mao+Fujita/_/10+Preludes,+Op.+23:+IV.+Andante+cantabile)** - Mao Fujita<br/>
+> ∙ **[Symphony No. 1, C. 27: I. Allegro assai](https://www.last.fm/music/Sinfonia+of+London+&+John+Wilson/_/Symphony+No.+1,+C.+27:+I.+Allegro+assai)** - Sinfonia of London & John Wilson<br/>
+> ∙ **[Sonic Samba](https://www.last.fm/music/Armin+van+Buuren/_/Sonic+Samba)** - Armin van Buuren<br/>
+> ∙ **[Five Meditations for Orchestra: No. 1, What Sweeter Music](https://www.last.fm/music/Daniel+Hyde+&+Britten+Sinfonia/_/Five+Meditations+for+Orchestra:+No.+1,+What+Sweeter+Music)** - Daniel Hyde & Britten Sinfonia<br/>
+> ∙ **[Montgomery Variations: V. One Sunday in the South](https://www.last.fm/music/The+Philadelphia+Orchestra+&+Yannick+N%C3%A9zet-S%C3%A9guin/_/Montgomery+Variations:+V.+One+Sunday+in+the+South)** - The Philadelphia Orchestra & Yannick Nézet-Séguin<br/>
+> ∙ **[The Well-Tempered Clavier, Book I: Prelude No. 9 in E Major, BWV 854](https://www.last.fm/music/V%C3%ADkingur+%C3%93lafsson/_/The+Well-Tempered+Clavier,+Book+I:+Prelude+No.+9+in+E+Major,+BWV+854)** - Víkingur Ólafsson<br/>
+> ∙ **[10 Preludes, Op. 23: IV. Andante cantabile](https://www.last.fm/music/Mao+Fujita/_/10+Preludes,+Op.+23:+IV.+Andante+cantabile)** - Mao Fujita<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
