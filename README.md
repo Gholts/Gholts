@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[俺の空](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E4%BF%BA%E3%81%AE%E7%A9%BA)** - 山下達郎<br/>
-> ∙ **[僕らの夏の夢](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E5%83%95%E3%82%89%E3%81%AE%E5%A4%8F%E3%81%AE%E5%A4%A2)** - 山下達郎<br/>
-> ∙ **[プロポーズ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%BA)** - 山下達郎<br/>
-> ∙ **[街物語 （まちものがたり）（NEW REMIX）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E8%A1%97%E7%89%A9%E8%AA%9E+%EF%BC%88%E3%81%BE%E3%81%A1%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A%EF%BC%89%EF%BC%88NEW+REMIX%EF%BC%89)** - 山下達郎<br/>
-> ∙ **[希望という名の光](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E5%B8%8C%E6%9C%9B%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%85%89)** - 山下達郎<br/>
-> ∙ **[NEVER GROW OLD](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/NEVER+GROW+OLD)** - 山下達郎<br/>
+> ∙ **[こぬか雨 （’94 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8+%EF%BC%88%E2%80%9994+Live+Version%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[二人の夏 （’94 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E4%BA%8C%E4%BA%BA%E3%81%AE%E5%A4%8F+%EF%BC%88%E2%80%9994+Live+Version%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[ONLY WITH YOU （’86 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/ONLY+WITH+YOU+%EF%BC%88%E2%80%9986+Live+Version%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[THE THEME FROM BIG WAVE （’85 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/THE+THEME+FROM+BIG+WAVE+%EF%BC%88%E2%80%9985+Live+Version%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[素敵な午後は （’85 Live Version）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E7%B4%A0%E6%95%B5%E3%81%AA%E5%8D%88%E5%BE%8C%E3%81%AF+%EF%BC%88%E2%80%9985+Live+Version%EF%BC%89)** - 山下達郎<br/>
+> ∙ **[希望という名の光 （Postlude）](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E5%B8%8C%E6%9C%9B%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%85%89+%EF%BC%88Postlude%EF%BC%89)** - 山下達郎<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
