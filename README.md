@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[夏日周末"Summer Weekend"(City Pop Type Beat)](https://www.last.fm/music/Gr33nart+Beats/_/%E5%A4%8F%E6%97%A5%E5%91%A8%E6%9C%AB%22Summer+Weekend%22(City+Pop+Type+Beat))** - Gr33nart Beats<br/>
-- **[Ether](https://www.last.fm/music/StreamBeats+Music/_/Ether)** - StreamBeats Music<br/>
-- **[Ether](https://www.last.fm/music/StreamBeats+Music/_/Ether)** - StreamBeats Music<br/>
-- **[Skyward](https://www.last.fm/music/StreamBeats+Music/_/Skyward)** - StreamBeats Music<br/>
-- **[Skyward](https://www.last.fm/music/StreamBeats+Music/_/Skyward)** - StreamBeats Music<br/>
-- **[Guilty Spark](https://www.last.fm/music/StreamBeats+Music/_/Guilty+Spark)** - StreamBeats Music<br/>
+> ∙ **[夏日周末"Summer Weekend"(City Pop Type Beat)](https://www.last.fm/music/Gr33nart+Beats/_/%E5%A4%8F%E6%97%A5%E5%91%A8%E6%9C%AB%22Summer+Weekend%22(City+Pop+Type+Beat))** - Gr33nart Beats<br/>
+> ∙ **[Ether](https://www.last.fm/music/StreamBeats+Music/_/Ether)** - StreamBeats Music<br/>
+> ∙ **[Ether](https://www.last.fm/music/StreamBeats+Music/_/Ether)** - StreamBeats Music<br/>
+> ∙ **[Skyward](https://www.last.fm/music/StreamBeats+Music/_/Skyward)** - StreamBeats Music<br/>
+> ∙ **[Skyward](https://www.last.fm/music/StreamBeats+Music/_/Skyward)** - StreamBeats Music<br/>
+> ∙ **[Guilty Spark](https://www.last.fm/music/StreamBeats+Music/_/Guilty+Spark)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
