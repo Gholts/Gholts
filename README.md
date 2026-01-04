@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
-> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
-> ∙ **[I Love Music](https://www.last.fm/music/Ahmad+Jamal+Trio/_/I+Love+Music)** - Ahmad Jamal Trio<br/>
-> ∙ **[Ru-Rararu-Ra-Rurararu-Ra-](https://www.last.fm/music/Sayuri/_/Ru-Rararu-Ra-Rurararu-Ra-)** - Sayuri<br/>
-> ∙ **[Unmeichan](https://www.last.fm/music/Ikimonogakari/_/Unmeichan)** - Ikimonogakari<br/>
-> ∙ **[God knows...](https://www.last.fm/music/Haruhi+Suzumiya+(CV:+Aya+Hirano)/_/God+knows...)** - Haruhi Suzumiya (CV: Aya Hirano)<br/>
+> ∙ **[As you don't know](https://www.last.fm/music/Rokudenashi/_/As+you+don%27t+know)** - Rokudenashi<br/>
+> ∙ **[Grand Escape (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Grand+Escape+(feat.+Toko+Miura))** - RADWIMPS<br/>
+> ∙ **[The Scientist](https://www.last.fm/music/Coldplay/_/The+Scientist)** - Coldplay<br/>
+> ∙ **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
+> ∙ **[Dramaturgy](https://www.last.fm/music/Eve/_/Dramaturgy)** - Eve<br/>
+> ∙ **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
