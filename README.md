@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[As you don't know](https://www.last.fm/music/Rokudenashi/_/As+you+don%27t+know)** - Rokudenashi<br/>
-- **[Grand Escape (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Grand+Escape+(feat.+Toko+Miura))** - RADWIMPS<br/>
-- **[The Scientist](https://www.last.fm/music/Coldplay/_/The+Scientist)** - Coldplay<br/>
-- **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
-- **[Dramaturgy](https://www.last.fm/music/Eve/_/Dramaturgy)** - Eve<br/>
-- **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
+> ∙ **[Awesome City](https://www.last.fm/music/DJ+FRIP+a.k.a+BEATLAB/_/Awesome+City)** - DJ FRIP a.k.a BEATLAB<br/>
+> ∙ **[Yakusoku](https://www.last.fm/music/Friends/_/Yakusoku)** - Friends<br/>
+> ∙ **[Break Over](https://www.last.fm/music/K-forest/_/Break+Over)** - K-forest<br/>
+> ∙ **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
+> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+> ∙ **[I Love Music](https://www.last.fm/music/Ahmad+Jamal+Trio/_/I+Love+Music)** - Ahmad Jamal Trio<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
