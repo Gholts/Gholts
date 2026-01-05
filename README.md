@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[As you don't know](https://www.last.fm/music/Rokudenashi/_/As+you+don%27t+know)** - Rokudenashi<br/>
-- **[Grand Escape (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Grand+Escape+(feat.+Toko+Miura))** - RADWIMPS<br/>
-- **[The Scientist](https://www.last.fm/music/Coldplay/_/The+Scientist)** - Coldplay<br/>
-- **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
-- **[Dramaturgy](https://www.last.fm/music/Eve/_/Dramaturgy)** - Eve<br/>
-- **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
+> ∙ **[As you don't know](https://www.last.fm/music/Rokudenashi/_/As+you+don%27t+know)** - Rokudenashi<br/>
+> ∙ **[Grand Escape (feat. Toko Miura)](https://www.last.fm/music/RADWIMPS/_/Grand+Escape+(feat.+Toko+Miura))** - RADWIMPS<br/>
+> ∙ **[The Scientist](https://www.last.fm/music/Coldplay/_/The+Scientist)** - Coldplay<br/>
+> ∙ **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
+> ∙ **[Dramaturgy](https://www.last.fm/music/Eve/_/Dramaturgy)** - Eve<br/>
+> ∙ **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
