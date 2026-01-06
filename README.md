@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Awesome City](https://www.last.fm/music/DJ+FRIP+a.k.a+BEATLAB/_/Awesome+City)** - DJ FRIP a.k.a BEATLAB<br/>
-- **[Yakusoku](https://www.last.fm/music/Friends/_/Yakusoku)** - Friends<br/>
-- **[Break Over](https://www.last.fm/music/K-forest/_/Break+Over)** - K-forest<br/>
-- **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
-- **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
-- **[I Love Music](https://www.last.fm/music/Ahmad+Jamal+Trio/_/I+Love+Music)** - Ahmad Jamal Trio<br/>
+> ∙ **[Awesome City](https://www.last.fm/music/DJ+FRIP+a.k.a+BEATLAB/_/Awesome+City)** - DJ FRIP a.k.a BEATLAB<br/>
+> ∙ **[Yakusoku](https://www.last.fm/music/Friends/_/Yakusoku)** - Friends<br/>
+> ∙ **[Break Over](https://www.last.fm/music/K-forest/_/Break+Over)** - K-forest<br/>
+> ∙ **[Vision](https://www.last.fm/music/Palace/_/Vision)** - Palace<br/>
+> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+> ∙ **[I Love Music](https://www.last.fm/music/Ahmad+Jamal+Trio/_/I+Love+Music)** - Ahmad Jamal Trio<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
