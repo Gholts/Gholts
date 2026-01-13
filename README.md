@@ -8,12 +8,12 @@
         <div align="left">
         
 <!-- feed start -->
+- Jan 13 2026 - [MacOS 快捷鍵切換 AirPods 降噪模式：從不想用到離不開](https://gholts.top/posts/macos-airpods-noise-control-v2/)
 - Dec 8 2025 - [打造完美的 Mac Mini 家庭伺服器：虛擬化、分流與網路架構實踐](https://gholts.top/posts/building-perfect-mac-mini-home-server-network-architecture/)
 - Dec 3 2025 - [MacOS 效率生存指南：那些我不可或缺的致命設定](https://gholts.top/posts/essential-macos-settings/)
 - Nov 10 2025 - [MacOS 快捷鍵切換 AirPods 降噪模式：初探與實作](https://gholts.top/posts/macos-airpods-noise-control-v1/)
 - Sep 30 2025 - [打造完美的網站深色模式切換方案](https://gholts.top/posts/best-dark-mode-toggle/)
 - Sep 25 2025 - [戲謔政治學：解讀「符號中的笑聲」](https://gholts.top/posts/parody-as-politics-in-code/)
-- Sep 14 2025 - [讓 $HOME 重歸整潔：MacOS 家目錄結構優化指南](https://gholts.top/posts/clean-home-directory-guide/)
 <!-- feed end -->
         
 </div>
@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[SUPER](https://www.last.fm/music/Betinho+Santos/_/SUPER)** - Betinho Santos<br/>
-> ∙ **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
-> ∙ **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
-> ∙ **[Silent California](https://www.last.fm/music/Evgeny+Bardyuzha/_/Silent+California)** - Evgeny Bardyuzha<br/>
-> ∙ **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
-> ∙ **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
+- **[SUPER](https://www.last.fm/music/Betinho+Santos/_/SUPER)** - Betinho Santos<br/>
+- **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
+- **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
+- **[Silent California](https://www.last.fm/music/Evgeny+Bardyuzha/_/Silent+California)** - Evgeny Bardyuzha<br/>
+- **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
+- **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
