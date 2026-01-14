@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
+> ∙ **[One Voice](https://www.last.fm/music/Rokudenashi/_/One+Voice)** - Rokudenashi<br/>
+> ∙ **[Kids](https://www.last.fm/music/MGMT/_/Kids)** - MGMT<br/>
 > ∙ **[Silent California](https://www.last.fm/music/Evgeny+Bardyuzha/_/Silent+California)** - Evgeny Bardyuzha<br/>
 > ∙ **[Higher Ground (feat. Naomi Wild)](https://www.last.fm/music/ODESZA/_/Higher+Ground+(feat.+Naomi+Wild))** - ODESZA<br/>
 > ∙ **[言って。](https://www.last.fm/music/Yorushika/_/%E8%A8%80%E3%81%A3%E3%81%A6%E3%80%82)** - Yorushika<br/>
 > ∙ **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
-> ∙ **[夏日周末"Summer Weekend"(City Pop Type Beat)](https://www.last.fm/music/Gr33nart+Beats/_/%E5%A4%8F%E6%97%A5%E5%91%A8%E6%9C%AB%22Summer+Weekend%22(City+Pop+Type+Beat))** - Gr33nart Beats<br/>
-> ∙ **[夏日周末"Summer Weekend"(City Pop Type Beat)](https://www.last.fm/music/Gr33nart+Beats/_/%E5%A4%8F%E6%97%A5%E5%91%A8%E6%9C%AB%22Summer+Weekend%22(City+Pop+Type+Beat))** - Gr33nart Beats<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
