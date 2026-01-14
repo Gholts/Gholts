@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Silent California](https://www.last.fm/music/Evgeny+Bardyuzha/_/Silent+California)** - Evgeny Bardyuzha<br/>
-- **[Higher Ground (feat. Naomi Wild)](https://www.last.fm/music/ODESZA/_/Higher+Ground+(feat.+Naomi+Wild))** - ODESZA<br/>
-- **[言って。](https://www.last.fm/music/Yorushika/_/%E8%A8%80%E3%81%A3%E3%81%A6%E3%80%82)** - Yorushika<br/>
-- **[Byoushinwo Kamu](https://www.last.fm/music/ZUTOMAYO/_/Byoushinwo+Kamu)** - ZUTOMAYO<br/>
-- **[夏日周末"Summer Weekend"(City Pop Type Beat)](https://www.last.fm/music/Gr33nart+Beats/_/%E5%A4%8F%E6%97%A5%E5%91%A8%E6%9C%AB%22Summer+Weekend%22(City+Pop+Type+Beat))** - Gr33nart Beats<br/>
-- **[夏日周末"Summer Weekend"(City Pop Type Beat)](https://www.last.fm/music/Gr33nart+Beats/_/%E5%A4%8F%E6%97%A5%E5%91%A8%E6%9C%AB%22Summer+Weekend%22(City+Pop+Type+Beat))** - Gr33nart Beats<br/>
+> ∙ **[Golden](https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Golden)** - HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast<br/>
+> ∙ **[You Need Jesus](https://www.last.fm/music/Yung+Gravy,+bbno$+&+BABY+GRAVY/_/You+Need+Jesus)** - Yung Gravy, bbno$ & BABY GRAVY<br/>
+> ∙ **[Mockingbird](https://www.last.fm/music/Eminem/_/Mockingbird)** - Eminem<br/>
+> ∙ **[Legumes](https://www.last.fm/music/Mochakk+&+Kwengface/_/Legumes)** - Mochakk & Kwengface<br/>
+> ∙ **[My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)** - Walk Off the Earth<br/>
+> ∙ **[One Voice](https://www.last.fm/music/Rokudenashi/_/One+Voice)** - Rokudenashi<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
