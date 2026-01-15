@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Strobe](https://www.last.fm/music/Sparkee/_/Strobe)** - Sparkee<br/>
-> ∙ **[Love The Lows](https://www.last.fm/music/Montee/_/Love+The+Lows)** - Montee<br/>
-> ∙ **[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)** - MGMT<br/>
-> ∙ **[Academia](https://www.last.fm/music/Heyson/_/Academia)** - Heyson<br/>
-> ∙ **[GO!!!](https://www.last.fm/music/Flow/_/GO!!!)** - Flow<br/>
-> ∙ **[Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)** - Gorillaz<br/>
+- **[夜明けと蛍](https://www.last.fm/music/n-buna/_/%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A8%E8%9B%8D)** - n-buna<br/>
+- **[Biking](https://www.last.fm/music/Soft+Lipa/_/Biking)** - Soft Lipa<br/>
+- **[Tell Me Something Good](https://www.last.fm/music/Ewan+McVicar/_/Tell+Me+Something+Good)** - Ewan McVicar<br/>
+- **[King Od Poop](https://www.last.fm/music/Soft+Lipa/_/King+Od+Poop)** - Soft Lipa<br/>
+- **[Where U From?](https://www.last.fm/music/DJ+TWI$T+II/_/Where+U+From%3F)** - DJ TWI$T II<br/>
+- **[SUPER](https://www.last.fm/music/Betinho+Santos/_/SUPER)** - Betinho Santos<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
