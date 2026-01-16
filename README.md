@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Strobe](https://www.last.fm/music/Sparkee/_/Strobe)** - Sparkee<br/>
-- **[Love The Lows](https://www.last.fm/music/Montee/_/Love+The+Lows)** - Montee<br/>
-- **[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)** - MGMT<br/>
-- **[Academia](https://www.last.fm/music/Heyson/_/Academia)** - Heyson<br/>
-- **[GO!!!](https://www.last.fm/music/Flow/_/GO!!!)** - Flow<br/>
-- **[Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)** - Gorillaz<br/>
+> ∙ **[We got Jazz](https://www.last.fm/music/Soft+Lipa/_/We+got+Jazz)** - Soft Lipa<br/>
+> ∙ **[Strobe](https://www.last.fm/music/Sparkee/_/Strobe)** - Sparkee<br/>
+> ∙ **[Love The Lows](https://www.last.fm/music/Montee/_/Love+The+Lows)** - Montee<br/>
+> ∙ **[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)** - MGMT<br/>
+> ∙ **[Academia](https://www.last.fm/music/Heyson/_/Academia)** - Heyson<br/>
+> ∙ **[GO!!!](https://www.last.fm/music/Flow/_/GO!!!)** - Flow<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
