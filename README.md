@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Love The Lows](https://www.last.fm/music/Montee/_/Love+The+Lows)** - Montee<br/>
-- **[asu no yozora shoukaihan](https://www.last.fm/music/Yuaru/_/asu+no+yozora+shoukaihan)** - Yuaru<br/>
-- **[Yakusoku](https://www.last.fm/music/Friends/_/Yakusoku)** - Friends<br/>
-- **[Drowning World](https://www.last.fm/music/Andrew+Applepie+&+Bjurman/_/Drowning+World)** - Andrew Applepie & Bjurman<br/>
-- **[Comment On Faisait ?](https://www.last.fm/music/Hocus+Pocus/_/Comment+On+Faisait+%3F)** - Hocus Pocus<br/>
-- **[NOT SORRY (feat. pH-1)](https://www.last.fm/music/Lee+Young+Ji/_/NOT+SORRY+(feat.+pH-1))** - Lee Young Ji<br/>
+> ∙ **[Make Me Wonder](https://www.last.fm/music/Official+HIGE+DANdism/_/Make+Me+Wonder)** - Official HIGE DANdism<br/>
+> ∙ **[Make Me Wonder](https://www.last.fm/music/Official+HIGE+DANdism/_/Make+Me+Wonder)** - Official HIGE DANdism<br/>
+> ∙ **[Apologies](https://www.last.fm/music/Obsimo+&+mynameisleonidas/_/Apologies)** - Obsimo & mynameisleonidas<br/>
+> ∙ **[Apologies](https://www.last.fm/music/Obsimo+&+mynameisleonidas/_/Apologies)** - Obsimo & mynameisleonidas<br/>
+> ∙ **[The City Where Whales Fall](https://www.last.fm/music/Rokudenashi/_/The+City+Where+Whales+Fall)** - Rokudenashi<br/>
+> ∙ **[The City Where Whales Fall](https://www.last.fm/music/Rokudenashi/_/The+City+Where+Whales+Fall)** - Rokudenashi<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
