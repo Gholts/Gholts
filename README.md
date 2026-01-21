@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Readers! Do You Read?](https://www.last.fm/music/Chris+Zabriskie/_/Readers!+Do+You+Read%3F)** - Chris Zabriskie<br/>
-- **[Unfoldment, Revealment, Evolution, Exposition, Integration, Arson](https://www.last.fm/music/Chris+Zabriskie/_/Unfoldment,+Revealment,+Evolution,+Exposition,+Integration,+Arson)** - Chris Zabriskie<br/>
-- **[Hypersilent](https://www.last.fm/music/Mochakk+&+J.J.+Fad/_/Hypersilent)** - Mochakk & J.J. Fad<br/>
-- **[Irodori](https://www.last.fm/music/Ikimonogakari/_/Irodori)** - Ikimonogakari<br/>
-- **[Past Life Perfection in the Arboretum of Sleep](https://www.last.fm/music/Fields+Ohio/_/Past+Life+Perfection+in+the+Arboretum+of+Sleep)** - Fields Ohio<br/>
-- **[Below the Timbers](https://www.last.fm/music/Fields+Ohio/_/Below+the+Timbers)** - Fields Ohio<br/>
+> ∙ **[Woodland Wendigo](https://www.last.fm/music/Fields+Ohio/_/Woodland+Wendigo)** - Fields Ohio<br/>
+> ∙ **[Gang of Trees](https://www.last.fm/music/Fields+Ohio/_/Gang+of+Trees)** - Fields Ohio<br/>
+> ∙ **[Virtues Inherited, Vices Passed On](https://www.last.fm/music/Chris+Zabriskie/_/Virtues+Inherited,+Vices+Passed+On)** - Chris Zabriskie<br/>
+> ∙ **[Chance, Luck, Errors in Nature, Fate, Destruction As a Finale](https://www.last.fm/music/Chris+Zabriskie/_/Chance,+Luck,+Errors+in+Nature,+Fate,+Destruction+As+a+Finale)** - Chris Zabriskie<br/>
+> ∙ **[What True Self? Feels Bogus, Let's Watch Jason X](https://www.last.fm/music/Chris+Zabriskie/_/What+True+Self%3F+Feels+Bogus,+Let%27s+Watch+Jason+X)** - Chris Zabriskie<br/>
+> ∙ **[Is That You or Are You You?](https://www.last.fm/music/Chris+Zabriskie/_/Is+That+You+or+Are+You+You%3F)** - Chris Zabriskie<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
