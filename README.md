@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[What True Self? Feels Bogus, Let's Watch Jason X](https://www.last.fm/music/Chris+Zabriskie/_/What+True+Self%3F+Feels+Bogus,+Let%27s+Watch+Jason+X)** - Chris Zabriskie<br/>
-- **[Is That You or Are You You?](https://www.last.fm/music/Chris+Zabriskie/_/Is+That+You+or+Are+You+You%3F)** - Chris Zabriskie<br/>
-- **[Out of the Skies, Under the Earth](https://www.last.fm/music/Chris+Zabriskie/_/Out+of+the+Skies,+Under+the+Earth)** - Chris Zabriskie<br/>
-- **[Readers! Do You Read?](https://www.last.fm/music/Chris+Zabriskie/_/Readers!+Do+You+Read%3F)** - Chris Zabriskie<br/>
-- **[Unfoldment, Revealment, Evolution, Exposition, Integration, Arson](https://www.last.fm/music/Chris+Zabriskie/_/Unfoldment,+Revealment,+Evolution,+Exposition,+Integration,+Arson)** - Chris Zabriskie<br/>
-- **[Abjection](https://www.last.fm/music/Fred+Mug/_/Abjection)** - Fred Mug<br/>
+> ∙ **[Chance, Luck, Errors in Nature, Fate, Destruction As a Finale](https://www.last.fm/music/Chris+Zabriskie/_/Chance,+Luck,+Errors+in+Nature,+Fate,+Destruction+As+a+Finale)** - Chris Zabriskie<br/>
+> ∙ **[What True Self? Feels Bogus, Let's Watch Jason X](https://www.last.fm/music/Chris+Zabriskie/_/What+True+Self%3F+Feels+Bogus,+Let%27s+Watch+Jason+X)** - Chris Zabriskie<br/>
+> ∙ **[Is That You or Are You You?](https://www.last.fm/music/Chris+Zabriskie/_/Is+That+You+or+Are+You+You%3F)** - Chris Zabriskie<br/>
+> ∙ **[Out of the Skies, Under the Earth](https://www.last.fm/music/Chris+Zabriskie/_/Out+of+the+Skies,+Under+the+Earth)** - Chris Zabriskie<br/>
+> ∙ **[Readers! Do You Read?](https://www.last.fm/music/Chris+Zabriskie/_/Readers!+Do+You+Read%3F)** - Chris Zabriskie<br/>
+> ∙ **[Unfoldment, Revealment, Evolution, Exposition, Integration, Arson](https://www.last.fm/music/Chris+Zabriskie/_/Unfoldment,+Revealment,+Evolution,+Exposition,+Integration,+Arson)** - Chris Zabriskie<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
