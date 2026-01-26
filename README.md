@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Maximum](https://www.last.fm/music/Fred+Mug/_/Maximum)** - Fred Mug<br/>
-> ∙ **[Turn](https://www.last.fm/music/Fred+Mug/_/Turn)** - Fred Mug<br/>
-> ∙ **[Floodlight](https://www.last.fm/music/Fred+Mug/_/Floodlight)** - Fred Mug<br/>
-> ∙ **[Drive](https://www.last.fm/music/Fred+Mug/_/Drive)** - Fred Mug<br/>
-> ∙ **[Morning](https://www.last.fm/music/Fred+Mug/_/Morning)** - Fred Mug<br/>
-> ∙ **[Maximum](https://www.last.fm/music/Fred+Mug/_/Maximum)** - Fred Mug<br/>
+- **[Maximum](https://www.last.fm/music/Fred+Mug/_/Maximum)** - Fred Mug<br/>
+- **[Turn](https://www.last.fm/music/Fred+Mug/_/Turn)** - Fred Mug<br/>
+- **[Floodlight](https://www.last.fm/music/Fred+Mug/_/Floodlight)** - Fred Mug<br/>
+- **[Drive](https://www.last.fm/music/Fred+Mug/_/Drive)** - Fred Mug<br/>
+- **[Morning](https://www.last.fm/music/Fred+Mug/_/Morning)** - Fred Mug<br/>
+- **[Maximum](https://www.last.fm/music/Fred+Mug/_/Maximum)** - Fred Mug<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
