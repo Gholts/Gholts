@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Intro (feat. Kokayna)](https://www.last.fm/music/Macross+82-99/_/Intro+(feat.+Kokayna))** - Macross 82-99<br/>
-- **[Maximum](https://www.last.fm/music/Fred+Mug/_/Maximum)** - Fred Mug<br/>
-- **[Turn](https://www.last.fm/music/Fred+Mug/_/Turn)** - Fred Mug<br/>
-- **[Floodlight](https://www.last.fm/music/Fred+Mug/_/Floodlight)** - Fred Mug<br/>
-- **[Drive](https://www.last.fm/music/Fred+Mug/_/Drive)** - Fred Mug<br/>
-- **[Morning](https://www.last.fm/music/Fred+Mug/_/Morning)** - Fred Mug<br/>
+> ∙ **[Who Are You At War With Now](https://www.last.fm/music/Nihilore/_/Who+Are+You+At+War+With+Now)** - Nihilore<br/>
+> ∙ **[Small and Distant Fireworks](https://www.last.fm/music/Nihilore/_/Small+and+Distant+Fireworks)** - Nihilore<br/>
+> ∙ **[Something Meaningful](https://www.last.fm/music/Nihilore/_/Something+Meaningful)** - Nihilore<br/>
+> ∙ **[Our Monstrous Purpose](https://www.last.fm/music/Nihilore/_/Our+Monstrous+Purpose)** - Nihilore<br/>
+> ∙ **[Saved By A Simple Little Thing](https://www.last.fm/music/Nihilore/_/Saved+By+A+Simple+Little+Thing)** - Nihilore<br/>
+> ∙ **[Woven Hands](https://www.last.fm/music/Nihilore/_/Woven+Hands)** - Nihilore<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
