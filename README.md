@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Intro (feat. Kokayna)](https://www.last.fm/music/Macross+82-99/_/Intro+(feat.+Kokayna))** - Macross 82-99<br/>
-> ∙ **[Maximum](https://www.last.fm/music/Fred+Mug/_/Maximum)** - Fred Mug<br/>
-> ∙ **[Turn](https://www.last.fm/music/Fred+Mug/_/Turn)** - Fred Mug<br/>
-> ∙ **[Floodlight](https://www.last.fm/music/Fred+Mug/_/Floodlight)** - Fred Mug<br/>
-> ∙ **[Drive](https://www.last.fm/music/Fred+Mug/_/Drive)** - Fred Mug<br/>
-> ∙ **[Morning](https://www.last.fm/music/Fred+Mug/_/Morning)** - Fred Mug<br/>
+> 🎶 **[Exploration](https://www.last.fm/music/Fred+Mug/_/Exploration)** - Fred Mug<br/>
+> ∙ **[Phase One (Extra)](https://www.last.fm/music/Fred+Mug/_/Phase+One+(Extra))** - Fred Mug<br/>
+> ∙ **[Subsurface Scattering](https://www.last.fm/music/Fred+Mug/_/Subsurface+Scattering)** - Fred Mug<br/>
+> ∙ **[Emergent Behaviour](https://www.last.fm/music/Fred+Mug/_/Emergent+Behaviour)** - Fred Mug<br/>
+> ∙ **[Pit](https://www.last.fm/music/Fred+Mug/_/Pit)** - Fred Mug<br/>
+> ∙ **[Navy Blue](https://www.last.fm/music/Fred+Mug/_/Navy+Blue)** - Fred Mug<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
