@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Tomoshibi](https://www.last.fm/music/Vaundy/_/Tomoshibi)** - Vaundy<br/>
-> ∙ **[Small and Distant Fireworks](https://www.last.fm/music/Nihilore/_/Small+and+Distant+Fireworks)** - Nihilore<br/>
-> ∙ **[Who Are You At War With Now](https://www.last.fm/music/Nihilore/_/Who+Are+You+At+War+With+Now)** - Nihilore<br/>
-> ∙ **[Small and Distant Fireworks](https://www.last.fm/music/Nihilore/_/Small+and+Distant+Fireworks)** - Nihilore<br/>
-> ∙ **[Something Meaningful](https://www.last.fm/music/Nihilore/_/Something+Meaningful)** - Nihilore<br/>
-> ∙ **[Our Monstrous Purpose](https://www.last.fm/music/Nihilore/_/Our+Monstrous+Purpose)** - Nihilore<br/>
+- **[Tomoshibi](https://www.last.fm/music/Vaundy/_/Tomoshibi)** - Vaundy<br/>
+- **[Small and Distant Fireworks](https://www.last.fm/music/Nihilore/_/Small+and+Distant+Fireworks)** - Nihilore<br/>
+- **[Who Are You At War With Now](https://www.last.fm/music/Nihilore/_/Who+Are+You+At+War+With+Now)** - Nihilore<br/>
+- **[Small and Distant Fireworks](https://www.last.fm/music/Nihilore/_/Small+and+Distant+Fireworks)** - Nihilore<br/>
+- **[Something Meaningful](https://www.last.fm/music/Nihilore/_/Something+Meaningful)** - Nihilore<br/>
+- **[Our Monstrous Purpose](https://www.last.fm/music/Nihilore/_/Our+Monstrous+Purpose)** - Nihilore<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
