@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[夏日周末"Summer Weekend"(City Pop Type Beat)](https://www.last.fm/music/Gr33nart+Beats/_/%E5%A4%8F%E6%97%A5%E5%91%A8%E6%9C%AB%22Summer+Weekend%22(City+Pop+Type+Beat))** - Gr33nart Beats<br/>
-- **[Yobigoe](https://www.last.fm/music/Vaundy/_/Yobigoe)** - Vaundy<br/>
-- **[Make Me Wonder](https://www.last.fm/music/Official+HIGE+DANdism/_/Make+Me+Wonder)** - Official HIGE DANdism<br/>
-- **[Apologies](https://www.last.fm/music/Obsimo+&+mynameisleonidas/_/Apologies)** - Obsimo & mynameisleonidas<br/>
-- **[The City Where Whales Fall](https://www.last.fm/music/Rokudenashi/_/The+City+Where+Whales+Fall)** - Rokudenashi<br/>
-- **[Points of Authority (lofi)](https://www.last.fm/music/Less+Gravity/_/Points+of+Authority+(lofi))** - Less Gravity<br/>
+> ∙ **[Morning](https://www.last.fm/music/Streambeats/_/Morning)** - Streambeats<br/>
+> ∙ **[夏日周末"Summer Weekend"(City Pop Type Beat)](https://www.last.fm/music/Gr33nart+Beats/_/%E5%A4%8F%E6%97%A5%E5%91%A8%E6%9C%AB%22Summer+Weekend%22(City+Pop+Type+Beat))** - Gr33nart Beats<br/>
+> ∙ **[Yobigoe](https://www.last.fm/music/Vaundy/_/Yobigoe)** - Vaundy<br/>
+> ∙ **[Make Me Wonder](https://www.last.fm/music/Official+HIGE+DANdism/_/Make+Me+Wonder)** - Official HIGE DANdism<br/>
+> ∙ **[Apologies](https://www.last.fm/music/Obsimo+&+mynameisleonidas/_/Apologies)** - Obsimo & mynameisleonidas<br/>
+> ∙ **[The City Where Whales Fall](https://www.last.fm/music/Rokudenashi/_/The+City+Where+Whales+Fall)** - Rokudenashi<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
