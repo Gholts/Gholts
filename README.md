@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[idea](https://www.last.fm/music/Gen+Hoshino/_/idea)** - Gen Hoshino<br/>
+> ∙ **[Hello Song](https://www.last.fm/music/Gen+Hoshino/_/Hello+Song)** - Gen Hoshino<br/>
+> ∙ **[Nothing](https://www.last.fm/music/Gen+Hoshino/_/Nothing)** - Gen Hoshino<br/>
+> ∙ **[Family Song](https://www.last.fm/music/Gen+Hoshino/_/Family+Song)** - Gen Hoshino<br/>
+> ∙ **[idea](https://www.last.fm/music/Gen+Hoshino/_/idea)** - Gen Hoshino<br/>
 > ∙ **[Sapiens](https://www.last.fm/music/Gen+Hoshino/_/Sapiens)** - Gen Hoshino<br/>
 > ∙ **[Continues](https://www.last.fm/music/Gen+Hoshino/_/Continues)** - Gen Hoshino<br/>
-> ∙ **[KIDS](https://www.last.fm/music/Gen+Hoshino/_/KIDS)** - Gen Hoshino<br/>
-> ∙ **[Dead Leaf](https://www.last.fm/music/Gen+Hoshino/_/Dead+Leaf)** - Gen Hoshino<br/>
-> ∙ **[Present](https://www.last.fm/music/Gen+Hoshino/_/Present)** - Gen Hoshino<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
