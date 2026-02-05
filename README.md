@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Audio Zero Zero One](https://www.last.fm/music/Vaundy/_/Audio+Zero+Zero+One)** - Vaundy<br/>
-- **[Bye by me](https://www.last.fm/music/Vaundy/_/Bye+by+me)** - Vaundy<br/>
-- **[Tomoshibi](https://www.last.fm/music/Vaundy/_/Tomoshibi)** - Vaundy<br/>
-- **[Hello Song](https://www.last.fm/music/Gen+Hoshino/_/Hello+Song)** - Gen Hoshino<br/>
-- **[Nothing](https://www.last.fm/music/Gen+Hoshino/_/Nothing)** - Gen Hoshino<br/>
-- **[Family Song](https://www.last.fm/music/Gen+Hoshino/_/Family+Song)** - Gen Hoshino<br/>
+> ∙ **[Audio Zero Zero One](https://www.last.fm/music/Vaundy/_/Audio+Zero+Zero+One)** - Vaundy<br/>
+> ∙ **[Bye by me](https://www.last.fm/music/Vaundy/_/Bye+by+me)** - Vaundy<br/>
+> ∙ **[Tomoshibi](https://www.last.fm/music/Vaundy/_/Tomoshibi)** - Vaundy<br/>
+> ∙ **[Hello Song](https://www.last.fm/music/Gen+Hoshino/_/Hello+Song)** - Gen Hoshino<br/>
+> ∙ **[Nothing](https://www.last.fm/music/Gen+Hoshino/_/Nothing)** - Gen Hoshino<br/>
+> ∙ **[Family Song](https://www.last.fm/music/Gen+Hoshino/_/Family+Song)** - Gen Hoshino<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
