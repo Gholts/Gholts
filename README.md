@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
-> ∙ **[Final Fall](https://www.last.fm/music/Jukio+Kallio+&+Daniel+Hagstr%C3%B6m/_/Final+Fall)** - Jukio Kallio & Daniel Hagström<br/>
-> ∙ **[Sent](https://www.last.fm/music/Fred+Mug/_/Sent)** - Fred Mug<br/>
-> ∙ **[Small and Distant Fireworks](https://www.last.fm/music/Nihilore/_/Small+and+Distant+Fireworks)** - Nihilore<br/>
-> ∙ **[Audio Zero Zero One](https://www.last.fm/music/Vaundy/_/Audio+Zero+Zero+One)** - Vaundy<br/>
-> ∙ **[Bye by me](https://www.last.fm/music/Vaundy/_/Bye+by+me)** - Vaundy<br/>
+- **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
+- **[Final Fall](https://www.last.fm/music/Jukio+Kallio+&+Daniel+Hagstr%C3%B6m/_/Final+Fall)** - Jukio Kallio & Daniel Hagström<br/>
+- **[Sent](https://www.last.fm/music/Fred+Mug/_/Sent)** - Fred Mug<br/>
+- **[Small and Distant Fireworks](https://www.last.fm/music/Nihilore/_/Small+and+Distant+Fireworks)** - Nihilore<br/>
+- **[Audio Zero Zero One](https://www.last.fm/music/Vaundy/_/Audio+Zero+Zero+One)** - Vaundy<br/>
+- **[Bye by me](https://www.last.fm/music/Vaundy/_/Bye+by+me)** - Vaundy<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
