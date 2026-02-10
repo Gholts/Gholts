@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[The City Where Whales Fall](https://www.last.fm/music/Rokudenashi/_/The+City+Where+Whales+Fall)** - Rokudenashi<br/>
-> ∙ **[Points of Authority (lofi)](https://www.last.fm/music/Less+Gravity/_/Points+of+Authority+(lofi))** - Less Gravity<br/>
-> ∙ **[Jazzy Night (2009 Remastered)](https://www.last.fm/music/Miki+Matsubara/_/Jazzy+Night+(2009+Remastered))** - Miki Matsubara<br/>
-> ∙ **[SUPER](https://www.last.fm/music/Betinho+Santos/_/SUPER)** - Betinho Santos<br/>
-> ∙ **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
-> ∙ **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
+- **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
+- **[Final Fall](https://www.last.fm/music/Jukio+Kallio+&+Daniel+Hagstr%C3%B6m/_/Final+Fall)** - Jukio Kallio & Daniel Hagström<br/>
+- **[Sent](https://www.last.fm/music/Fred+Mug/_/Sent)** - Fred Mug<br/>
+- **[Small and Distant Fireworks](https://www.last.fm/music/Nihilore/_/Small+and+Distant+Fireworks)** - Nihilore<br/>
+- **[Audio Zero Zero One](https://www.last.fm/music/Vaundy/_/Audio+Zero+Zero+One)** - Vaundy<br/>
+- **[Bye by me](https://www.last.fm/music/Vaundy/_/Bye+by+me)** - Vaundy<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
