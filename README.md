@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[The City Where Whales Fall](https://www.last.fm/music/Rokudenashi/_/The+City+Where+Whales+Fall)** - Rokudenashi<br/>
-- **[Points of Authority (lofi)](https://www.last.fm/music/Less+Gravity/_/Points+of+Authority+(lofi))** - Less Gravity<br/>
-- **[Jazzy Night (2009 Remastered)](https://www.last.fm/music/Miki+Matsubara/_/Jazzy+Night+(2009+Remastered))** - Miki Matsubara<br/>
-- **[SUPER](https://www.last.fm/music/Betinho+Santos/_/SUPER)** - Betinho Santos<br/>
-- **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
-- **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
+> ∙ **[The City Where Whales Fall](https://www.last.fm/music/Rokudenashi/_/The+City+Where+Whales+Fall)** - Rokudenashi<br/>
+> ∙ **[Points of Authority (lofi)](https://www.last.fm/music/Less+Gravity/_/Points+of+Authority+(lofi))** - Less Gravity<br/>
+> ∙ **[Jazzy Night (2009 Remastered)](https://www.last.fm/music/Miki+Matsubara/_/Jazzy+Night+(2009+Remastered))** - Miki Matsubara<br/>
+> ∙ **[SUPER](https://www.last.fm/music/Betinho+Santos/_/SUPER)** - Betinho Santos<br/>
+> ∙ **[Fun Tonight](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/Fun+Tonight)** - マクロスMACROSS 82-99<br/>
+> ∙ **[Ectoplasm](https://www.last.fm/music/Type+&+PmBata/_/Ectoplasm)** - Type & PmBata<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
