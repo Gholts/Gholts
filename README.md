@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Wavetable](https://www.last.fm/music/Patricia+Taxxon/_/Wavetable)** - Patricia Taxxon<br/>
-> ∙ **[Nothing is Lost](https://www.last.fm/music/Patricia+Taxxon/_/Nothing+is+Lost)** - Patricia Taxxon<br/>
-> ∙ **[Metalworks](https://www.last.fm/music/Patricia+Taxxon/_/Metalworks)** - Patricia Taxxon<br/>
-> ∙ **[Ordeal Day](https://www.last.fm/music/Patricia+Taxxon/_/Ordeal+Day)** - Patricia Taxxon<br/>
-> ∙ **[Riot](https://www.last.fm/music/Patricia+Taxxon/_/Riot)** - Patricia Taxxon<br/>
-> ∙ **[Wavetable](https://www.last.fm/music/Patricia+Taxxon/_/Wavetable)** - Patricia Taxxon<br/>
+- **[Nothing is Lost](https://www.last.fm/music/Patricia+Taxxon/_/Nothing+is+Lost)** - Patricia Taxxon<br/>
+- **[Metalworks](https://www.last.fm/music/Patricia+Taxxon/_/Metalworks)** - Patricia Taxxon<br/>
+- **[Ordeal Day](https://www.last.fm/music/Patricia+Taxxon/_/Ordeal+Day)** - Patricia Taxxon<br/>
+- **[Riot](https://www.last.fm/music/Patricia+Taxxon/_/Riot)** - Patricia Taxxon<br/>
+- **[Wavetable](https://www.last.fm/music/Patricia+Taxxon/_/Wavetable)** - Patricia Taxxon<br/>
+- **[The City Where Whales Fall](https://www.last.fm/music/Rokudenashi/_/The+City+Where+Whales+Fall)** - Rokudenashi<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
