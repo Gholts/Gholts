@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Nothing is Lost](https://www.last.fm/music/Patricia+Taxxon/_/Nothing+is+Lost)** - Patricia Taxxon<br/>
-- **[Metalworks](https://www.last.fm/music/Patricia+Taxxon/_/Metalworks)** - Patricia Taxxon<br/>
-- **[Ordeal Day](https://www.last.fm/music/Patricia+Taxxon/_/Ordeal+Day)** - Patricia Taxxon<br/>
-- **[Riot](https://www.last.fm/music/Patricia+Taxxon/_/Riot)** - Patricia Taxxon<br/>
-- **[Wavetable](https://www.last.fm/music/Patricia+Taxxon/_/Wavetable)** - Patricia Taxxon<br/>
-- **[The City Where Whales Fall](https://www.last.fm/music/Rokudenashi/_/The+City+Where+Whales+Fall)** - Rokudenashi<br/>
+> ∙ **[U](https://www.last.fm/music/Obsimo/_/U)** - Obsimo<br/>
+> ∙ **[Love Balance](https://www.last.fm/music/Obsimo/_/Love+Balance)** - Obsimo<br/>
+> ∙ **[He Needs Me](https://www.last.fm/music/Obsimo/_/He+Needs+Me)** - Obsimo<br/>
+> ∙ **[I Don't Mind](https://www.last.fm/music/Obsimo/_/I+Don%27t+Mind)** - Obsimo<br/>
+> ∙ **[B4D M00D](https://www.last.fm/music/Obsimo/_/B4D+M00D)** - Obsimo<br/>
+> ∙ **[I Fall](https://www.last.fm/music/Obsimo+&+Monoko/_/I+Fall)** - Obsimo & Monoko<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
