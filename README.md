@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Phase One (Extra)](https://www.last.fm/music/Fred+Mug/_/Phase+One+(Extra))** - Fred Mug<br/>
-- **[Subsurface Scattering](https://www.last.fm/music/Fred+Mug/_/Subsurface+Scattering)** - Fred Mug<br/>
-- **[Emergent Behaviour](https://www.last.fm/music/Fred+Mug/_/Emergent+Behaviour)** - Fred Mug<br/>
-- **[Pit](https://www.last.fm/music/Fred+Mug/_/Pit)** - Fred Mug<br/>
-- **[Navy Blue](https://www.last.fm/music/Fred+Mug/_/Navy+Blue)** - Fred Mug<br/>
-- **[Descent](https://www.last.fm/music/Fred+Mug/_/Descent)** - Fred Mug<br/>
+> ∙ **[Phase One (Extra)](https://www.last.fm/music/Fred+Mug/_/Phase+One+(Extra))** - Fred Mug<br/>
+> ∙ **[Subsurface Scattering](https://www.last.fm/music/Fred+Mug/_/Subsurface+Scattering)** - Fred Mug<br/>
+> ∙ **[Emergent Behaviour](https://www.last.fm/music/Fred+Mug/_/Emergent+Behaviour)** - Fred Mug<br/>
+> ∙ **[Pit](https://www.last.fm/music/Fred+Mug/_/Pit)** - Fred Mug<br/>
+> ∙ **[Navy Blue](https://www.last.fm/music/Fred+Mug/_/Navy+Blue)** - Fred Mug<br/>
+> ∙ **[Descent](https://www.last.fm/music/Fred+Mug/_/Descent)** - Fred Mug<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
