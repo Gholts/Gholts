@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Love Like This](https://www.last.fm/music/Fujii+Kaze/_/Love+Like+This)** - Fujii Kaze<br/>
-> ∙ **[Love Like This](https://www.last.fm/music/Fujii+Kaze/_/Love+Like+This)** - Fujii Kaze<br/>
-> ∙ **[Keep On](https://www.last.fm/music/Nino+Man+&+Albee+Al/_/Keep+On)** - Nino Man & Albee Al<br/>
-> ∙ **[Exploration](https://www.last.fm/music/Fred+Mug/_/Exploration)** - Fred Mug<br/>
-> ∙ **[Phase One (Extra)](https://www.last.fm/music/Fred+Mug/_/Phase+One+(Extra))** - Fred Mug<br/>
-> ∙ **[Subsurface Scattering](https://www.last.fm/music/Fred+Mug/_/Subsurface+Scattering)** - Fred Mug<br/>
+- **[Keep On](https://www.last.fm/music/Nino+Man+&+Albee+Al/_/Keep+On)** - Nino Man & Albee Al<br/>
+- **[Exploration](https://www.last.fm/music/Fred+Mug/_/Exploration)** - Fred Mug<br/>
+- **[Phase One (Extra)](https://www.last.fm/music/Fred+Mug/_/Phase+One+(Extra))** - Fred Mug<br/>
+- **[Subsurface Scattering](https://www.last.fm/music/Fred+Mug/_/Subsurface+Scattering)** - Fred Mug<br/>
+- **[Emergent Behaviour](https://www.last.fm/music/Fred+Mug/_/Emergent+Behaviour)** - Fred Mug<br/>
+- **[Pit](https://www.last.fm/music/Fred+Mug/_/Pit)** - Fred Mug<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
