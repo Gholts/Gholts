@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Fall (Ghost Synth)](https://www.last.fm/music/ConcernedApe/_/Fall+(Ghost+Synth))** - ConcernedApe<br/>
-> ∙ **[Fall (The Smell Of Mushroom)](https://www.last.fm/music/ConcernedApe/_/Fall+(The+Smell+Of+Mushroom))** - ConcernedApe<br/>
-> ∙ **[Dance Of The Moonlight Jellies](https://www.last.fm/music/ConcernedApe/_/Dance+Of+The+Moonlight+Jellies)** - ConcernedApe<br/>
-> ∙ **[Luau Festival](https://www.last.fm/music/ConcernedApe/_/Luau+Festival)** - ConcernedApe<br/>
-> ∙ **[The Stardrop Saloon](https://www.last.fm/music/ConcernedApe/_/The+Stardrop+Saloon)** - ConcernedApe<br/>
-> ∙ **[The Adventure Guild](https://www.last.fm/music/ConcernedApe/_/The+Adventure+Guild)** - ConcernedApe<br/>
+- **[Fall (Ghost Synth)](https://www.last.fm/music/ConcernedApe/_/Fall+(Ghost+Synth))** - ConcernedApe<br/>
+- **[Fall (The Smell Of Mushroom)](https://www.last.fm/music/ConcernedApe/_/Fall+(The+Smell+Of+Mushroom))** - ConcernedApe<br/>
+- **[Dance Of The Moonlight Jellies](https://www.last.fm/music/ConcernedApe/_/Dance+Of+The+Moonlight+Jellies)** - ConcernedApe<br/>
+- **[Luau Festival](https://www.last.fm/music/ConcernedApe/_/Luau+Festival)** - ConcernedApe<br/>
+- **[The Stardrop Saloon](https://www.last.fm/music/ConcernedApe/_/The+Stardrop+Saloon)** - ConcernedApe<br/>
+- **[The Adventure Guild](https://www.last.fm/music/ConcernedApe/_/The+Adventure+Guild)** - ConcernedApe<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
