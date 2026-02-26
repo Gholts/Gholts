@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Social](https://www.last.fm/music/Fred+Mug/_/Social)** - Fred Mug<br/>
-- **[Mints](https://www.last.fm/music/Fred+Mug/_/Mints)** - Fred Mug<br/>
-- **[Boxed in](https://www.last.fm/music/Fred+Mug/_/Boxed+in)** - Fred Mug<br/>
-- **[Happening](https://www.last.fm/music/Fred+Mug/_/Happening)** - Fred Mug<br/>
-- **[Effort](https://www.last.fm/music/Fred+Mug/_/Effort)** - Fred Mug<br/>
-- **[Social](https://www.last.fm/music/Fred+Mug/_/Social)** - Fred Mug<br/>
+> 🎶 **[Breathe In Breathe Out (feat. Ludacris)](https://www.last.fm/music/Kanye+West/_/Breathe+In+Breathe+Out+(feat.+Ludacris))** - Kanye West<br/>
+> ∙ **[Slow Jamz](https://www.last.fm/music/Kanye+West/_/Slow+Jamz)** - Kanye West<br/>
+> ∙ **[The New Workout Plan](https://www.last.fm/music/Kanye+West/_/The+New+Workout+Plan)** - Kanye West<br/>
+> ∙ **[Workout Plan](https://www.last.fm/music/Kanye+West/_/Workout+Plan)** - Kanye West<br/>
+> ∙ **[Get Em High (feat. Talib Kweli & Common)](https://www.last.fm/music/Kanye+West/_/Get+Em+High+(feat.+Talib+Kweli+&+Common))** - Kanye West<br/>
+> ∙ **[Never Let Me Down (feat. Jay-Z & J. Ivy)](https://www.last.fm/music/Kanye+West/_/Never+Let+Me+Down+(feat.+Jay-Z+&+J.+Ivy))** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
