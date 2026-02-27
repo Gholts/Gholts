@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
-> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
-> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
-> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
+- **[Breathe In Breathe Out (feat. Ludacris)](https://www.last.fm/music/Kanye+West/_/Breathe+In+Breathe+Out+(feat.+Ludacris))** - Kanye West<br/>
+- **[Slow Jamz](https://www.last.fm/music/Kanye+West/_/Slow+Jamz)** - Kanye West<br/>
+- **[The New Workout Plan](https://www.last.fm/music/Kanye+West/_/The+New+Workout+Plan)** - Kanye West<br/>
+- **[Workout Plan](https://www.last.fm/music/Kanye+West/_/Workout+Plan)** - Kanye West<br/>
+- **[Get Em High (feat. Talib Kweli & Common)](https://www.last.fm/music/Kanye+West/_/Get+Em+High+(feat.+Talib+Kweli+&+Common))** - Kanye West<br/>
+- **[Never Let Me Down (feat. Jay-Z & J. Ivy)](https://www.last.fm/music/Kanye+West/_/Never+Let+Me+Down+(feat.+Jay-Z+&+J.+Ivy))** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
