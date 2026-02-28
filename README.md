@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
-- **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
+> ∙ **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
+> ∙ **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
