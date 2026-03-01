@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
-- **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
-- **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
-- **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
-- **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
-- **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
+> ∙ **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
+> ∙ **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
