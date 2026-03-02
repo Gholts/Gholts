@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[I Miss You (feat. Roman)](https://www.last.fm/music/Macross+82-99/_/I+Miss+You+(feat.+Roman))** - Macross 82-99<br/>
-- **[Been Thinking About It](https://www.last.fm/music/Macross+82-99/_/Been+Thinking+About+It)** - Macross 82-99<br/>
-- **[Whispy Woods/Game Over (feat. Strider Kun)](https://www.last.fm/music/Macross+82-99/_/Whispy+Woods%2FGame+Over+(feat.+Strider+Kun))** - Macross 82-99<br/>
-- **[Sailor Team](https://www.last.fm/music/Macross+82-99/_/Sailor+Team)** - Macross 82-99<br/>
-- **[Ash (feat. Libano)](https://www.last.fm/music/Macross+82-99/_/Ash+(feat.+Libano))** - Macross 82-99<br/>
-- **[Peach (feat. Diana Shroomy)](https://www.last.fm/music/Macross+82-99/_/Peach+(feat.+Diana+Shroomy))** - Macross 82-99<br/>
+> ∙ **[I Miss You (feat. Roman)](https://www.last.fm/music/Macross+82-99/_/I+Miss+You+(feat.+Roman))** - Macross 82-99<br/>
+> ∙ **[Been Thinking About It](https://www.last.fm/music/Macross+82-99/_/Been+Thinking+About+It)** - Macross 82-99<br/>
+> ∙ **[Whispy Woods/Game Over (feat. Strider Kun)](https://www.last.fm/music/Macross+82-99/_/Whispy+Woods%2FGame+Over+(feat.+Strider+Kun))** - Macross 82-99<br/>
+> ∙ **[Sailor Team](https://www.last.fm/music/Macross+82-99/_/Sailor+Team)** - Macross 82-99<br/>
+> ∙ **[Ash (feat. Libano)](https://www.last.fm/music/Macross+82-99/_/Ash+(feat.+Libano))** - Macross 82-99<br/>
+> ∙ **[Peach (feat. Diana Shroomy)](https://www.last.fm/music/Macross+82-99/_/Peach+(feat.+Diana+Shroomy))** - Macross 82-99<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
