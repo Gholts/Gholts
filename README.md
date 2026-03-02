@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
-> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
-> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
-> ∙ **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
-> ∙ **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
-> ∙ **[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)** - Kanye West<br/>
+> 🎶 **[The Bright Lights of Summer](https://www.last.fm/music/Nihilore/_/The+Bright+Lights+of+Summer)** - Nihilore<br/>
+> ∙ **[A Sense of Purpose](https://www.last.fm/music/Nihilore/_/A+Sense+of+Purpose)** - Nihilore<br/>
+> ∙ **[This Time is Precious](https://www.last.fm/music/Nihilore/_/This+Time+is+Precious)** - Nihilore<br/>
+> ∙ **[Our Ships Line The Ocean Floor](https://www.last.fm/music/Nihilore/_/Our+Ships+Line+The+Ocean+Floor)** - Nihilore<br/>
+> ∙ **[Untitled](https://www.last.fm/music/Nihilore/_/Untitled)** - Nihilore<br/>
+> ∙ **[Who Are You At War With Now (Instrumental)](https://www.last.fm/music/Nihilore/_/Who+Are+You+At+War+With+Now+(Instrumental))** - Nihilore<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
