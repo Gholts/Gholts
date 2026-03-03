@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
+> ∙ **[Effort](https://www.last.fm/music/Fred+Mug/_/Effort)** - Fred Mug<br/>
 > ∙ **[Social](https://www.last.fm/music/Fred+Mug/_/Social)** - Fred Mug<br/>
 > ∙ **[Mints](https://www.last.fm/music/Fred+Mug/_/Mints)** - Fred Mug<br/>
 > ∙ **[Boxed in](https://www.last.fm/music/Fred+Mug/_/Boxed+in)** - Fred Mug<br/>
 > ∙ **[Happening](https://www.last.fm/music/Fred+Mug/_/Happening)** - Fred Mug<br/>
 > ∙ **[Effort](https://www.last.fm/music/Fred+Mug/_/Effort)** - Fred Mug<br/>
-> ∙ **[A Lot Of Pretty Girls (feat. UPPER)](https://www.last.fm/music/Macross+82-99/_/A+Lot+Of+Pretty+Girls+(feat.+UPPER))** - Macross 82-99<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
