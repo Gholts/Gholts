@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Effort](https://www.last.fm/music/Fred+Mug/_/Effort)** - Fred Mug<br/>
-> ∙ **[Social](https://www.last.fm/music/Fred+Mug/_/Social)** - Fred Mug<br/>
-> ∙ **[Mints](https://www.last.fm/music/Fred+Mug/_/Mints)** - Fred Mug<br/>
-> ∙ **[Boxed in](https://www.last.fm/music/Fred+Mug/_/Boxed+in)** - Fred Mug<br/>
-> ∙ **[Boxed in](https://www.last.fm/music/Fred+Mug/_/Boxed+in)** - Fred Mug<br/>
-> ∙ **[Happening](https://www.last.fm/music/Fred+Mug/_/Happening)** - Fred Mug<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
+> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
+> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
