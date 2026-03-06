@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
-- **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
+> ∙ **[Pit](https://www.last.fm/music/Fred+Mug/_/Pit)** - Fred Mug<br/>
+> ∙ **[Navy Blue](https://www.last.fm/music/Fred+Mug/_/Navy+Blue)** - Fred Mug<br/>
+> ∙ **[Descent](https://www.last.fm/music/Fred+Mug/_/Descent)** - Fred Mug<br/>
+> ∙ **[Phase Two (Extra)](https://www.last.fm/music/Fred+Mug/_/Phase+Two+(Extra))** - Fred Mug<br/>
+> ∙ **[Exploration](https://www.last.fm/music/Fred+Mug/_/Exploration)** - Fred Mug<br/>
+> ∙ **[Phase One (Extra)](https://www.last.fm/music/Fred+Mug/_/Phase+One+(Extra))** - Fred Mug<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
