@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-- **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
-- **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
+> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
+> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
