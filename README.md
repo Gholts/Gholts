@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Spaceship (feat. GLC & Consequence)](https://www.last.fm/music/Kanye+West/_/Spaceship+(feat.+GLC+&+Consequence))** - Kanye West<br/>
-> ∙ **[I'll Fly Away](https://www.last.fm/music/Kanye+West/_/I%27ll+Fly+Away)** - Kanye West<br/>
-> ∙ **[All Falls Down (feat. Syleena Johnson)](https://www.last.fm/music/Kanye+West/_/All+Falls+Down+(feat.+Syleena+Johnson))** - Kanye West<br/>
-> ∙ **[Graduation Day](https://www.last.fm/music/Kanye+West/_/Graduation+Day)** - Kanye West<br/>
-> ∙ **[We Don't Care](https://www.last.fm/music/Kanye+West/_/We+Don%27t+Care)** - Kanye West<br/>
-> ∙ **[Riot](https://www.last.fm/music/Patricia+Taxxon/_/Riot)** - Patricia Taxxon<br/>
+- **[We Don't Care](https://www.last.fm/music/Kanye+West/_/We+Don%27t+Care)** - Kanye West<br/>
+- **[Riot](https://www.last.fm/music/Patricia+Taxxon/_/Riot)** - Patricia Taxxon<br/>
+- **[Wavetable](https://www.last.fm/music/Patricia+Taxxon/_/Wavetable)** - Patricia Taxxon<br/>
+- **[Virtuous](https://www.last.fm/music/Patricia+Taxxon/_/Virtuous)** - Patricia Taxxon<br/>
+- **[Nothing is Lost](https://www.last.fm/music/Patricia+Taxxon/_/Nothing+is+Lost)** - Patricia Taxxon<br/>
+- **[Metalworks](https://www.last.fm/music/Patricia+Taxxon/_/Metalworks)** - Patricia Taxxon<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
