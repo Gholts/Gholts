@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Pit](https://www.last.fm/music/Fred+Mug/_/Pit)** - Fred Mug<br/>
-- **[Navy Blue](https://www.last.fm/music/Fred+Mug/_/Navy+Blue)** - Fred Mug<br/>
-- **[Descent](https://www.last.fm/music/Fred+Mug/_/Descent)** - Fred Mug<br/>
-- **[Phase Two (Extra)](https://www.last.fm/music/Fred+Mug/_/Phase+Two+(Extra))** - Fred Mug<br/>
-- **[Exploration](https://www.last.fm/music/Fred+Mug/_/Exploration)** - Fred Mug<br/>
-- **[Phase One (Extra)](https://www.last.fm/music/Fred+Mug/_/Phase+One+(Extra))** - Fred Mug<br/>
+> 🎶 **[We Don't Care](https://www.last.fm/music/Kanye+West/_/We+Don%27t+Care)** - Kanye West<br/>
+> ∙ **[Riot](https://www.last.fm/music/Patricia+Taxxon/_/Riot)** - Patricia Taxxon<br/>
+> ∙ **[Wavetable](https://www.last.fm/music/Patricia+Taxxon/_/Wavetable)** - Patricia Taxxon<br/>
+> ∙ **[Virtuous](https://www.last.fm/music/Patricia+Taxxon/_/Virtuous)** - Patricia Taxxon<br/>
+> ∙ **[Nothing is Lost](https://www.last.fm/music/Patricia+Taxxon/_/Nothing+is+Lost)** - Patricia Taxxon<br/>
+> ∙ **[Metalworks](https://www.last.fm/music/Patricia+Taxxon/_/Metalworks)** - Patricia Taxxon<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
