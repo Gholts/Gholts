@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Chyreck](https://www.last.fm/music/Fred+Mug/_/Chyreck)** - Fred Mug<br/>
-> ∙ **[Keryst](https://www.last.fm/music/Fred+Mug/_/Keryst)** - Fred Mug<br/>
-> ∙ **[Holferr](https://www.last.fm/music/Fred+Mug/_/Holferr)** - Fred Mug<br/>
-> ∙ **[Stryel](https://www.last.fm/music/Fred+Mug/_/Stryel)** - Fred Mug<br/>
-> ∙ **[Ucyx](https://www.last.fm/music/Fred+Mug/_/Ucyx)** - Fred Mug<br/>
-> ∙ **[Chyreck](https://www.last.fm/music/Fred+Mug/_/Chyreck)** - Fred Mug<br/>
+- **[Stryel](https://www.last.fm/music/Fred+Mug/_/Stryel)** - Fred Mug<br/>
+- **[Ucyx](https://www.last.fm/music/Fred+Mug/_/Ucyx)** - Fred Mug<br/>
+- **[Chyreck](https://www.last.fm/music/Fred+Mug/_/Chyreck)** - Fred Mug<br/>
+- **[Keryst](https://www.last.fm/music/Fred+Mug/_/Keryst)** - Fred Mug<br/>
+- **[Holferr](https://www.last.fm/music/Fred+Mug/_/Holferr)** - Fred Mug<br/>
+- **[Stryel](https://www.last.fm/music/Fred+Mug/_/Stryel)** - Fred Mug<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
