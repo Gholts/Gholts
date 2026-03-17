@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[SHINING FROM THE INSIDE](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/SHINING+FROM+THE+INSIDE)** - 山下達郎<br/>
-- **[うたのきしゃ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%81%86%E3%81%9F%E3%81%AE%E3%81%8D%E3%81%97%E3%82%83)** - 山下達郎<br/>
-- **[人力飛行機](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E4%BA%BA%E5%8A%9B%E9%A3%9B%E8%A1%8C%E6%A9%9F)** - 山下達郎<br/>
-- **[CHEER UP! THE SUMMER](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/CHEER+UP!+THE+SUMMER)** - 山下達郎<br/>
-- **[RECIPE (レシピ)](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/RECIPE+(%E3%83%AC%E3%82%B7%E3%83%94))** - 山下達郎<br/>
-- **[ミライのテーマ](https://www.last.fm/music/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E/_/%E3%83%9F%E3%83%A9%E3%82%A4%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E)** - 山下達郎<br/>
+> 🎶 **[Stryel](https://www.last.fm/music/Fred+Mug/_/Stryel)** - Fred Mug<br/>
+> ∙ **[Ucyx](https://www.last.fm/music/Fred+Mug/_/Ucyx)** - Fred Mug<br/>
+> ∙ **[Chyreck](https://www.last.fm/music/Fred+Mug/_/Chyreck)** - Fred Mug<br/>
+> ∙ **[Keryst](https://www.last.fm/music/Fred+Mug/_/Keryst)** - Fred Mug<br/>
+> ∙ **[Holferr](https://www.last.fm/music/Fred+Mug/_/Holferr)** - Fred Mug<br/>
+> ∙ **[Stryel](https://www.last.fm/music/Fred+Mug/_/Stryel)** - Fred Mug<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
