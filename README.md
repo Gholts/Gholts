@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Celestial Theme](https://www.last.fm/music/Louis.F/_/Celestial+Theme)** - Louis.F<br/>
-> ∙ **[Arcana Theme](https://www.last.fm/music/Louis.F/_/Arcana+Theme)** - Louis.F<br/>
-> ∙ **[Shop Theme](https://www.last.fm/music/Louis.F/_/Shop+Theme)** - Louis.F<br/>
-> ∙ **[Main Theme](https://www.last.fm/music/Louis.F/_/Main+Theme)** - Louis.F<br/>
-> ∙ **[Boss Theme](https://www.last.fm/music/Louis.F/_/Boss+Theme)** - Louis.F<br/>
-> ∙ **[Celestial Theme](https://www.last.fm/music/Louis.F/_/Celestial+Theme)** - Louis.F<br/>
+- **[Chyreck](https://www.last.fm/music/Fred+Mug/_/Chyreck)** - Fred Mug<br/>
+- **[Chyreck](https://www.last.fm/music/Fred+Mug/_/Chyreck)** - Fred Mug<br/>
+- **[Keryst](https://www.last.fm/music/Fred+Mug/_/Keryst)** - Fred Mug<br/>
+- **[Keryst](https://www.last.fm/music/Fred+Mug/_/Keryst)** - Fred Mug<br/>
+- **[Holferr](https://www.last.fm/music/Fred+Mug/_/Holferr)** - Fred Mug<br/>
+- **[Holferr](https://www.last.fm/music/Fred+Mug/_/Holferr)** - Fred Mug<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
