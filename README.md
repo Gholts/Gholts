@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
-> ∙ **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
-> ∙ **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
-> ∙ **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
-> ∙ **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
-> ∙ **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
+- **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
+- **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
+- **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
+- **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
+- **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
+- **[Chasing Dreams](https://www.last.fm/music/Yestalgia/_/Chasing+Dreams)** - Yestalgia<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
