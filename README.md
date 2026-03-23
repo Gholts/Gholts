@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> 🎶 **[Massive (Idol Two)](https://www.last.fm/music/Fred+Mug/_/Massive+(Idol+Two))** - Fred Mug<br/>
-> ∙ **[Accent](https://www.last.fm/music/Fred+Mug/_/Accent)** - Fred Mug<br/>
-> ∙ **[Basics (Idol One)](https://www.last.fm/music/Fred+Mug/_/Basics+(Idol+One))** - Fred Mug<br/>
-> ∙ **[Sentencing](https://www.last.fm/music/Fred+Mug/_/Sentencing)** - Fred Mug<br/>
-> ∙ **[Leap (Idol Three)](https://www.last.fm/music/Fred+Mug/_/Leap+(Idol+Three))** - Fred Mug<br/>
-> ∙ **[Hyper Focus](https://www.last.fm/music/Fred+Mug/_/Hyper+Focus)** - Fred Mug<br/>
+- **[Hateno Village](https://www.last.fm/music/Mikel+&+GameChops/_/Hateno+Village)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
