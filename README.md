@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Hateno Village](https://www.last.fm/music/Mikel+&+GameChops/_/Hateno+Village)** - Mikel & GameChops<br/>
-> ∙ **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
-> ∙ **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
-> ∙ **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
-> ∙ **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
-> ∙ **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
+- **[Hateno Village](https://www.last.fm/music/Mikel+&+GameChops/_/Hateno+Village)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
+- **[Breath of the Wild](https://www.last.fm/music/Mikel+&+GameChops/_/Breath+of+the+Wild)** - Mikel & GameChops<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
