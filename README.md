@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[U](https://www.last.fm/music/Obsimo/_/U)** - Obsimo<br/>
-> ∙ **[U](https://www.last.fm/music/Obsimo/_/U)** - Obsimo<br/>
-> ∙ **[U](https://www.last.fm/music/Obsimo/_/U)** - Obsimo<br/>
-> ∙ **[U](https://www.last.fm/music/Obsimo/_/U)** - Obsimo<br/>
-> ∙ **[Love Balance](https://www.last.fm/music/Obsimo/_/Love+Balance)** - Obsimo<br/>
-> ∙ **[Love Balance](https://www.last.fm/music/Obsimo/_/Love+Balance)** - Obsimo<br/>
+> ∙ **[Space](https://www.last.fm/music/Fred+Mug/_/Space)** - Fred Mug<br/>
+> ∙ **[Signature](https://www.last.fm/music/Fred+Mug/_/Signature)** - Fred Mug<br/>
+> ∙ **[Sent](https://www.last.fm/music/Fred+Mug/_/Sent)** - Fred Mug<br/>
+> ∙ **[Itemize](https://www.last.fm/music/Fred+Mug/_/Itemize)** - Fred Mug<br/>
+> ∙ **[Space](https://www.last.fm/music/Fred+Mug/_/Space)** - Fred Mug<br/>
+> ∙ **[Signature](https://www.last.fm/music/Fred+Mug/_/Signature)** - Fred Mug<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
