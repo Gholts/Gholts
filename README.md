@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
-- **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
-- **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
-- **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
-- **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
-- **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+> 🎶 **[Piranah Plant's Lullaby Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Piranah+Plant%27s+Lullaby+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Time Trials Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Time+Trials+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Delfino Plaza Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Delfino+Plaza+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Pokemon Unite Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Pokemon+Unite+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Halo Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Halo+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
