@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
-- **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
-- **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
-- **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
-- **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
-- **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+> ∙ **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
+> ∙ **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
+> ∙ **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
+> ∙ **[at charly's](https://www.last.fm/music/halfpastseven/_/at+charly%27s)** - halfpastseven<br/>
+> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
+> ∙ **[out of sight](https://www.last.fm/music/halfpastseven/_/out+of+sight)** - halfpastseven<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
