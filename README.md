@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Halo Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Halo+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Mario Kart Rainbow Road Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Mario+Kart+Rainbow+Road+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Kirby's Dreamland Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Kirby%27s+Dreamland+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Piranah Plant's Lullaby Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Piranah+Plant%27s+Lullaby+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Time Trials Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Time+Trials+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Halo Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Halo+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Mario Kart Rainbow Road Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Mario+Kart+Rainbow+Road+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Kirby's Dreamland Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Kirby%27s+Dreamland+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Piranah Plant's Lullaby Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Piranah+Plant%27s+Lullaby+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Time Trials Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Time+Trials+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
