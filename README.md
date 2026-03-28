@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Halo Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Halo+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-- **[Halo Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Halo+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Halo Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Halo+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[Halo Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Halo+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
