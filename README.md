@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-> ∙ **[Arcane Enemy Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Arcane+Enemy+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-> ∙ **[Halo Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Halo+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
-> ∙ **[Halo Lofi (Lofi)](https://www.last.fm/music/Snore+Lax+&+GameChops/_/Halo+Lofi+(Lofi))** - Snore Lax & GameChops<br/>
+> ∙ **[DAMN](https://www.last.fm/music/YE/_/DAMN)** - YE<br/>
+> ∙ **[LAST BREATH](https://www.last.fm/music/YE/_/LAST+BREATH)** - YE<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
+> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
+> ∙ **[LOSING YOUR MIND](https://www.last.fm/music/YE/_/LOSING+YOUR+MIND)** - YE<br/>
+> ∙ **[DAMN](https://www.last.fm/music/YE/_/DAMN)** - YE<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
