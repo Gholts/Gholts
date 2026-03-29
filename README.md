@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[DAMN](https://www.last.fm/music/YE/_/DAMN)** - YE<br/>
+> ∙ **[LAST BREATH](https://www.last.fm/music/YE/_/LAST+BREATH)** - YE<br/>
+> ∙ **[LAST BREATH](https://www.last.fm/music/YE/_/LAST+BREATH)** - YE<br/>
+> ∙ **[LAST BREATH](https://www.last.fm/music/YE/_/LAST+BREATH)** - YE<br/>
 > ∙ **[LAST BREATH](https://www.last.fm/music/YE/_/LAST+BREATH)** - YE<br/>
 > ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
-> ∙ **[PREACHER MAN](https://www.last.fm/music/YE/_/PREACHER+MAN)** - YE<br/>
-> ∙ **[LOSING YOUR MIND](https://www.last.fm/music/YE/_/LOSING+YOUR+MIND)** - YE<br/>
-> ∙ **[DAMN](https://www.last.fm/music/YE/_/DAMN)** - YE<br/>
+> ∙ **[Beauty And The Beast](https://www.last.fm/music/YE/_/Beauty+And+The+Beast)** - YE<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
