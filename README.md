@@ -41,7 +41,7 @@
 
 <div align="left">
   <kbd>
-    <a href="https://gholts.top/">
+    <a href="https://proxies.foo/">
       <img
         src="https://img.shields.io/badge/Blog-black?logo=astro&logoColor=white&style=flat"
         alt="Blog"
