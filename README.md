@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
-- **[Day You Left](https://www.last.fm/music/StreamBeats+Music/_/Day+You+Left)** - StreamBeats Music<br/>
-- **[Dim Lights](https://www.last.fm/music/StreamBeats+Music/_/Dim+Lights)** - StreamBeats Music<br/>
-- **[Walkabout](https://www.last.fm/music/StreamBeats+Music/_/Walkabout)** - StreamBeats Music<br/>
-- **[Carousel](https://www.last.fm/music/StreamBeats+Music/_/Carousel)** - StreamBeats Music<br/>
-- **[Because You Asked](https://www.last.fm/music/StreamBeats+Music/_/Because+You+Asked)** - StreamBeats Music<br/>
+> ∙ **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
+> ∙ **[Day You Left](https://www.last.fm/music/StreamBeats+Music/_/Day+You+Left)** - StreamBeats Music<br/>
+> ∙ **[Dim Lights](https://www.last.fm/music/StreamBeats+Music/_/Dim+Lights)** - StreamBeats Music<br/>
+> ∙ **[Walkabout](https://www.last.fm/music/StreamBeats+Music/_/Walkabout)** - StreamBeats Music<br/>
+> ∙ **[Carousel](https://www.last.fm/music/StreamBeats+Music/_/Carousel)** - StreamBeats Music<br/>
+> ∙ **[Because You Asked](https://www.last.fm/music/StreamBeats+Music/_/Because+You+Asked)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
