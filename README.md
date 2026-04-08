@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Forget the Past](https://www.last.fm/music/StreamBeats+Music/_/Forget+the+Past)** - StreamBeats Music<br/>
-- **[Ocean Scent](https://www.last.fm/music/StreamBeats+Music/_/Ocean+Scent)** - StreamBeats Music<br/>
-- **[Sudden Embrace](https://www.last.fm/music/StreamBeats+Music/_/Sudden+Embrace)** - StreamBeats Music<br/>
-- **[Frontier](https://www.last.fm/music/StreamBeats+Music/_/Frontier)** - StreamBeats Music<br/>
-- **[Lost in Perspective](https://www.last.fm/music/StreamBeats+Music/_/Lost+in+Perspective)** - StreamBeats Music<br/>
-- **[Outside](https://www.last.fm/music/StreamBeats+Music/_/Outside)** - StreamBeats Music<br/>
+> ∙ **[Forget the Past](https://www.last.fm/music/StreamBeats+Music/_/Forget+the+Past)** - StreamBeats Music<br/>
+> ∙ **[Ocean Scent](https://www.last.fm/music/StreamBeats+Music/_/Ocean+Scent)** - StreamBeats Music<br/>
+> ∙ **[Sudden Embrace](https://www.last.fm/music/StreamBeats+Music/_/Sudden+Embrace)** - StreamBeats Music<br/>
+> ∙ **[Frontier](https://www.last.fm/music/StreamBeats+Music/_/Frontier)** - StreamBeats Music<br/>
+> ∙ **[Lost in Perspective](https://www.last.fm/music/StreamBeats+Music/_/Lost+in+Perspective)** - StreamBeats Music<br/>
+> ∙ **[Outside](https://www.last.fm/music/StreamBeats+Music/_/Outside)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
