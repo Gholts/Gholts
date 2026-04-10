@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Forget the Past](https://www.last.fm/music/StreamBeats+Music/_/Forget+the+Past)** - StreamBeats Music<br/>
-- **[Ocean Scent](https://www.last.fm/music/StreamBeats+Music/_/Ocean+Scent)** - StreamBeats Music<br/>
-- **[Sudden Embrace](https://www.last.fm/music/StreamBeats+Music/_/Sudden+Embrace)** - StreamBeats Music<br/>
-- **[Frontier](https://www.last.fm/music/StreamBeats+Music/_/Frontier)** - StreamBeats Music<br/>
-- **[Lost in Perspective](https://www.last.fm/music/StreamBeats+Music/_/Lost+in+Perspective)** - StreamBeats Music<br/>
-- **[Outside](https://www.last.fm/music/StreamBeats+Music/_/Outside)** - StreamBeats Music<br/>
+> ∙ **[Good Night (feat. Mos Def & Al Be Back)](https://www.last.fm/music/Kanye+West/_/Good+Night+(feat.+Mos+Def+&+Al+Be+Back))** - Kanye West<br/>
+> ∙ **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
+> ∙ **[Homecoming (feat. Chris Martin)](https://www.last.fm/music/Kanye+West/_/Homecoming+(feat.+Chris+Martin))** - Kanye West<br/>
+> ∙ **[The Glory](https://www.last.fm/music/Kanye+West/_/The+Glory)** - Kanye West<br/>
+> ∙ **[Everything I Am (feat. DJ Premier)](https://www.last.fm/music/Kanye+West/_/Everything+I+Am+(feat.+DJ+Premier))** - Kanye West<br/>
+> ∙ **[Flashing Lights (feat. Dwele)](https://www.last.fm/music/Kanye+West/_/Flashing+Lights+(feat.+Dwele))** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
