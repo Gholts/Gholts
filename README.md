@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Good Night (feat. Mos Def & Al Be Back)](https://www.last.fm/music/Kanye+West/_/Good+Night+(feat.+Mos+Def+&+Al+Be+Back))** - Kanye West<br/>
-- **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
-- **[Homecoming (feat. Chris Martin)](https://www.last.fm/music/Kanye+West/_/Homecoming+(feat.+Chris+Martin))** - Kanye West<br/>
-- **[The Glory](https://www.last.fm/music/Kanye+West/_/The+Glory)** - Kanye West<br/>
-- **[Everything I Am (feat. DJ Premier)](https://www.last.fm/music/Kanye+West/_/Everything+I+Am+(feat.+DJ+Premier))** - Kanye West<br/>
-- **[Flashing Lights (feat. Dwele)](https://www.last.fm/music/Kanye+West/_/Flashing+Lights+(feat.+Dwele))** - Kanye West<br/>
+> ∙ **[Drunk and Hot Girls (feat. Mos Def)](https://www.last.fm/music/Kanye+West/_/Drunk+and+Hot+Girls+(feat.+Mos+Def))** - Kanye West<br/>
+> ∙ **[Drunk and Hot Girls (feat. Mos Def)](https://www.last.fm/music/Kanye+West/_/Drunk+and+Hot+Girls+(feat.+Mos+Def))** - Kanye West<br/>
+> ∙ **[Barry Bonds (feat. Lil Wayne)](https://www.last.fm/music/Kanye+West/_/Barry+Bonds+(feat.+Lil+Wayne))** - Kanye West<br/>
+> ∙ **[Barry Bonds (feat. Lil Wayne)](https://www.last.fm/music/Kanye+West/_/Barry+Bonds+(feat.+Lil+Wayne))** - Kanye West<br/>
+> ∙ **[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)** - Kanye West<br/>
+> ∙ **[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
