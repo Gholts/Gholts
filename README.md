@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Champion](https://www.last.fm/music/Kanye+West/_/Champion)** - Kanye West<br/>
-- **[Champion](https://www.last.fm/music/Kanye+West/_/Champion)** - Kanye West<br/>
-- **[Champion](https://www.last.fm/music/Kanye+West/_/Champion)** - Kanye West<br/>
-- **[Good Morning](https://www.last.fm/music/Kanye+West/_/Good+Morning)** - Kanye West<br/>
-- **[Good Morning](https://www.last.fm/music/Kanye+West/_/Good+Morning)** - Kanye West<br/>
-- **[Good Morning](https://www.last.fm/music/Kanye+West/_/Good+Morning)** - Kanye West<br/>
+> ∙ **[Champion](https://www.last.fm/music/Kanye+West/_/Champion)** - Kanye West<br/>
+> ∙ **[Champion](https://www.last.fm/music/Kanye+West/_/Champion)** - Kanye West<br/>
+> ∙ **[Champion](https://www.last.fm/music/Kanye+West/_/Champion)** - Kanye West<br/>
+> ∙ **[Good Morning](https://www.last.fm/music/Kanye+West/_/Good+Morning)** - Kanye West<br/>
+> ∙ **[Good Morning](https://www.last.fm/music/Kanye+West/_/Good+Morning)** - Kanye West<br/>
+> ∙ **[Good Morning](https://www.last.fm/music/Kanye+West/_/Good+Morning)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
