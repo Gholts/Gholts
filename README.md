@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
-- **[Champion](https://www.last.fm/music/Kanye+West/_/Champion)** - Kanye West<br/>
-- **[Champion](https://www.last.fm/music/Kanye+West/_/Champion)** - Kanye West<br/>
-- **[Champion](https://www.last.fm/music/Kanye+West/_/Champion)** - Kanye West<br/>
-- **[Good Morning](https://www.last.fm/music/Kanye+West/_/Good+Morning)** - Kanye West<br/>
-- **[Good Morning](https://www.last.fm/music/Kanye+West/_/Good+Morning)** - Kanye West<br/>
+> ∙ **[Abjection](https://www.last.fm/music/Fred+Mug/_/Abjection)** - Fred Mug<br/>
+> ∙ **[Accent](https://www.last.fm/music/Fred+Mug/_/Accent)** - Fred Mug<br/>
+> ∙ **[Basics (Idol One)](https://www.last.fm/music/Fred+Mug/_/Basics+(Idol+One))** - Fred Mug<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
