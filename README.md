@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Abjection](https://www.last.fm/music/Fred+Mug/_/Abjection)** - Fred Mug<br/>
-- **[Accent](https://www.last.fm/music/Fred+Mug/_/Accent)** - Fred Mug<br/>
-- **[Basics (Idol One)](https://www.last.fm/music/Fred+Mug/_/Basics+(Idol+One))** - Fred Mug<br/>
-- **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
-- **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
-- **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[All the Right Moves](https://www.last.fm/music/StreamBeats+Music/_/All+the+Right+Moves)** - StreamBeats Music<br/>
+> ∙ **[All the Right Moves](https://www.last.fm/music/StreamBeats+Music/_/All+the+Right+Moves)** - StreamBeats Music<br/>
+> ∙ **[All the Right Moves](https://www.last.fm/music/StreamBeats+Music/_/All+the+Right+Moves)** - StreamBeats Music<br/>
+> ∙ **[Pixel Sunrise](https://www.last.fm/music/StreamBeats+Music/_/Pixel+Sunrise)** - StreamBeats Music<br/>
+> ∙ **[Pixel Sunrise](https://www.last.fm/music/StreamBeats+Music/_/Pixel+Sunrise)** - StreamBeats Music<br/>
+> ∙ **[Pixel Sunrise](https://www.last.fm/music/StreamBeats+Music/_/Pixel+Sunrise)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
