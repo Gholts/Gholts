@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Jesus Is Lord](https://www.last.fm/music/Kanye+West/_/Jesus+Is+Lord)** - Kanye West<br/>
+- **[Use This Gospel (feat. Clipse & Kenny G)](https://www.last.fm/music/Kanye+West/_/Use+This+Gospel+(feat.+Clipse+&+Kenny+G))** - Kanye West<br/>
+- **[Hands On (feat. Fred Hammond)](https://www.last.fm/music/Kanye+West/_/Hands+On+(feat.+Fred+Hammond))** - Kanye West<br/>
+- **[God Is](https://www.last.fm/music/Kanye+West/_/God+Is)** - Kanye West<br/>
+- **[Water (feat. Ant Clemons)](https://www.last.fm/music/Kanye+West/_/Water+(feat.+Ant+Clemons))** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
