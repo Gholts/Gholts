@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Selah](https://www.last.fm/music/Kanye+West/_/Selah)** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[All the Right Moves](https://www.last.fm/music/StreamBeats+Music/_/All+the+Right+Moves)** - StreamBeats Music<br/>
-> ∙ **[All the Right Moves](https://www.last.fm/music/StreamBeats+Music/_/All+the+Right+Moves)** - StreamBeats Music<br/>
-> ∙ **[All the Right Moves](https://www.last.fm/music/StreamBeats+Music/_/All+the+Right+Moves)** - StreamBeats Music<br/>
-> ∙ **[Pixel Sunrise](https://www.last.fm/music/StreamBeats+Music/_/Pixel+Sunrise)** - StreamBeats Music<br/>
+- **[Selah](https://www.last.fm/music/Kanye+West/_/Selah)** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[All the Right Moves](https://www.last.fm/music/StreamBeats+Music/_/All+the+Right+Moves)** - StreamBeats Music<br/>
+- **[All the Right Moves](https://www.last.fm/music/StreamBeats+Music/_/All+the+Right+Moves)** - StreamBeats Music<br/>
+- **[All the Right Moves](https://www.last.fm/music/StreamBeats+Music/_/All+the+Right+Moves)** - StreamBeats Music<br/>
+- **[Pixel Sunrise](https://www.last.fm/music/StreamBeats+Music/_/Pixel+Sunrise)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
