@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
-> ∙ **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
