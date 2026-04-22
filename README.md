@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Gentle Voyage](https://www.last.fm/music/Anajak/_/Gentle+Voyage)** - Anajak<br/>
-> ∙ **[Vapour](https://www.last.fm/music/Waiting+For+Nova/_/Vapour)** - Waiting For Nova<br/>
-> ∙ **[Linger](https://www.last.fm/music/Soli/_/Linger)** - Soli<br/>
-> ∙ **[Anara](https://www.last.fm/music/TRANQL/_/Anara)** - TRANQL<br/>
-> ∙ **[Moonveil](https://www.last.fm/music/Joyous+Jones/_/Moonveil)** - Joyous Jones<br/>
-> ∙ **[Demon](https://www.last.fm/music/StreamBeats+Originals/_/Demon)** - StreamBeats Originals<br/>
+- **[Closed on Sunday](https://www.last.fm/music/Kanye+West/_/Closed+on+Sunday)** - Kanye West<br/>
+- **[Follow God](https://www.last.fm/music/Kanye+West/_/Follow+God)** - Kanye West<br/>
+- **[Selah](https://www.last.fm/music/Kanye+West/_/Selah)** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
+- **[Every Hour (feat. Sunday Service Choir)](https://www.last.fm/music/Kanye+West/_/Every+Hour+(feat.+Sunday+Service+Choir))** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
