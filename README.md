@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
-> ∙ **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
-> ∙ **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
-> ∙ **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
-> ∙ **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
-> ∙ **[Day You Left](https://www.last.fm/music/StreamBeats+Music/_/Day+You+Left)** - StreamBeats Music<br/>
+- **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
+- **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
+- **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
+- **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
+- **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
+- **[Day You Left](https://www.last.fm/music/StreamBeats+Music/_/Day+You+Left)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
