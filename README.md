@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
-> ∙ **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
-> ∙ **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
-> ∙ **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
-> ∙ **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
-> ∙ **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
+- **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
+- **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
+- **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
+- **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
+- **[For Once In My Life](https://www.last.fm/music/Mootugal/_/For+Once+In+My+Life)** - Mootugal<br/>
+- **[Fly Me High](https://www.last.fm/music/StreamBeats+Music/_/Fly+Me+High)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
