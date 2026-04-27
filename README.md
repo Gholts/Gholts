@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-> ∙ **[Ornaments](https://www.last.fm/music/Mosalla/_/Ornaments)** - Mosalla<br/>
-> ∙ **[Apéritif](https://www.last.fm/music/dennisivnvc+&+DYVN/_/Ap%C3%A9ritif)** - dennisivnvc & DYVN<br/>
-> ∙ **[This Is A Story (feat. Rikard From)](https://www.last.fm/music/Xander./_/This+Is+A+Story+(feat.+Rikard+From))** - Xander.<br/>
-> ∙ **[Tokyo Tower](https://www.last.fm/music/Gxnxsis/_/Tokyo+Tower)** - Gxnxsis<br/>
-> ∙ **[Breeze](https://www.last.fm/music/HawkOne/_/Breeze)** - HawkOne<br/>
-> ∙ **[Back On Solid Ground](https://www.last.fm/music/Ervin+Sprinkles/_/Back+On+Solid+Ground)** - Ervin Sprinkles<br/>
+- **[Ornaments](https://www.last.fm/music/Mosalla/_/Ornaments)** - Mosalla<br/>
+- **[Apéritif](https://www.last.fm/music/dennisivnvc+&+DYVN/_/Ap%C3%A9ritif)** - dennisivnvc & DYVN<br/>
+- **[This Is A Story (feat. Rikard From)](https://www.last.fm/music/Xander./_/This+Is+A+Story+(feat.+Rikard+From))** - Xander.<br/>
+- **[Tokyo Tower](https://www.last.fm/music/Gxnxsis/_/Tokyo+Tower)** - Gxnxsis<br/>
+- **[Breeze](https://www.last.fm/music/HawkOne/_/Breeze)** - HawkOne<br/>
+- **[Back On Solid Ground](https://www.last.fm/music/Ervin+Sprinkles/_/Back+On+Solid+Ground)** - Ervin Sprinkles<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
