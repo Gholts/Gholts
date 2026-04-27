@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Breeze](https://www.last.fm/music/HawkOne/_/Breeze)** - HawkOne<br/>
-- **[Back On Solid Ground](https://www.last.fm/music/Ervin+Sprinkles/_/Back+On+Solid+Ground)** - Ervin Sprinkles<br/>
-- **[Between Pages](https://www.last.fm/music/Lake+Zurich/_/Between+Pages)** - Lake Zurich<br/>
-- **[The Big Blue](https://www.last.fm/music/Mama+Aiuto+&+Dan+Gregory/_/The+Big+Blue)** - Mama Aiuto & Dan Gregory<br/>
-- **[Long Way Home](https://www.last.fm/music/dyvn/_/Long+Way+Home)** - dyvn<br/>
-- **[Falling For You](https://www.last.fm/music/dyvn/_/Falling+For+You)** - dyvn<br/>
+> ∙ **[Ornaments](https://www.last.fm/music/Mosalla/_/Ornaments)** - Mosalla<br/>
+> ∙ **[Apéritif](https://www.last.fm/music/dennisivnvc+&+DYVN/_/Ap%C3%A9ritif)** - dennisivnvc & DYVN<br/>
+> ∙ **[This Is A Story (feat. Rikard From)](https://www.last.fm/music/Xander./_/This+Is+A+Story+(feat.+Rikard+From))** - Xander.<br/>
+> ∙ **[Tokyo Tower](https://www.last.fm/music/Gxnxsis/_/Tokyo+Tower)** - Gxnxsis<br/>
+> ∙ **[Breeze](https://www.last.fm/music/HawkOne/_/Breeze)** - HawkOne<br/>
+> ∙ **[Back On Solid Ground](https://www.last.fm/music/Ervin+Sprinkles/_/Back+On+Solid+Ground)** - Ervin Sprinkles<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
