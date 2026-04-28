@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Ornaments](https://www.last.fm/music/Mosalla/_/Ornaments)** - Mosalla<br/>
-- **[Apéritif](https://www.last.fm/music/dennisivnvc+&+DYVN/_/Ap%C3%A9ritif)** - dennisivnvc & DYVN<br/>
-- **[This Is A Story (feat. Rikard From)](https://www.last.fm/music/Xander./_/This+Is+A+Story+(feat.+Rikard+From))** - Xander.<br/>
-- **[Tokyo Tower](https://www.last.fm/music/Gxnxsis/_/Tokyo+Tower)** - Gxnxsis<br/>
-- **[Breeze](https://www.last.fm/music/HawkOne/_/Breeze)** - HawkOne<br/>
-- **[Back On Solid Ground](https://www.last.fm/music/Ervin+Sprinkles/_/Back+On+Solid+Ground)** - Ervin Sprinkles<br/>
+> ∙ **[Spaceship (feat. GLC & Consequence)](https://www.last.fm/music/Kanye+West/_/Spaceship+(feat.+GLC+&+Consequence))** - Kanye West<br/>
+> ∙ **[I'll Fly Away](https://www.last.fm/music/Kanye+West/_/I%27ll+Fly+Away)** - Kanye West<br/>
+> ∙ **[All Falls Down (feat. Syleena Johnson)](https://www.last.fm/music/Kanye+West/_/All+Falls+Down+(feat.+Syleena+Johnson))** - Kanye West<br/>
+> ∙ **[Graduation Day](https://www.last.fm/music/Kanye+West/_/Graduation+Day)** - Kanye West<br/>
+> ∙ **[We Don't Care](https://www.last.fm/music/Kanye+West/_/We+Don%27t+Care)** - Kanye West<br/>
+> ∙ **[Intro](https://www.last.fm/music/Kanye+West/_/Intro)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
