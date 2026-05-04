@@ -25,12 +25,12 @@
         <div align="left">
         
 <!--START_LASTFM_RECENT:{"rows": 6}-->
-- **[Ether](https://www.last.fm/music/StreamBeats+Music/_/Ether)** - StreamBeats Music<br/>
-- **[Skyward](https://www.last.fm/music/StreamBeats+Music/_/Skyward)** - StreamBeats Music<br/>
-- **[Guilty Spark](https://www.last.fm/music/StreamBeats+Music/_/Guilty+Spark)** - StreamBeats Music<br/>
-- **[Mute City](https://www.last.fm/music/StreamBeats+Music/_/Mute+City)** - StreamBeats Music<br/>
-- **[Desync](https://www.last.fm/music/StreamBeats+Music/_/Desync)** - StreamBeats Music<br/>
-- **[Unfortunate Fate](https://www.last.fm/music/StreamBeats+Music/_/Unfortunate+Fate)** - StreamBeats Music<br/>
+> ∙ **[Ether](https://www.last.fm/music/StreamBeats+Music/_/Ether)** - StreamBeats Music<br/>
+> ∙ **[Skyward](https://www.last.fm/music/StreamBeats+Music/_/Skyward)** - StreamBeats Music<br/>
+> ∙ **[Guilty Spark](https://www.last.fm/music/StreamBeats+Music/_/Guilty+Spark)** - StreamBeats Music<br/>
+> ∙ **[Mute City](https://www.last.fm/music/StreamBeats+Music/_/Mute+City)** - StreamBeats Music<br/>
+> ∙ **[Desync](https://www.last.fm/music/StreamBeats+Music/_/Desync)** - StreamBeats Music<br/>
+> ∙ **[Unfortunate Fate](https://www.last.fm/music/StreamBeats+Music/_/Unfortunate+Fate)** - StreamBeats Music<br/>
 <!--END_LASTFM_RECENT-->
         
 </div>
