@@ -1,16 +1,34 @@
-## Hi there 👋
-
-<!--
-**Gholts/gholts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+    <kbd>
+        <a href="https://proxies.foo/">
+            <img
+                src="https://img.shields.io/badge/Blog-black?logo=astro&logoColor=white&style=flat"
+                alt="Blog"
+            />
+        </a>
+    </kbd>
+    <kbd>
+        <a href="https://x.com/GhostMxv/">
+            <img
+                src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=flat"
+                alt="Twitter"
+            />
+        </a>
+    </kbd>
+    <kbd>
+        <a href="https://t.me/Gholts0/">
+            <img
+                src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat"
+                alt="Telegram"
+            />
+        </a>
+    </kbd>
+    <kbd>
+        <a href="mailto:dev@proxies.foo">
+            <img
+                src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=flat"
+                alt="Mail"
+            />
+        </a>
+    </kbd>
+</div>
